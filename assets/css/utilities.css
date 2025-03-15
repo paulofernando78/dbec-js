@@ -1,0 +1,9 @@
+.line-break {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.underline {
+  text-decoration: underline;
+}

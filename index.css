@@ -1,0 +1,41 @@
+.home__button__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.home__logo__image__container {
+  margin: 2rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.home__presentation__container {
+  padding: clamp(0.625px, 2vw, 1.25rem);
+}
+
+
+
+.home__flag__image {
+  width: 400px;
+  height: auto;
+  margin-bottom: 50px;
+}
+
+.home__gif__image {
+  width: 100px;
+  height: 100px;
+  margin: 0 37px 0 0px;
+}
+
+.home__computer__image {
+  width: 230px;
+  height: 230px;
+  margin-bottom: 20px;
+}
+
+footer p {
+  text-align: center;
+  font-size: 1rem;
+}

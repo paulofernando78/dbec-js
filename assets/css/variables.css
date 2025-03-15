@@ -1,0 +1,42 @@
+:root {
+  scrollbar-gutter: stable;
+  --padding: 0.5rem;
+  --background: #e0e0e0;
+  --button__color: #e0e0e0;
+  --border: 1px solid rgb(153, 153, 153);
+  --border-radius: 5px;
+  --img-border: 5px solid rgba(211, 211, 211, 0.233);
+  --img-border: 5px solid grey;
+  --text-color: #000000;
+
+  /* Book colors */
+  --beginner: #fcc418;
+  --elementary: #ec3b3b;
+  --pre-intermediate: #1f8feb;
+  --intermediate: #81c221;
+  --upper-intermediate: #9b59b6;
+  --advanced: #8e44ad;
+  --isActive: #f77d7a;
+
+  /* Neumorphism */
+  --neumorphism:
+    -2px -2px 3px rgba(255, 255, 255, 1),
+     3px 3px 6px rgba(0, 0, 0, 0.15);
+  --neumorphism-active:
+  inset -3px -3px 6px rgba(255, 255, 255, 1),
+  inset 3px 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+[data-theme="dark"] {
+  --background: #18191F;
+  --text-color: #ffffff;
+  --button__color: #18191F;
+  
+  --neumorphism:
+  2px 2px 1px #000000,
+  -1px -1px 1px #2c2c2c;
+  
+  --neumorphism-active:
+  -.5px -.5px 1px #000000,
+  1px 1px 1px #2c2c2c;
+}
