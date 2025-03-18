@@ -11,19 +11,48 @@
   justify-content: center;
 }
 
-.home__presentation__container {
-  padding: clamp(0.625px, 2vw, 1.25rem);
+.home__logo__wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.625rem;
+  margin-bottom: 30px;
 }
 
+.home__logo__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 
+  .daily-basis,
+  .english-course {
+    font-family: "Impact", sans-serif;
+    font-weight: bold;
+    white-space: nowrap;
+    text-shadow: var(--text-shadow);
+  }
+  
+  .daily-basis {
+    font-size: 4rem;
 
-.home__flag__image {
-  width: 400px;
+  }
+
+  .english-course {
+    font-size: 2.850rem;
+    position: relative;
+    bottom: 12.8px;
+  }
+}
+
+.home__logo__flag__container {
+  max-width: 107px;
   height: auto;
-  margin-bottom: 50px;
+  position: relative;
+  bottom: 6px;
 }
 
-.home__gif__image {
+.home__how__image {
   width: 100px;
   height: 100px;
   margin: 0 37px 0 0px;
@@ -31,7 +60,7 @@
 
 .home__computer__image {
   width: 230px;
-  height: 230px;
+  height: auto;
   margin-bottom: 20px;
 }
 

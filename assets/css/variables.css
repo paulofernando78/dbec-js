@@ -8,6 +8,7 @@
   --img-border: 5px solid rgba(211, 211, 211, 0.233);
   --img-border: 5px solid grey;
   --text-color: #000000;
+  --text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
 
   /* Book colors */
   --beginner: #fcc418;

@@ -26,7 +26,6 @@ class WcButton extends HTMLElement {
           width: 100%;
           height: 100%;
           fill: #a8a8a8;
-          transition: transform .1s;
         }
 
         button.active svg {

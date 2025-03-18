@@ -17,7 +17,7 @@
     <!-- Index.js -->
     <script defer type="module" src="/index.js"></script>
   </head>
-  
+
   <body>
     <!-- Header -->
     <header class="home__button__container">
@@ -26,15 +26,22 @@
     </header>
     <!-- Logo + Image -->
     <section class="home__logo__image__container">
-      <img
-        src="/assets/img/home/logo.gif"
-        alt="Uk and USA flag"
-        class="home__flag__image"
-      />
+      <div class="home__logo__wrapper">
+        <div class="home__logo__container">
+          <span class="daily-basis">DAILY BASIS</span>
+          <span class="english-course">ENGLISH COURSE</span>
+        </div>
+        <div class="home__logo__flag__container">
+          <img
+            src="/assets/img/usa-flag.gif"
+            alt="USA flag"
+          />
+        </div>
+      </div>
       <img
         src="/assets/img/home/how-you-doing.gif"
         alt="How you doing?"
-        class="home__gif__image"
+        class="home__how__image"
       />
       <img
         src="/assets/img/home/me-computer.png"
@@ -43,7 +50,7 @@
       />
     </section>
     <!-- Presentation -->
-    <section class="home__presentation__container line-break">
+    <main class="home__presentation__container line-break">
       <p>
         <strong>DAILY BASIS ENGLISH COURSE</strong> oferece aulas especializadas
         na língua Inglesa, fundamentando-se nas quatro habilidades como
@@ -53,7 +60,7 @@
         <span class="underline">Writing</span> (Escrita).
       </p>
       <ul id="info"></ul>
-    </section>
+    </main>
     <hr class="hr-customization" />
     <!-- Footer -->
     <footer>
