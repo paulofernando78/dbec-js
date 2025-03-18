@@ -14,19 +14,23 @@ class WcButton extends HTMLElement {
           border-radius: 100%;
           display: inline-block;
           cursor: pointer;
-          transition: background 0.3s;
           position: relative;
-        }
 
-        button.active {
+          }
+          
+          button.active {
           box-shadow: var(--neumorphism-active);
         }
 
         button svg {
           width: 100%;
           height: 100%;
-          fill: var(--color);
-         
+          fill: #a8a8a8;
+          transition: transform .1s;
+        }
+
+        button.active svg {
+          transform: scale(0.950);
         }
       </style>
 
@@ -35,16 +39,22 @@ class WcButton extends HTMLElement {
       </button>
     `;
     this.button = this.shadowRoot.querySelector("button");
+    this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");
+    this.buttonReleased = new Audio("/assets/audio/button-released.mp3");
   }
 
   connectedCallback() {
     this.button.addEventListener("mousedown", () => {
-      this.button.classList.toggle("active")
-    })
+      this.button.classList.toggle("active");
+      this.buttonClicked.currentTime = 0;
+      this.buttonClicked.play();
+    });
 
     this.button.addEventListener("mouseup", () => {
-      this.button.classList.toggle("active")
-    })
+      this.button.classList.toggle("active");
+      this.buttonReleased.currentTime = 0;
+      this.buttonReleased.play();
+    });
   }
 }
 
