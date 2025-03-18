@@ -1,31 +1,51 @@
-class wcButton extends HTMLElement {
+import { login } from "../../assets/img/index.js";
+
+class WcButton extends HTMLElement {
   constructor() {
     super();
-
     this.attachShadow({ mode: "open" });
-
     this.shadowRoot.innerHTML = `
       <style>
         button {
-          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        width: 35px;
+        height: 35px;
+          box-shadow: var(--neumorphism);
           border: none;
-          border-radius: 50%;
-          color: white;
-          padding: 15px 32px;
-          text-align: center;
-          text-decoration: none;
+          border-radius: 100%;
           display: inline-block;
           cursor: pointer;
           transition: background 0.3s;
+          position: relative;
+        }
+
+        button.active {
+          box-shadow: var(--neumorphism-active);
+        }
+
+        button svg {
+          width: 100%;
+          height: 100%;
+          fill: var(--color);
+         
         }
       </style>
-      
+
       <button>
-        <slot></slot>
+        ${login}
       </button>
     `;
+    this.button = this.shadowRoot.querySelector("button");
+  }
+
+  connectedCallback() {
+    this.button.addEventListener("mousedown", () => {
+      this.button.classList.toggle("active")
+    })
+
+    this.button.addEventListener("mouseup", () => {
+      this.button.classList.toggle("active")
+    })
   }
 }
 
-// Registrando o componente
-customElements.define("wc-button", wcButton);
+customElements.define("wc-button", WcButton);

@@ -1,25 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-  <link rel="stylesheet" href="global.css" />
-  <link rel="stylesheet" href="index.css" />
-  <link rel="stylesheet" href="/assets/css/reset.css" />
-  <link rel="stylesheet" href="/assets/css/variables.css" />
-  <link rel="stylesheet" href="/assets/css/typography.css" />
-  <link rel="stylesheet" href="/assets/css/utilities.css" />
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
     <title>DAILY BASIS ENGLISH COURSE</title>
+
+    <!-- Links -->
+    <link rel="stylesheet" href="global.css" />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="stylesheet" href="/assets/css/reset.css" />
+    <link rel="stylesheet" href="/assets/css/variables.css" />
+    <link rel="stylesheet" href="/assets/css/typography.css" />
+    <link rel="stylesheet" href="/assets/css/utilities.css" />
+
+    <!-- Components -->
+    <script defer type="module" src="/components/atoms/Button.js"></script>
   </head>
-  <!-- Components -->
-  <script type="module" src="/components/atoms/button.js"></script>
+  
   <body>
     <!-- Header -->
-    <div class="home__button__container">
-      <wc-button></wc-button>
-      <wc-button></wc-button>
-    </div>
+    <header class="home__button__container">
+      <wc-button icon=""></wc-button>
+      <wc-button icon=""></wc-button>
+    </header>
     <!-- Logo + Image -->
     <section class="home__logo__image__container">
       <img
@@ -48,19 +52,7 @@
         <span class="underline">Reading</span> (Leitura) e
         <span class="underline">Writing</span> (Escrita).
       </p>
-      <ul>
-        <li>Aula individual ou em grupo.</li>
-        <li>
-          Material como áudios, vídeos e exercícios online. Clique aqui
-          (Amostra)
-        </li>
-        <li>
-          Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do
-          professor. Clique aqui
-        </li>
-        <li>Sobre</li>
-        <li>Preço</li>
-      </ul>
+      <ul id="info"></ul>
     </section>
     <hr class="hr-customization" />
     <!-- Footer -->
@@ -68,4 +60,23 @@
       <p>© 2025 DAILY BASIS ENGLISH COURSE</p>
     </footer>
   </body>
+  <script>
+    const infoList = [
+      "Aula individual ou em grupo.",
+      "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)",
+      "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor. Clique aqui",
+      "Sobre",
+      "Preço",
+    ];
+
+    const info = document.getElementById("info");
+
+    const infoListItems = infoList.map((item) => {
+      const li = document.createElement("li");
+      li.textContent = item;
+      return li;
+    });
+
+    info.append(...infoListItems);
+  </script>
 </html>
