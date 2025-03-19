@@ -56,5 +56,3 @@ export class WcButton extends HTMLElement {
     });
   }
 }
-
-// customElements.define("wc-button", WcButton);
