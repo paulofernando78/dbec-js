@@ -1,4 +1,4 @@
-import { login } from "../../assets/img/index.js";
+import { login } from "../../../assets/img/index.js";
 
 export class WcButton extends HTMLElement {
   constructor() {
