@@ -1,6 +1,6 @@
 import { login } from "../../assets/img/index.js";
 
-class WcButton extends HTMLElement {
+export class WcButton extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
