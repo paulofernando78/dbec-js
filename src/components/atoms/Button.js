@@ -42,6 +42,10 @@ export class WcButton extends HTMLElement {
     this.buttonReleased = new Audio("/assets/audio/button-released.mp3");
   }
 
+  static get observedAttributes() {
+    return ["svg"]
+  }
+
   connectedCallback() {
     // Add accessibility attributes
     if (!this.hasAttribute("aria-label")) {
@@ -98,3 +102,6 @@ export class WcButton extends HTMLElement {
     this.button.removeEventListener("keyup", this.handleKeyUp);
   }
 }
+
+customElements.define("wc-button", WcButton);
+
