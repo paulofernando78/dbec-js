@@ -43,16 +43,58 @@ export class WcButton extends HTMLElement {
   }
 
   connectedCallback() {
+    // Add accessibility attributes
+    if (!this.hasAttribute("aria-label")) {
+      this.button.setAttribute("aria-label", "Login");
+    }
+
+    // Add keyboard support
+    this.button.setAttribute("tabindex", "0");
+    this.button.addEventListener("keydown", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        this.button.classList.add("active");
+        this.buttonClicked.currentTime = 0;
+        this.buttonClicked
+          .play()
+          .catch((e) => console.warn("Audio playback failed", e));
+      }
+    });
+
+    this.button.addEventListener("keyup", (e) => {
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        this.button.classList.remove("active");
+        this.buttonReleased.currentTime = 0;
+        this.buttonReleased
+          .play()
+          .catch((e) => console.warn("Audio playback failed", e));
+      }
+    });
+
+    // Fix existing event listeners to use add/remove rather than toggle
     this.button.addEventListener("mousedown", () => {
-      this.button.classList.toggle("active");
+      this.button.classList.add("active");
       this.buttonClicked.currentTime = 0;
-      this.buttonClicked.play();
+      this.buttonClicked
+        .play()
+        .catch((e) => console.warn("Audio playback failed", e));
     });
 
     this.button.addEventListener("mouseup", () => {
-      this.button.classList.toggle("active");
+      this.button.classList.remove("active");
       this.buttonReleased.currentTime = 0;
-      this.buttonReleased.play();
+      this.buttonReleased
+        .play()
+        .catch((e) => console.warn("Audio playback failed", e));
     });
+  }
+
+  disconnectedCallback() {
+    // Clean up event listeners when component is removed
+    this.button.removeEventListener("mousedown", this.handleMouseDown);
+    this.button.removeEventListener("mouseup", this.handleMouseUp);
+    this.button.removeEventListener("keydown", this.handleKeyDown);
+    this.button.removeEventListener("keyup", this.handleKeyUp);
   }
 }
