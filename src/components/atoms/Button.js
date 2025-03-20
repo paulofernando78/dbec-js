@@ -73,7 +73,6 @@ export class WcButton extends HTMLElement {
       }
     });
 
-    // Fix existing event listeners to use add/remove rather than toggle
     this.button.addEventListener("mousedown", () => {
       this.button.classList.add("active");
       this.buttonClicked.currentTime = 0;
@@ -83,6 +82,22 @@ export class WcButton extends HTMLElement {
     });
 
     this.button.addEventListener("mouseup", () => {
+      this.button.classList.remove("active");
+      this.buttonReleased.currentTime = 0;
+      this.buttonReleased
+        .play()
+        .catch((e) => console.warn("Audio playback failed", e));
+    });
+
+    this.button.addEventListener("touchstart", () => {
+      this.button.classList.add("active");
+      this.buttonClicked.currentTime = 0;
+      this.buttonClicked
+        .play()
+        .catch((e) => console.warn("Audio playback failed", e));
+    });
+
+    this.button.addEventListener("touchend", () => {
       this.button.classList.remove("active");
       this.buttonReleased.currentTime = 0;
       this.buttonReleased
