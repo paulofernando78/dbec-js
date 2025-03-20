@@ -1,5 +1,5 @@
 body {
-  background: var(--background);
+  background-color: var(--background-color);
   color: var(--text-color);
   max-width: 1050px;
   font-family: "Montserrat", sans-serif;

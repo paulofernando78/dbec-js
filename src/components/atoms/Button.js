@@ -1,4 +1,4 @@
-import { login } from "../../../assets/img/index.js";
+import { login } from "../../../assets/js/svg-icons.js";
 
 export class WcButton extends HTMLElement {
   constructor() {
@@ -7,17 +7,18 @@ export class WcButton extends HTMLElement {
     this.shadowRoot.innerHTML = `
       <style>
         button {
+        // display: inline-block;
+        background-color: var(--button-color);
         width: 35px;
         height: 35px;
-          box-shadow: var(--neumorphism);
-          border: none;
-          border-radius: 100%;
-          display: inline-block;
-          cursor: pointer;
-          position: relative;
+        box-shadow: var(--neumorphism);
+        border: none;
+        border-radius: 100%;
+        cursor: pointer;
+        position: relative;
 
-          }
-          
+        }
+
           button.active {
           box-shadow: var(--neumorphism-active);
         }
@@ -40,10 +41,6 @@ export class WcButton extends HTMLElement {
     this.button = this.shadowRoot.querySelector("button");
     this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");
     this.buttonReleased = new Audio("/assets/audio/button-released.mp3");
-  }
-
-  static get observedAttributes() {
-    return ["svg"]
   }
 
   connectedCallback() {
@@ -104,4 +101,3 @@ export class WcButton extends HTMLElement {
 }
 
 customElements.define("wc-button", WcButton);
-

@@ -1,18 +1,5 @@
-const template = document.createElement("template");
-template.innerHTML = `
-  <style>
-    img {
-      margin-right: .625rem;
-    }
-  </style>
-  <ul>
-    <li>
-      <img src=${imgSrc} alt=${imgAlt}>${item}
-    </li>
-  </ul>
-`;
 
-class IconList extends HTMLElement {
+export class WcIconList extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -25,11 +12,10 @@ class IconList extends HTMLElement {
       </style>
       <ul>
         <li>
-        <img src=${imgSrc} alt=${imgAlt}>${item}
+        ${svg}>${item}
+        <p>teste</p>
         </li>
       </ul>
     `;
   }
 }
-
-customElements.define("wc-icon-list", IconList);
