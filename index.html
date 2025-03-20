@@ -16,14 +16,12 @@
 
     <!-- JS -->
     <script defer type="module" src="/index.js"></script>
-    <script defer type="module" src="/assets/js/web-components.js"></script>
+    <script defer type="module" src="/assets/js/components.js"></script>
 
     <!-- Images -->
     <link rel="preload" href="/assets/img/home/usa-flag.gif" as="image" />
     <link rel="preload" href="/assets/img/home/how-you-doing.gif" as="image" />
     <link rel="preload" href="/assets/img/home/me-computer.avif" as="image" />
-
-    
   </head>
 
   <body>
@@ -64,7 +62,24 @@
         <span class="underline">Reading</span> (Leitura) e
         <span class="underline">Writing</span> (Escrita).
       </p>
-      <ul id="info"></ul>
+      <wc-icon-list items='[
+      {
+        "list": "Aula individual ou em grupo."
+      },
+      {
+        "list": "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)."
+      },
+      {
+        "list": "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor. Clique aqui."
+      },
+      {
+        "list": "Sobre"
+      },
+      {
+        "list": "Preço"
+      }
+    ]'>
+    </wc-icon-list>
     </main>
     <hr class="hr-customization" />
     <!-- Footer -->
@@ -72,23 +87,4 @@
       <p>© 2025 DAILY BASIS ENGLISH COURSE</p>
     </footer>
   </body>
-  <script>
-    const infoList = [
-      "Aula individual ou em grupo.",
-      "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)",
-      "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor. Clique aqui",
-      "Sobre",
-      "Preço",
-    ];
-
-    const info = document.getElementById("info");
-
-    const infoListItems = infoList.map((item) => {
-      const li = document.createElement("li");
-      li.textContent = item;
-      return li;
-    });
-
-    info.append(...infoListItems);
-  </script>
 </html>
