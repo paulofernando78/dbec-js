@@ -5,10 +5,21 @@ export class WcIconList extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
+    const style = document.createElement("style");
+    style.textContent = `
+      ul {
+        padding: 0;
+        }
+      li {
+        list-style-type: none;
+      }
+    `;
+
     const ul = document.createElement("ul");
     const li = document.createElement("li");
-    li.innerHTML = "aaa";
+    li.innerHTML = this.getAttribute("list");
 
+    this.shadowRoot.appendChild(style);
     this.shadowRoot.appendChild(ul);
     this.shadowRoot.appendChild(li);
   }
