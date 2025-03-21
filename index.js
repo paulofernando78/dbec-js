@@ -8,6 +8,8 @@ style.textContent = `
     list-style-type: none;
     font-size: 1.5rem;
     font-weight: bold;
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
   }
 `;
 
@@ -16,6 +18,7 @@ const phraseList = [
   "How are you doing?",
   "How's it going?",
   "What's up?",
+  "How are you feeling?",
 ];
 
 let index = 0;
@@ -25,8 +28,13 @@ ul.appendChild(li);
 phrases.appendChild(ul);
 
 function updatePhrase() {
-  li.textContent = phraseList[index];
-  index = (index + 1) % phraseList.length;
+  li.style.opacity = 0; // Aplica fade-out
+
+  setTimeout(() => {
+    li.textContent = phraseList[index]; // Troca a frase
+    li.style.opacity = 1; // Aplica fade-in
+    index = (index + 1) % phraseList.length;
+  }, 500); // Tempo deve ser igual ao da transição CSS
 }
 
 updatePhrase();
