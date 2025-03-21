@@ -26,8 +26,8 @@
   <body>
     <!-- Header -->
     <header class="home__button__container">
-      <wc-button icon=""></wc-button>
-      <wc-button icon=""></wc-button>
+      <wc-button data-icon="login" link=""></wc-button>
+      <wc-button data-icon="darkMode"></wc-button>
     </header>
     <!-- Logo + Image -->
     <section class="home__logo__image__container">
@@ -57,7 +57,15 @@
         <span class="underline">Reading</span> (Leitura) e
         <span class="underline">Writing</span> (Escrita).
       </p>
-      <wc-icon-list list="aaa"></wc-icon-list>
+      <wc-icon-list
+        items='[
+    "Aula individual ou em grupo.",
+    "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)",
+    "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor. Clique aqui",
+    "Sobre",
+    "Preço"
+  ]'
+      ></wc-icon-list>
     </main>
     <hr class="hr-customization" />
     <!-- Footer -->

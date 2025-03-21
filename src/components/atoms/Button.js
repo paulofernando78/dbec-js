@@ -1,11 +1,9 @@
-import { login } from "../../../assets/js/svg-icons.js";
+import { login, darkMode, lightMode } from "../../../assets/js/svg-icons.js";
 
-export class WcButton extends HTMLElement {
-  constructor() {
-    super();
-    this.attachShadow({ mode: "open" });
-    this.shadowRoot.innerHTML = `
-      <style>
+const template = document.createElement("template");
+
+template.innerHTML = `
+<style>
         button {
         // display: inline-block;
         background-color: var(--button-color);
@@ -34,16 +32,29 @@ export class WcButton extends HTMLElement {
         }
       </style>
 
-      <button>
-        ${login}
-      </button>
-    `;
+      <button></button>
+`;
+export class WcButton extends HTMLElement {
+  constructor() {
+    super();
+    this.attachShadow({ mode: "open" });
+    this.shadowRoot.appendChild(template.content.cloneNode(true));
+
     this.button = this.shadowRoot.querySelector("button");
     this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");
     this.buttonReleased = new Audio("/assets/audio/button-released.mp3");
   }
 
-  connectedCallback() {
+connectedCallback() {
+    const icon = this.getAttribute("data-icon");
+    const svgIcons = {
+      login: login,
+      darkMode: darkMode,
+      lightMode: lightMode,
+    };
+
+    this.button.innerHTML = svgIcons[icon];
+
     // Add accessibility attributes
     if (!this.hasAttribute("aria-label")) {
       this.button.setAttribute("aria-label", "Login");
