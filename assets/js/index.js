@@ -6,8 +6,11 @@ const style = document.createElement("style");
 style.textContent = `
   li {
     list-style-type: none;
-    font-size: 1.5rem;
+    font-family: "Slackey", sans-serif;
+    font-size: 2rem;
     font-weight: bold;
+    -webkit-text-stroke: 1px gray;
+    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
   }
