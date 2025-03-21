@@ -7,10 +7,8 @@ style.textContent = `
   li {
     list-style-type: none;
     font-family: "Slackey", sans-serif;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: bold;
-    -webkit-text-stroke: 1px gray;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.5);
     opacity: 1;
     transition: opacity 0.5s ease-in-out;
   }
@@ -21,6 +19,7 @@ const phraseList = [
   "How are you doing?",
   "How's it going?",
   "What's up?",
+  "How are you?",
   "How are you feeling?",
 ];
 
