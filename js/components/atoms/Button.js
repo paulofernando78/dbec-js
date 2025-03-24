@@ -1,13 +1,13 @@
 import { login, darkMode, lightMode } from "../../../js/svg-icons.js";
 
-export class WcButton extends HTMLElement {
+class WcButton extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
 
     const style = document.createElement("style");
     style.textContent = `
-button {
+      button {
         background-color: var(--button-color);
         width: 35px;
         height: 35px;
@@ -31,7 +31,7 @@ button {
         button.active svg {
           transform: scale(0.950);
         }
-`;
+      `;
     const template = document.createElement("template");
     template.innerHTML = `
   <button></button>
@@ -136,3 +136,5 @@ button {
 }
 
 customElements.define("wc-button", WcButton);
+
+export default WcButton;

@@ -17,6 +17,7 @@
     <!-- JS -->
     <script defer type="module" src="/js/index.js"></script>
     <script defer type="module" src="/js/components.js"></script>
+    <script defer type="module" src="/js/app.js"></script>
 
     <!-- Images -->
     <link rel="preload" href="/assets/img/home/usa-flag.gif" as="image" />
@@ -24,9 +25,11 @@
   </head>
 
   <body>
-    <!-- Header -->
+    <!-- Header + Buttons-->
     <header class="home__button__container">
-      <wc-button data-icon="login" onclick="redirecToLayout"></wc-button>
+      <div id="dashboard">
+        <wc-button data-icon="login" id="loginButton"></wc-button>
+      </div>
       <wc-button data-icon="darkMode"></wc-button>
     </header>
     <!-- Logo + Image -->
@@ -47,6 +50,8 @@
         class="home__computer__image"
       />
     </section>
+    <wc-layout></wc-layout>
+    <wc-whiteboard></wc-whiteboard>
     <!-- Presentation -->
     <main class="home__presentation__container line-break">
       <p>

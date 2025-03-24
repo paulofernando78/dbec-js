@@ -16,7 +16,7 @@ template.innerHTML = `
   </div>
   `;
 
-class name {
+class WcHeader extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -24,3 +24,5 @@ class name {
     this.shadowRoot.appendChild(style);
   }
 }
+
+export default WcHeader;

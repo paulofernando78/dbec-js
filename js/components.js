@@ -1,5 +1,7 @@
 // Components
-import { WcButton } from "/js/components/atoms/Button.js";
+import WcButton from "./components/atoms/Button.js";
+import WcLayout from "./components/organisms/Layout.js";
+import WcWhiteboard from "./components/molecules/Whiteboard.js";
 
 // Function to register Web Components without repeating
 const registerComponent = (name, component) => {
@@ -10,3 +12,5 @@ const registerComponent = (name, component) => {
 
 // Register components
 registerComponent("wc-button", WcButton);
+registerComponent("wc-layout", WcLayout);
+registerComponent("wc-whiteboard", WcWhiteboard);

@@ -1,30 +1,25 @@
-const style = document.createElement('style');
-style.textContent = `
-  .header-navbar-container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-`;
-
-const template = document.createElement('template');
-template.innerHTML = `
-  <div class="header-navbar-container">
-    <wc-header></wc-header>
-    <wc-nav-bar></wc-nav-bar>
-  </div>
-  <main id="root">
-    <wc-welcome></wc-welcome>
-  </main>
-`;
-
-class Layout extends HTMLElement {
+class WcLayout extends HTMLElement {
   constructor() {
     super();
-    this.attachShadow({ mode: 'open' });
-    this.shadowRoot.appendChild(style);
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    this.attachShadow({ mode: "open" });
+    this.shadowRoot.innerHTML = `
+    <style>
+      .header-navbar-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background-color: #f8f9fa;
+        padding: 20px;
+      }
+    </style>
+        <wc-navbar></wc-navbar>
+        teste
+        <main id=root><main>
+    `;
   }
 }
-  
+
+customElements.define("wc-layout", WcLayout);
+
+export default WcLayout;

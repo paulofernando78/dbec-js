@@ -1,3 +1,5 @@
+import WcLayout from "./components/organisms/Layout.js";
+
 const phrases = document.querySelector(".home__phrases__display");
 const ul = document.createElement("ul");
 const li = document.createElement("li");
@@ -42,6 +44,13 @@ function updatePhrase() {
 updatePhrase();
 setInterval(updatePhrase, 2000);
 
-function redirectToLayout() {
-  window.Location.href = "/src/components/organisms/Layout.js";
+if (!customElements.get("wc-layout")) {
+  customElements.define("wc-layout", WcLayout)
 }
+
+document.getElementById("loginButton").addEventListener("click", () => {
+  history.pushState({}, "", /dashboard/);
+  document.body.innerHTML = "";
+  const layout = document.createElement("wc-layout");
+  document.body.appendChild(layout);
+});

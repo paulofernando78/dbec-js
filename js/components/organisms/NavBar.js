@@ -47,3 +47,5 @@ class NavBar {
 }
 
 customElements.define("wc-nav-bar", NavBar);
+
+export default NavBar;
