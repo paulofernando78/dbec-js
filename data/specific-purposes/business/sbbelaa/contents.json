@@ -1,0 +1,115 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Speak BETTER Business English Like an American"]
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 1-5",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-1",
+                  "linkLabel": "Lesson 1 • Politely disagreeing with someone"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-2",
+                  "linkLabel": "Lesson 2 • Telling somebody off"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-3",
+                  "linkLabel": "Lesson 3 • Discussing office scandals"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-4",
+                  "linkLabel": "Lesson 4 • Complaining about a co-worker"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-5",
+                  "linkLabel": "Lesson 5 • Talking about a brown noser"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 1-5"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 6-10",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-6",
+                  "linkLabel": "Lesson 6 • Explaining that you're feeling overworked"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-7",
+                  "linkLabel": "Lesson 7 • Calling in sick"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-8",
+                  "linkLabel": "Lesson 8 • Requesting a bank loan"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-9",
+                  "linkLabel": "Lesson 9 • Negotiating a purchase"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-10",
+                  "linkLabel": "Lesson 10 • Conducting a performance review"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 6-10"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 11-15",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-11",
+                  "linkLabel": "Lesson 11 • Promoting an employee"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-12",
+                  "linkLabel": "Lesson 12 • Firing somebody"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-13",
+                  "linkLabel": "Lesson 13 • Job interview 1"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-14",
+                  "linkLabel": "Lesson 14 • Job interview 2"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa/lesson-15",
+                  "linkLabel": "Lesson 15 • Negotiating a salary offer"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 11-15"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

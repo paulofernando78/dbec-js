@@ -1,0 +1,263 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 14 • Taking Credit For Good Results"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-14.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 14 • Taking Credit for Good Results</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "When United Supply Company launches their website three weeks ahead of schedule, there's more than one person ready to take credit."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kurt:</b> Wow, Bob, that's a first for this company! How did you <b>pull that off</b>?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Bob:</b> I <b>burned the midnight oil</b> over these past few weeks. I <b>worked my tail off</b>. Sometimes things would get tough, but I always <b>kept my eye on the prize</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tara:</b> Let's not forget about Jim in technical support. He really <b>hunkered down</b> these past few days, working <b>around the clock</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Bob:</b> Yeah, Jim's a real <b>team player</b>. He helped a lot."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kurt:</b> Well, that's not surprising. Jim's always ready to <b>pitch in</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Bob:</b> Of course, you deserve a <b>pat on the back</b>, too, Kurt. None of this would've been possible without your leadership."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kurt:</b> <b>All in a day's work</b>. Providing great leadership <b>comes with the territory</b>. Well, time for some <b>R&R</b>. I'm off to Florida to play golf for a few days. See you next week!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "7d643150-58cc-47ff-b992-9b62bebb99aa",
+      "exercises": [
+        {
+          "id": "",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "d042d729-26f3-4d36-bcff-4cf800d104cb",
+              "question": "1. Your small company is trying to get distribution at Wal-Mart? How are you going to <b>pull that off</b>?",
+              "options": [
+                {
+                  "id": "a21de5b2-9731-42cc-b0c7-497a623d0cda",
+                  "label": "fail to do that",
+                  "isCorrect": false
+                },
+                {
+                  "id": "899108e9-6fce-4bff-a9ba-c110464d2029",
+                  "label": "succeed in doing that",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ab0ccf02-6e82-468d-af8a-50afe6a6e16a",
+                  "label": "compete with them",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "3a7d7b8d-a2ca-468c-ae7e-7a6fdfe0b2b3",
+              "question": "2. If you need help answering phones and taking orders, I'd be happy to <b>pitch in</b>.",
+              "options": [
+                {
+                  "id": "bdd06f56-d96c-40bf-8e0e-2e4d6ca0a8c0",
+                  "label": "hang up on the customers",
+                  "isCorrect": false
+                },
+                {
+                  "id": "50410dfe-3c9a-45cb-bfb9-5e6556e72d62",
+                  "label": "help",
+                  "isCorrect": true
+                },
+                {
+                  "id": "23a056f7-960e-4117-bd4e-8745b9316f19",
+                  "label": "call",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "54764951-8cb3-447e-a59a-cc765b426455",
+              "question": "3. When you're the CEO of a tobacco company, dealing with lawsuits <b>comes with the territory</b>.",
+              "options": [
+                {
+                  "id": "1a4532f0-4b70-4ead-9ef0-d9e3dc3fea9d",
+                  "label": "is a great benefit",
+                  "isCorrect": false
+                },
+                {
+                  "id": "775938ae-5094-4220-a570-cd360873b59f",
+                  "label": "is easily avoided",
+                  "isCorrect": false
+                },
+                {
+                  "id": "add7fac4-040a-4a64-a09e-b0986398ca26",
+                  "label": "is part of the job",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "5db40f06-f3ef-4dab-9882-39f2381f6e2e",
+              "question": "4. If we're going to get all of these orders shipped in time for Christmas, we're going to have to <b>hunker down</b>!",
+              "options": [
+                {
+                  "id": "dd69dec6-5f7b-41d8-8d74-03ee0f2cd1d7",
+                  "label": "close for the holidays",
+                  "isCorrect": false
+                },
+                {
+                  "id": "fa2008b1-0519-469c-92a2-1c6245065b66",
+                  "label": "work really hard",
+                  "isCorrect": true
+                },
+                {
+                  "id": "848f355e-eb97-4aee-9140-ad90caf125fd",
+                  "label": "take it easy",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "58ea312c-27f3-43d1-b680-a4f401d7fefe",
+              "question": "5. During the negotiation, <b>keep your eye on the prize</b> and don't let the other side pressure you into a bad deal.",
+              "options": [
+                {
+                  "id": "d6162dc3-b56c-46e7-ab67-6b85fd864ed5",
+                  "label": "watch the prize carefully",
+                  "isCorrect": false
+                },
+                {
+                  "id": "3a9a04c8-9332-46fd-a3f8-8d1a04b64247",
+                  "label": "stay focused on what's important",
+                  "isCorrect": true
+                },
+                {
+                  "id": "41695b26-85c6-42ce-8ced-a9414691081b",
+                  "label": "grab everything for yourself",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a0d87656-55f0-449a-8df4-ca5cf03d97cf",
+              "question": "6. You think consumers will be willing to pay $50,000 for a high-tech toilet? That's <b>pushing the envelope</b>.",
+              "options": [
+                {
+                  "id": "335e1de9-3edc-47e6-8352-f029fbb94ca9",
+                  "label": "testing the limits of what people will pay",
+                  "isCorrect": true
+                },
+                {
+                  "id": "3567f767-a297-4dd4-aef6-ef9f2ff02f4d",
+                  "label": "a reasonable price",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a2ee1c4d-9240-4c8e-949c-195df87c9738",
+                  "label": "not something to be flushed down a toilet",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "93abdffe-30b6-4309-9a9b-bd229b5d323c",
+              "question": "7. You look exhausted. Why don't you take a few days off and get some <b>R&R</b>?",
+              "options": [
+                {
+                  "id": "d7382faf-0701-429e-8781-799aacd3af57",
+                  "label": "spend some time relaxing",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a79c0293-005b-4a0b-b02f-8695261cf5a6",
+                  "label": "take a trip by train",
+                  "isCorrect": false
+                },
+                {
+                  "id": "cedb1041-396d-4b8b-bec3-dc85a20f181a",
+                  "label": "work extra hours",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d6b0326f-5c59-4971-ad3f-708466429ba0",
+              "question": "8. If we want to submit the business plan by tomorrow afternoon, we're going to have to <b>burn the midnight oil tonight</b>.",
+              "options": [
+                {
+                  "id": "cbfd3f06-97ac-447b-8f39-d1b6137fd3a2",
+                  "label": "work until 7 p.m.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d1dc92ef-fb2e-4ae5-8676-2a9690ba52f7",
+                  "label": "relax",
+                  "isCorrect": false
+                },
+                {
+                  "id": "02ad0284-02b7-4860-9e1e-be49aab9f01e",
+                  "label": "work very late",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

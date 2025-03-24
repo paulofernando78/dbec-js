@@ -1,0 +1,86 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Exams"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "A1-A2",
+          "contents": [
+            {
+              "content": "<b>Pre A1</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "YLE Starters"
+            },
+            {
+              "content": "<b>A1</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "YLE Movers"
+            },
+            {
+              "content": "<b>A2</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "YLE Flyers • KEY (Key English Test)"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "KEY (Key English Test)"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "B1-B2",
+          "contents": [
+            {
+              "content": "<b>B1</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "PET (Preliminary English Test)"
+            },
+            {
+              "content": "<b>B2</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "FCE (First Certificate in English)"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "C1-C2",
+          "contents": [
+            {
+              "content": "<b>C1</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "CAE (Certificate in Advance English)"
+            },
+            {
+              "content": "<b>C2</b>"
+            },
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "CPE (Certificate of Proficiency in English)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

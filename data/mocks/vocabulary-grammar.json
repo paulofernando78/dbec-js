@@ -1,0 +1,59 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "subtitle": "...",
+    "descriptions": ["..."]
+  },
+  "lessons": [
+    {
+      "title": "Warm-up",
+      "bgColor": "black",
+      "textColor": "white",
+      "time": "'5"
+    },
+    {
+      "title": "Introduction",
+      "bgColor": "black",
+      "textColor": "white",
+      "time": "'10"
+    },
+    {
+      "title": "Presentation",
+      "bgColor": "black",
+      "textColor": "white",
+      "time": "'15"
+    },
+    {
+      "subtitle": "Meaning",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "card": "ccq",
+      "cardBgColor": "#F7F09B",
+      "cardTextColor": ""
+    },
+    {
+      "subtitle": "Pronunciation",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "subtitle": "Use / Form",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "title": "Practice",
+      "bgColor": "black",
+      "textColor": "white",
+      "time": "'10"
+    },
+    {
+      "title": "Production",
+      "bgColor": "black",
+      "textColor": "white",
+      "time": "'10"
+    }
+  ]
+}

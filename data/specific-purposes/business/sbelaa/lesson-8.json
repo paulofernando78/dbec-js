@@ -1,0 +1,289 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 8 • Discussing a difficult decision"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-8.png",
+      "imgAlt": "...",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-8.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 8 • Discussing a difficult decision</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Anna, Lynn, and Jeff are thinking about moving their manufacturing facilities from the United States to China. Jeff is having trouble deciding what to do."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anna:</b> We need to decide already whether or not we want to move our manufacturing from the United States to China. Jeff, have you made the final decision?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Jeff:</b> There are <b>pros and cons</b> to moving it to China. I've been <b>back and forth</b> on this issue for months. I'm <b>of two minds</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anna:</b> Jeff, I know this is a <b>tough call</b>, but now is not the time to be <b>wishy-washy</b>. We need to make a decision."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lynn:</b> That's right, and I recommend we <b>bite the bullet</b> and move our operations to China."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anna:</b> Or we could <b>test the waters</b> by moving 25 percent of our operations there."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lynn:</b> Good idea. That would give us <b>the best of both worlds</b>: we could reduce our risk, while starting to enjoy some of the cost savings from lower-cost manufacturing."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Jeff:</b> I agree with you that we should <b>put a stake in the ground</b>. Let's move a quarter of our operations to China."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lynn:</b> <b>Good call</b>, Jeff!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Jeff:</b> I hope I don't <b>live to regret this decision</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anna:</b> You won't. <b>my gut tells me</b> we're doing the right thing."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "e0e8103f-af26-476c-adef-9b2200161baa",
+      "exercises": [
+        {
+          "id": "1e0b63fe-c0d3-40e6-b20b-4edaa3b9b4c8",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "03523f0d-4833-47b4-9d1f-e52470d368e7",
+              "question": "1. Sandra is <b>of two minds</b> about leaving her job to get an MBA.",
+              "options": [
+                {
+                  "id": "30174d5b-c036-47e7-9aca-7d8ba1eb8ca5",
+                  "label": "upset",
+                  "isCorrect": false
+                },
+                {
+                  "id": "78cad9fd-e4b6-48bd-b779-d5c657f2cee9",
+                  "label": "not sure",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5b489cf0-d2e7-4845-b7b7-4848ce616882",
+                  "label": "very positive",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "e4242b55-4f2c-4c13-8602-3df534d0ee56",
+              "question": "2. You decided to invest some money in real estate? <b>Good call</b>!",
+              "options": [
+                {
+                  "id": "e128b147-515b-407b-86a6-689bfad27c53",
+                  "label": "You're a good person!",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2d43903f-e9eb-42b9-a0aa-e4205f4009e8",
+                  "label": "I'll call you back!",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f49d00dd-ee78-49d8-a9c0-aab3c117dae3",
+                  "label": "Good idea!",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9ab9de60-a554-473a-bc46-00141b247c83",
+              "question": "3. Ford Motor Company debated for a long time whether or not to start making cars in Russia, but the company finally decided to <b>bite the bullet</b>.",
+              "options": [
+                {
+                  "id": "d9f0d7a6-35a9-4f91-9ec9-9d46206d5297",
+                  "label": "drop the project",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0de23173-d16c-4ad1-ab6b-ee8ad2dd14f7",
+                  "label": "go ahead with it",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b218bc87-ed36-403d-8cf4-cf8830597c19",
+                  "label": "enter the weapons business",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "621bb870-b723-4e78-ab43-14a2bf996b63",
+              "question": "4. I know you're nervous about the launch of our new robotic vacuum cleaner, but <b>my gut tells me</b> that it's going to be a big seller.",
+              "options": [
+                {
+                  "id": "28c05e86-9a06-43cb-a2e3-043e375654fe",
+                  "label": "I have a strong feeling",
+                  "isCorrect": true
+                },
+                {
+                  "id": "3f305b2e-cbfc-47b4-8383-0e23d6020aa0",
+                  "label": "my friend tells me",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0db7d211-c218-4793-a993-82578c605423",
+                  "label": "I don't think",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ecc9fe9a-9121-442e-83e8-4fe61218cb7a",
+              "question": "5. Janet left her old job before finding a new one and <b>lived to regret her decision</b>.",
+              "options": [
+                {
+                  "id": "da7da003-6e1d-4119-97f9-5b5794ea10ac",
+                  "label": "had trouble finding a new job",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9fea15a-5ca2-4943-af79-51a0f51ef217",
+                  "label": "was happy with her decision",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f077e367-8b5a-4655-9bb6-0ddc2ed848c0",
+                  "label": "was sorry about it later",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "badabfa5-453d-4e63-b0c7-eb5dce164175",
+              "question": "6. Unfortunately, our company president is not a great leader. He's <b>wishy-washy</b>.",
+              "options": [
+                {
+                  "id": "a55fa354-333c-4c19-bdd4-d7ddac3aba76",
+                  "label": "inconsiderate",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f9f22e32-a0dc-436e-ae72-d95aab2db0b3",
+                  "label": "not good at making decisions",
+                  "isCorrect": true
+                },
+                {
+                  "id": "98378ac6-82fd-490e-b1bd-c4339173e50b",
+                  "label": "lazy",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6aea530b-d82b-48a0-8f8e-fe5b2628d95e",
+              "question": "7. Kate says running a business from her home <b>gives her the best of both worlds</b>: she can stay at home with her four young children and still make some",
+              "options": [
+                {
+                  "id": "9af33de2-3d21-43b0-a7b3-4c542dcf4da1",
+                  "label": "allows her all possible advantages",
+                  "isCorrect": true
+                },
+                {
+                  "id": "6b783b40-73a1-441a-bc51-646fbe9c4694",
+                  "label": "gives her more work than she can handle",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2b3dc408-53ce-4433-8212-c9ccbfba9529",
+                  "label": "lets her stay at home all day doing nothing",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "3652686c-5b88-4a48-99db-05fe0c694912",
+              "question": "8. The computer store was unsure at first how much demand there would be for the new line of laptops, so they started with a small order to <b>test the waters</b>.",
+              "options": [
+                {
+                  "id": "5d4f962f-6956-4c3c-a87f-f422d1df5cc9",
+                  "label": "make sure the laptops really worked",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5a8e8240-c757-4c47-9c9e-4ad5061f7c77",
+                  "label": "see if there was demand for the laptops",
+                  "isCorrect": true
+                },
+                {
+                  "id": "378e1a9d-7191-4a44-bb3e-7f1af1c9fc63",
+                  "label": "see if customers were interested in buying water",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

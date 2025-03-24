@@ -1,0 +1,213 @@
+{
+  "whiteboard": {
+    "title": "Audiobooks"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Starter (Pre-A1) 200 headwords",
+          "showIndex": true,
+          "contents": [
+            {
+              "content": "<b>Kids</b>"
+            },
+            {
+              "showIndex": true,
+              "links": [
+                {
+                  "link": "/materials/extras/audiobooks/starter/kids/cinderella",
+                  "linkLabel": "Cinderella",
+                  "time": "3:05"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/kids/dumbo",
+                  "linkLabel": "Dumbo",
+                  "time": "2:56"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/kids/finding-nemo",
+                  "linkLabel": "Finding Nemo",
+                  "time": "1:44"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/kids/puss-in-boots",
+                  "linkLabel": "Puss-in-Boots",
+                  "time": "1:45"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/kids/sleeping-beauty",
+                  "linkLabel": "Sleeping Beauty",
+                  "time": "1:54"
+                }
+              ]
+            },
+            {
+              "applyHr": true
+            },
+            {
+              "content": "<b>Young learners / Adults</b>"
+            },
+            {
+              "showIndex": true,
+              "links": [
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure",
+                  "linkLabel": "A New Zealand Adventure ",
+                  "time": "08:05"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/flying-home",
+                  "linkLabel": "Flying home",
+                  "time": "10:13"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa",
+                  "linkLabel": "Marcel and the Mona lisa",
+                  "time": "11:50"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-white-star",
+                  "linkLabel": "Marcel and the White Star",
+                  "time": "09:54"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase",
+                  "linkLabel": "Newspaper Chase",
+                  "time": "08:18"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy",
+                  "linkLabel": "Simon and the Spy",
+                  "time": "11:21"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-fireboy",
+                  "linkLabel": "The Fireboy",
+                  "time": "12:34"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo",
+                  "linkLabel": "The Last Photo",
+                  "time": "08:48"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-leopard-and-the-lighthouse",
+                  "linkLabel": "The Leopard and the Lighthouse",
+                  "time": "10:30"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl",
+                  "linkLabel": "The Pearl Girl",
+                  "time": "11:47"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone",
+                  "linkLabel": "The Troy Stone",
+                  "time": "10:22"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx",
+                  "linkLabel": "The White Oryx",
+                  "time": "09:32"
+                },
+                {
+                  "link": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star",
+                  "linkLabel": "Who Wants to be a star",
+                  "time": "10:09"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Beginner (A1)",
+          "contents": [
+            {
+              "content": "<b>Kids</b>"
+            },
+            {
+              "showIndex": true,
+              "links": [
+                {
+                  "link": "/materials/extras/audiobooks/beginner/kids/chicken-run",
+                  "linkLabel": "Chicken Run",
+                  "time": "3:26"
+                }
+              ]
+            },
+            {
+              "applyHr": true
+            },
+            {
+              "content": "<b>Young learners / Adults</b>"
+            },
+            {
+              "showIndex": true,
+              "links": [
+                {
+                  "link": "/materials/extras/audiobooks/beginner/young-learners-adult/",
+                  "linkLabel": "...",
+                  "time": "0:00"
+                }
+              ]
+            },
+            {
+              "applyHr": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Elementary (A2)",
+          "contents": [
+            {
+              "content": "<b>...</b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Pre-Intermediate (A2-B1)",
+          "contents": [
+            {
+              "content": "<b>...</b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Intermediate (B1)",
+          "contents": [
+            {
+              "content": "<b>...</b>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

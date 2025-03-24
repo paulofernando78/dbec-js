@@ -1,0 +1,298 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 11 • Motivating Co-Workers"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-11.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 11 • Motivating Co-Workers</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Greg, Stan, and Donna work for Pack-It, a maker of trash bags and other consumer goods. After disappointing sales results, they discuss exiting the trash bag business. But a fresh new idea gives them hope for the"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Greg:</b> Our sales were down again last quarter."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Donna:</b> We've been <b>working our tails off</b> and our results are still lousy!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Greg:</b> Maybe we should exit the trash bag business — just <p>call it quits!</p>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Stan:</b> C'mon.* Let's not <b>throw in the towel</b> yet. <b>We've been down before, but we always come back fighting</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Donna:</b> But this time <b>private-label products</b> are driving us out of business!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Stan:</b> We've got a successful <b>track record</b>. Everybody knows that we offer quality trash bags."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Donna:</b> That's true, but we can't just <b>rest on our laurels</b> forever."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Stan:</b> Well, I have a new idea that's going to <b>turn around our business</b>. It's a new line of trash bags that smell like fresh fruits, such as apples and peaches."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Greg:</b> That sounds like a great idea. I'm ready to roll up my sleeves and get <b>down to business!</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Stan:</b> I appreciate your team spirit! Donna, are you on board too?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Donna:</b> Sure. <b>Count me in</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Stan:</b> Great. Let's get everybody else in the company excited about this plan too. I'll count on you two to <b>rally the troops</b>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "a17262dc-5c4a-4b33-9caf-7d324bc8f1e0",
+      "exercises": [
+        {
+          "id": "f9be69ff-ab1e-488f-9531-46dd30fc3b81",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "323d4544-9bbb-4f0c-9d83-3e7457a741a9",
+              "question": "1. I've got a plan to <b>turn around our business</b>.",
+              "options": [
+                {
+                  "id": "20637992-2949-4281-9228-2a7495cf84c7",
+                  "label": "sell our business",
+                  "isCorrect": false
+                },
+                {
+                  "id": "182e7d9b-a6f3-43c1-8ed4-26bbc66060ab",
+                  "label": "make our business profitable again",
+                  "isCorrect": true
+                },
+                {
+                  "id": "9ebf7550-e150-4d5c-8b4f-8680d3d25f6f",
+                  "label": "cut employees",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "984769b3-f318-42f7-a160-a18feaf41438",
+              "question": "2. The new project sounds interesting. <b>Count me in</b>.",
+              "options": [
+                {
+                  "id": "e57f8bf8-f9ca-46cf-89f8-389b9b1598a7",
+                  "label": "Tell me more.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "16953e87-5c58-4ec8-bec4-4e16ab7cb3dc",
+                  "label": "Will I be included?",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ec1f37b0-f5cd-4206-9920-d618532b5247",
+                  "label": "I will participate.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c8a34bad-8869-45ec-bcd5-ec9e66e5a9a7",
+              "question": "3. Productivity is down. How can we <b>rally the troops?</b>",
+              "options": [
+                {
+                  "id": "f23500eb-bf36-4d41-9132-530b5d17bbd3",
+                  "label": "motivate employees",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ff6cbbb4-cf3d-4766-8e0d-56635e16e15f",
+                  "label": "fire employees",
+                  "isCorrect": false
+                },
+                {
+                  "id": "95bb6757-3298-4ff9-a60f-050a8766e999",
+                  "label": "bring in new employees",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "0b37fb20-c876-4b80-ab02-c811d7b89b5b",
+              "question": "4. Let's <b>get down to business</b>. The project deadline is Thursday.",
+              "options": [
+                {
+                  "id": "cea103a4-88f0-405e-9625-edb17530ca7a",
+                  "label": "stop worrying",
+                  "isCorrect": false
+                },
+                {
+                  "id": "808e3660-b5c2-460a-a4e9-b7a13bc49aab",
+                  "label": "start working",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b7b4bf2e-54c7-4ca7-bb25-0a42c08c67ca",
+                  "label": "forecast our losses",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "46cec0e5-8d7c-4e10-aefb-2d962f1518ed",
+              "question": "5. Lisa's got more <b>team spirit</b> than anybody at our company.",
+              "options": [
+                {
+                  "id": "0c4aab30-3e26-4b02-9660-bea0213f1aba",
+                  "label": "enthusiasm for working as a group",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a06a7384-7d9f-4808-ad7e-96ff894106bc",
+                  "label": "work experience",
+                  "isCorrect": false
+                },
+                {
+                  "id": "80d67320-b03d-4b9b-8186-aa7714ac746e",
+                  "label": "loyalty",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "5d39c5ec-0d7b-4357-acc0-3d1dbd19fb2e",
+              "question": "6. Tracy's career advisor told her not to <b>rest on her laurels</b>.",
+              "options": [
+                {
+                  "id": "b75973c0-55af-4697-a89e-026a9eb53380",
+                  "label": "take a break in her career",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a8ff0f39-5c13-4d38-9f29-14f31f91bdc4",
+                  "label": "rely on her past successes",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d91766aa-a452-4f06-8ee1-abc8baa5841f",
+                  "label": "try hard for a promotion",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "8d1a661c-0d65-4763-9161-012329071679",
+              "question": "7. Another year of losses? Is it time to <b>throw in the towel</b>?",
+              "options": [
+                {
+                  "id": "e762b2ca-c70e-4cc1-a66b-952e4d6b8361",
+                  "label": "give up",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5367348c-0d76-4edc-838e-d29a06600e13",
+                  "label": "try harder",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b2f6b933-0bb1-4c4a-8dab-03d69a63861b",
+                  "label": "find new leadership",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "40da08ae-39fc-4f32-bc81-581d897ca40b",
+              "question": "8. Are you <b>on board with</b> our plans for the acquisition?",
+              "options": [
+                {
+                  "id": "691fd975-40b5-477f-a62b-a0f41461eead",
+                  "label": "aware of",
+                  "isCorrect": false
+                },
+                {
+                  "id": "88e7d589-4a67-4672-8a50-e20b4191ca24",
+                  "label": "in disagreement with",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7ed8fd60-efbf-40a0-b7be-f0f94f7749b9",
+                  "label": "in agreement with",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

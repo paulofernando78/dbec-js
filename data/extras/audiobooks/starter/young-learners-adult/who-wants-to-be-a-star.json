@@ -1,0 +1,1059 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "Who Wants to Be a Star"],
+    "time": "10:09",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/cover.jpg",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Tina Daniels is thirteen years old and a star. She sings beautifully, and everyone loves her. Her mother has big ideas about Hollywood, but Tina is not happy. One day she goes away on a train. Who does she meet? What does she see?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-1.jpg",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina Daniels is thirteen years old and she is a star. She can sing and dance. Everyone knows her. Everyone loves her. They call her 'Curls' because she has beautiful curly hair. They all want her photo. She can have anything she wants. But is she happy? Does she want to be a star?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+      "exercises": [
+        {
+          "id": "a1b2c3d4-e5f6-7g8h-9i0j-1k2l3m4n5o6p",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "p7q8r9s0-t1u2-3v4w-5x6y-7z8a9b0c1d2e",
+              "question": "1.1 What is Tina's nickname?",
+              "options": [
+                {
+                  "id": "v9w0x1y2-z3a4-5b6c-7d8e-9f0g1h2i3j4k",
+                  "label": "Her nickname is 'Star'.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f3g4h5i6-j7k8-9l0m-1n2o-3p4q5r6s7t8u",
+                  "label": "Her nickname is 'Curls'.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "q1r2s3t4-u5v6-7w8x-9y0z-1a2b3c4d5e6f",
+              "question": "1.2 How old is Tina?",
+              "options": [
+                {
+                  "id": "g7h8i9j0-k1l2-3m4n-5o6p-7q8r9s0t1u2v",
+                  "label": "She's thirty.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "w9x0y1z2-a3b4-5c6d-7e8f-9g0h1i2j3k4l",
+                  "label": "She's 13.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:44",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-2.jpg",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Tina, why are you eating chocolates?\" her mother asks. \"I like them. They're nice!\" Tina says. You're getting fat, and a fat girl doesn't get lots of money in Hollywood,\" Mrs. Daniels says. \"You want the money — I don't!\" Tina says. Tina is angry with her mother and Mrs. Daniels is angry with Tina. Tina leaves the room and cries."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b2c3d4e5-f6g7-8h9i-0j1k-2l3m4n5o6p7q",
+      "exercises": [
+        {
+          "id": "r8s9t0u1-v2w3-4x5y-6z7a-8b9c0d1e2f3g",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "n6o7p8q9-r0s1-2t3u-4v5w-6x7y8z9a0b1c",
+              "question": "2.1 Why is Tina's mother angry?",
+              "options": [
+                {
+                  "id": "x0y1z2a3-b4c5-6d7e-8f9g-0h1i2j3k4l5m",
+                  "label": "Because she's Tina is eating chocolates.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "n6o7p8q9-r0s1-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "Because she's Tina is singing.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "t4u5v6w7-x8y9-0z1a-2b3c-4d5e6f7g8h9i",
+              "question": "2.2 What does Tina's mother want?",
+              "options": [
+                {
+                  "id": "f2g3h4i5-j6k7-8l9m-0n1o-2p3q4r5s6t7u",
+                  "label": "She wants Tina to eat chocolate.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "j0k1l2m3-n4o5-6p7q-8r9s-0t1u2v3w4x5y",
+                  "label": "She wants Tina to be a star.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:23",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-3.jpg",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina is very sad. She doesn't want to be a star. She wants a quiet life. One day she has an idea. Her school friend, Mary, has a grandmother Mrs. White. Old Mrs. White lives in the country, in Stonechurch. Tina has a photo of Mary in front of Mrs. White's house. It looks very pretty — not like the city! Tina decides to go there."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3d4e5f6-g7h8-9i0j-1k2l-3m4n5o6p7q8r",
+      "exercises": [
+        {
+          "id": "s9t0u1v2-w3x4-5y6z-7a8b-9c0d1e2f3g4h",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "o7p8q9r0-s1t2-3u4v-5w6x-7y8z9a0b1c2d",
+              "question": "3.1 Where does Tina decide to go?",
+              "options": [
+                {
+                  "id": "y1z2a3b4-c5d6-7e8f-9g0h-1i2j3k4l5m6n",
+                  "label": "She decides to go to Stonechurch.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-s1t2-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "She decides to go to Hollywood.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "u9v0w1x2-y3z4-5a6b-7c8d-9e0f1g2h3i4j",
+              "question": "3.2 Who lives in Stonechurch?",
+              "options": [
+                {
+                  "id": "k5l6m7n8-o9p0-1q2r-3s4t-5u6v7w8x9y0z",
+                  "label": "Mrs. White lives in Stonechurch.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "q7r8s9t0-u1v2-3w4x-5y6z-7a8b9c0d1e2f",
+                  "label": "Tina's friend lives in Stonechurch.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:06",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-4.jpg",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina is at the city station. She is wearing jeans and an old jumper. People do not know who she is. \"Where do you want to go, young girl? the man at the ticket office asks her. \"Stonechurch, please. When's the next train?\" Tina asks. \"The train leaves at two o'clock from platform three,\" the man says. Tina buys her ticket."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4e5f6g7-h8i9-0j1k-2l3m-4n5o6p7q8r9s",
+      "exercises": [
+        {
+          "id": "t0u1v2w3-x4y5-6z7a-8b9c-0d1e2f3g4h5i",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "p8q9r0s1-t2u3-4v5w-6x7y-8z9a0b1c2d3e",
+              "question": "4.1 What is Tina wearing at the city station?",
+              "options": [
+                {
+                  "id": "p8q9r0s1-t2u3-4v5w-6x7y-8z9a0b1c2d3e",
+                  "label": "She's wearing a dress.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "z2a3b4c5-d6e7-8f9g-0h1i-2j3k4l5m6n7o",
+                  "label": "She's wearing jeans and an old jumper.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "g1h2i3j4-k5l6-7m8n-9o0p-1q2r3s4t5u6v",
+              "question": "4.2 What time does the train leave?",
+              "options": [
+                {
+                  "id": "w7x8y9z0-a1b2-3c4d-5e6f-7g8h9i0j1k2l",
+                  "label": "The train leaves at two o'clock",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c9d0e1f2-g3h4-5i6j-7k8l-9m0n1o2p3q4r",
+                  "label": "The train leaves at one o'clock",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:46",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-5.jpg",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina arrives at Stonechurch. She sees an old house near the river. It is the house in the photo! There are flowers and trees in the garden. \"Mrs. White must live here,\" Tina thinks. She goes to the front door and rings the bell. And an old lady with white hair and a kind face opens the door. A black cat comes out, too."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5f6g7h8-i9j0-1k2l-3m4n-5o6p7q8r9s0t",
+      "exercises": [
+        {
+          "id": "u1v2w3x4-y5z6-7a8b-9c0d-1e2f3g4h5i6j",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "q9r0s1t2-u3v4-5w6x-7y8z-9a0b1c2d3e4f",
+              "question": "5.1 Who opens the door at the old house?",
+              "options": [
+                {
+                  "id": "a3b4c5d6-e7f8-9g0h-1i2j-3k4l5m6n7o8p",
+                  "label": "An old lady with white hair.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "q9r0s1t2-u3v4-5w6x-7y8z-9a0b1c2d3e4f",
+                  "label": "A young girl.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "h1i2j3k4-l5m6-7n8o-9p0q-1r2s3t4u5v6w",
+              "question": "5.2 What color is the cat?",
+              "options": [
+                {
+                  "id": "h1i2j3k4-l5m6-7n8o-9p0q-1r2s3t4u5v6w",
+                  "label": "Brown.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "x7y8z9a0-b1c2-3d4e-5f6g-7h8i9j0k1l2m",
+                  "label": "Black.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:23",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-6.jpg",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Good afternoon, who are you?\" the old lady asks. \"Oh, hello, Mrs. White. My name is Tina. I am a schoolfriend of your granddaughter, Mary.\" \"Mary's schoolfriend — how nice to meet you! What are you doing in Stonechurch, Tina?\" Mrs. White asks. Tina says she hates the city life. \"Well,\" says Mrs. White, \"come in and have a cup of tea, my dear.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6g7h8i9-j0k1-2l3m-4n5o-6p7q8r9s0t1u",
+      "exercises": [
+        {
+          "id": "v2w3x4y5-z6a7-8b9c-0d1e-2f3g4h5i6j7k",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r0s1t2u3-v4w5-6x7y-8z9a-0b1c2d3e4f5g",
+              "question": "6.1 What does Mrs. White offer Tina?",
+              "options": [
+                {
+                  "id": "b4c5d6e7-f8g9-0h1i-2j3k-4l5m6n7o8p9q",
+                  "label": "She offers a cup of tea.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "r0s1t2u3-v4w5-6x7y-8z9a-0b1c2d3e4f5g",
+                  "label": "She offers a glass of water.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "i2j3k4l5-m6n7-8o9p-0q1r-2s3t4u5v6w7x",
+              "question": "6.2 What does Tina say she hates?",
+              "options": [
+                {
+                  "id": "y8z9a0b1-c2d3-4e5f-6g7h-8i9j0k1l2m3n",
+                  "label": "She says she hates the city life.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o4p5q6r7-s8t9-0u1v-2w3x-4y5z6a7b8c9d",
+                  "label": "She says she hates the country life.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "4:05",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-7.jpg",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina and Mrs. White drink tea and talk. Mrs. White doesn't know Tina is a star. She does not have a television or a radio. Tina is very happy! Mrs. White says, \"Tina, you can stay with me for a week, but first you have to telephone your mother.\" Tina is angry with her mother and doesn't telephone her. \"Mother says yes!\" she says to Mrs. White later. Her face is a little red."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g7h8i9j0-k1l2-3m4n-5o6p-7q8r9s0t1u2v",
+      "exercises": [
+        {
+          "id": "w3x4y5z6-a7b8-9c0d-1e2f-3g4h5i6j7k8l",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "s1t2u3v4-w5x6-7y8z-9a0b-1c2d3e4f5g6h",
+              "question": "7.1 Why doesn't Tina telephone her mother?",
+              "options": [
+                {
+                  "id": "s1t2u3v4-w5x6-7y8z-9a0b-1c2d3e4f5g6h",
+                  "label": "Because she's happy with her mother.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c5d6e7f8-g9h0-1i2j-3k4l-5m6n7o8p9q0r",
+                  "label": "Because she's angry with her mother.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "t8u9v0w1-x2y3-4z5a-6b7c-8d9e0f1g2h3i",
+              "question": "7.2 What doesn't Mrs. White have?",
+              "options": [
+                {
+                  "id": "q6r7s8t9-u0v1-2w3x-4y5z-6a7b8c9d0e1f",
+                  "label": "She doesn't have a cat.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "j4k5l6m7-n8o9-0p1q-2r3s-4t5u6v7w8x9y",
+                  "label": "She doesn't have a television.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "4:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-8.jpg",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two days later, Mrs. White is taking Tina for a walk. \"Look at the lambs!\" Mrs. White says. \"Yes, I love them. I want to be a lamb. They can jump and run and be happy.\" \"You can run and jump and be happy too, Tina.\" \"No, I can't. I—\" \"Tina, you're young. Run!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h8i9j0k1-l2m3-4n5o-6p7q-8r9s0t1u2v3w",
+      "exercises": [
+        {
+          "id": "x4y5z6a7-b8c9-0d1e-2f3g-4h5i6j7k8l9m",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "n0o1p2q3-r4s5-6t7u-8v9w-0x1y2z3a4b5c",
+              "question": "8.1 What does Tina want to be?",
+              "options": [
+                {
+                  "id": "t2u3v4w5-x6y7-8z9a-0b1c-2d3e4f5g6h7i",
+                  "label": "Tina wants to be a star.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d6e7f8g9-h0i1-2j3k-4l5m-6n7o8p9q0r1s",
+                  "label": "Tina wants to be a lamb.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "u4v5w6x7-y8z9-0a1b-2c3d-4e5f6g7h8i9j",
+              "question": "8.2 What does Mrs. White tell Tina to do?",
+              "options": [
+                {
+                  "id": "k0l1m2n3-o4p5-6q7r-8s9t-0u1v2w3x4y5z",
+                  "label": "She tells Tina to run.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a6b7c8d9-e0f1-2g3h-4i5j-6k7l8m9n0o1p",
+                  "label": "She tells Tina to sing.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "5:25",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-9.jpg",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina is living a very different life in the country. She sees new things all the time. Now it is night, and Tina and Mrs. White are waiting. It is very quiet. Every night some hedgehogs come to the garden. Mrs. White puts out food for them. \"I love their long brown noses.\" Mrs. White says. \"So do I,\" says Tina."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i9j0k1l2-m3n4-5o6p-7q8r-9s0t1u2v3w4x",
+      "exercises": [
+        {
+          "id": "y5z6a7b8-c9d0-1e2f-3g4h-5i6j7k8l9m0n",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "o1p2q3r4-s5t6-7u8v-9w0x-1y2z3a4b5c6d",
+              "question": "9.1 What animals come to Mrs. White's garden every night?",
+              "options": [
+                {
+                  "id": "k9l0m1n2-o3p4-5q6r-7s8t-9u0v1w2x3y4z",
+                  "label": "Chickens.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e7f8g9h0-i1j2-3k4l-5m6n-7o8p9q0r1s2t",
+                  "label": "Hedgehogs.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "v8w9x0y1-z2a3-4b5c-6d7e-8f9g0h1i2j3k",
+              "question": "9.2 What does Mrs. White put out for them?",
+              "options": [
+                {
+                  "id": "b0c1d2e3-f4g5-6h7i-8j9k-0l1m2n3o4p5q",
+                  "label": "She puts out water for them.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "l4m5n6o7-p8q9-0r1s-2t3u-4v5w6x7y8z9a",
+                  "label": "She puts out food for them.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "6:10",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-10.jpg",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Oh, look! says Tina. A big brown fox is running across the garden. At first, Tina is very happy to see the fox. There aren't any foxes in the gardens in the city! Then she sees the fox has something in its mouth. The \"something\" is Mrs. White's chicken! Mrs. White is very angry and wants to kill the fox!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j0k1l2m3-n4o5-6p7q-8r9s-0t1u2v3w4x5y",
+      "exercises": [
+        {
+          "id": "z6a7b8c9-d0e1-2f3g-4h5i-6j7k8l9m0n1o",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "p2q3r4s5-t6u7-8v9w-0x1y-2z3a4b5c6d7e",
+              "question": "10.1 What does the fox take from Mrs. White's garden?",
+              "options": [
+                {
+                  "id": "f8g9h0i1-j2k3-4l5m-6n7o-8p9q0r1s2t3u",
+                  "label": "The fox takes a chicken.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "l0m1n2o3-p4q5-6r7s-8t9u-0v1w2x3y4z5a",
+                  "label": "The fox takes a hedgehog.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "q8r9s0t1-u2v3-4w5x-6y7z-8a9b0c1d2e3f",
+              "question": "10.2 What does Mrs. White want to do to the fox?",
+              "options": [
+                {
+                  "id": "w0x1y2z3-a4b5-6c7d-8e9f-0g1h2i3j4k5l",
+                  "label": "She wants to feed it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g4h5i6j7-k8l9-0m1n-2o3p-4q5r6s7t8u9v",
+                  "label": "She wants to kill it",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "6:45",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-11.jpg",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Mrs. White and Tina look at the fox's work. The chickens are making a terrible noise. \"We can't have eggs for breakfast morning, Tina,\" says Mrs. White. \"Why not?\" asks Tina. \"The chickens aren't very happy. When they aren't happy they can't give us eggs.\" Mrs. White explains. For breakfast, Tina has toast and fresh orange juice."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k1l2m3n4-o5p6-7q8r-9s0t-1u2v3w4x5y6z",
+      "exercises": [
+        {
+          "id": "a7b8c9d0-e1f2-3g4h-5i6j-7k8l9m0n1o2p",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "q3r4s5t6-u7v8-9w0x-1y2z-3a4b5c6d7e8f",
+              "question": "11.1 Why can't they have eggs for breakfast?",
+              "options": [
+                {
+                  "id": "w5x6y7z8-a9b0-1c2d-3e4f-5g6h7i8j9k0l",
+                  "label": "Because they don't have chickens.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g9h0i1j2-k3l4-5m6n-7o8p-9q0r1s2t3u4v",
+                  "label": "Because the chickens aren't happy.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "n8o9p0q1-r2s3-4t5u-6v7w-8x9y0z1a2b3c",
+              "question": "11.2 What does Tina have for breakfast?",
+              "options": [
+                {
+                  "id": "t0u1v2w3-x4y5-6z7a-8b9c-0d1e2f3g4h5i",
+                  "label": "She has eggs and bacon.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d4e5f6g7-h8i9-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "She has toast and fresh orange juice.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "7:24",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-12.jpg",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Three days later Tina is with Bella, the horse. She loves Bella and gives her some sugar. Today the postman has a letter from Mrs. White. When he sees Tina, he says, \"I don't believe it — it's Curls!\" Then he says to her, \"Everyone's looking for you. You're in all the newspapers!\" He runs to his red van to find his newspaper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l2m3n4o5-p6q7-8r9s-0t1u-2v3w4x5y6z7a",
+      "exercises": [
+        {
+          "id": "b9c0d1e2-f3g4-5h6i-7j8k-9l0m1n2o3p4q",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r5s6t7u8-v9w0-1x2y-3z4a-5b6c7d8e9f0g",
+              "question": "12.1 Who recognizes Tina?",
+              "options": [
+                {
+                  "id": "h1i2j3k4-l5m6-7n8o-9p0q-1r2s3t4u5v6w",
+                  "label": "The postman is who recognizes her.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "n3o4p5q6-r7s8-9t0u-1v2w-3x4y5z6a7b8c",
+                  "label": "Bella is who recognizes her.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "o5p6q7r8-s9t0-1u2v-3w4x-5y6z7a8b9c0d",
+              "question": "12.2 Why does the postman run to his van?",
+              "options": [
+                {
+                  "id": "u7v8w9x0-y1z2-3a4b-5c6d-7e8f9g0h1i2j",
+                  "label": "He runs to his van to find a letter.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e1f2g3h4-i5j6-7k8l-9m0n-1o2p3q4r5s6t",
+                  "label": "He runs to his van to find his newspaper.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "8:06",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-13.jpg",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Mrs. White reads the postman's newspaper. \"Tina,\" says Mrs. White, \"you're the 'LOST TV STAR', aren't you? I don't understand… Your mother…\" \"Yes, I'm Curls, but please don't send me home. I'm happy here with you.\" \"I'm coming with you to see your mother. I've got a good idea,\" Mrs. White says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m4n5o6p7-q8r9-0s1t-2u3v-4w5x6y7z8a9b",
+      "exercises": [
+        {
+          "id": "c0d1e2f3-g4h5-6i7j-8k9l-0m1n2o3p4q5r",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "s6t7u8v9-w0x1-2y3z-4a5b-6c7d8e9f0g1h",
+              "question": "13.1 Who's in the newspaper?",
+              "options": [
+                {
+                  "id": "o4p5q6r7-s8t9-0u1v-2w3x-4y5z6a7b8c9d",
+                  "label": "The postman.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "i2j3k4l5-m6n7-8o9p-0q1r-2s3t4u5v6w7x",
+                  "label": "Tina.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "t9u0v1w2-x3y4-5z6a-7b8c-9d0e1f2g3h4i",
+              "question": "13.2 What does Tina ask Mrs. White not to do?",
+              "options": [
+                {
+                  "id": "j5k6l7m8-n9o0-1p2q-3r4s-5t6u7v8w9x0y",
+                  "label": "She asks Mrs. White not to send her home.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "q7r8s9t0-u1v2-3w4x-5y6z-7a8b9c0d1e2f",
+                  "label": "She asks Mrs. White not to call her mother.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "8:48",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-14.jpg",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina's mother is very happy to see Tina again. Mrs. White explains her idea: Tina can go to her friend's school on the Island of Guernsey, between England and France. Tina can have friends there who did not know she is Curls. \"What? I want Tina to be a star!\" Mrs. Daniel says. \"She wants to be happy,\" Mrs. White says quietly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n5o6p7q8-r9s0-1t2u-3v4w-5x6y7z8a9b0c",
+      "exercises": [
+        {
+          "id": "d1e2f3g4-h5i6-7j8k-9l0m-1n2o3p4q5r6s",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "t7u8v9w0-x1y2-3z4a-5b6c-7d8e9f0g1h2i",
+              "question": "14.1 Where is Tina's friend's school?",
+              "options": [
+                {
+                  "id": "j3k4l5m6-n7o8-9p0q-1r2s-3t4u5v6w7x8y",
+                  "label": "On the Island of Guernsey.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "p5q6r7s8-t9u0-1v2w-3x4y-5z6a7b8c9d0e",
+                  "label": "In England.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "f8g9h0i1-j2k3-4l5m-6n7o-8p9q0r1s2t3u",
+              "question": "14.2 What does Mrs. White say Tina wants?",
+              "options": [
+                {
+                  "id": "l0m1n2o3-p4q5-6r7s-8t9u-0v1w2x3y4z5a",
+                  "label": "She wants to be a star",
+                  "isCorrect": false
+                },
+                {
+                  "id": "v4w5x6y7-z8a9-0b1c-2d3e-4f5g6h7i8j9k",
+                  "label": "She wants to be happy",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/who-wants-to-be-a-star/paragraph-15.jpg",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Tina is at school in Guernsey. She has new friends and new interests. One day, Tina's friend is reading a magazine. It's about film and television stars. There are lots of beautiful photos of beautiful people. Everyone looks very happy. \"What a wonderful life!\" the friend says. Tina smiles to herself. \"Who wants to be a star? she says. \"I don't.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o6p7q8r9-s0t1-2u3v-4w5x-6y7z8a9b0c1d",
+      "exercises": [
+        {
+          "id": "e2f3g4h5-i6j7-8k9l-0m1n-2o3p4q5r6s7t",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "u8v9w0x1-y2z3-4a5b-6c7d-8e9f0g1h2i3j",
+              "question": "15.1 What's Tina friend reading??",
+              "options": [
+                {
+                  "id": "k4l5m6n7-o8p9-0q1r-2s3t-4u5v6w7x8y9z",
+                  "label": "She's reading a magazine.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a0b1c2d3-e4f5-6g7h-8i9j-0k1l2m3n4o5p",
+                  "label": "She's reading a newspaper.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "m8n9o0p1-q2r3-4s5t-6u7v-8w9x0y1z2a3b",
+              "question": "15.2 What is Tina's new interest?",
+              "options": [
+                {
+                  "id": "s0t1u2v3-w4x5-6y7z-8a9b-0c1d2e3f4g5h",
+                  "label": "She wants to sing.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c4d5e6f7-g8h9-0i1j-2k3l-4m5n6o7p8q9r",
+                  "label": "She wants to go to school and have new friends.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

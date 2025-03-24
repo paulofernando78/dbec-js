@@ -1,0 +1,558 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Skills",
+    "descriptions": [
+      "Listening",
+      "Articles",
+      "Health and Lifestyle",
+      "Doctors Give New Guidelines for Preventing Stroke"
+    ],
+    "subDescription": "June, 24, 2024"
+  },
+  "lessons": [
+    {
+      "title": "Introduction",
+      "time": "'10",
+      "bgColor": "black",
+      "textColor": "white",
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Check out these pictures? What do you see?</b>"
+            }
+          ]
+        }
+      ],
+      "swiperFractionImages": [
+        {
+          "imgSrcLink": "/assets/img/fitness-stretching-out.webp",
+          "imgAltLink": "Example image description"
+        },
+        {
+          "imgSrc": "/assets/img/fitness-exercising.webp",
+          "imgAlt": "Example image description"
+        }
+      ]
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Discuss these questions.</b>"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "What are some general ways to stay healthy and prevent illnesses? "
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "What do you know about strokes?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-vocabulary",
+      "time": "'10",
+      "bgColor": "black",
+      "textColor": "white",
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Flip the cards and match the pictures with the right vocabulary.</b>"
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "flipcards": [
+        {
+          "imgSrc": "/assets/img/woman-menopause.jpg",
+          "imgAlt": "An Image of a woman experiencing menopause symptoms, with a thoughtful expression.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/food-saturated-fat.webp",
+          "imgAlt": "An Illustration of foods high in saturated fat, such as bacon, ice cream, and nuts.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/health-screen-examine.jpg",
+          "imgAlt": "A doctor examining a patient's health information on a screen.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/man-vigorous.jpg",
+          "imgAlt": "A man in vigorous body shape.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/acronym-ibm.jpg",
+          "imgAlt": "Graphic of the acronym IBM..",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/gauge-moderate.png",
+          "imgAlt": "Gauge showing a moderate level on a scale.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/calorie.jpg",
+          "imgAlt": "Visual representation of calorie measurement with food items.",
+          "width": "180px",
+          "height": "180px"
+        },
+        {
+          "imgSrc": "/assets/img/fitness-aerobic.jpg",
+          "imgAlt": "Person performing aerobic exercise.",
+          "width": "180px",
+          "height": "180px"
+        }
+      ]
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "acronym",
+              "dictionary": "acronym",
+              "dictionaryAudioSrc": "/dictionary/a/acronym.mp3"
+            },
+            {
+              "keyword": "aerobic",
+              "dictionary": "aerobic",
+              "dictionaryAudioSrc": "/dictionary/a/aerobic.mp3"
+            },
+            {
+              "keyword": "calorie",
+              "dictionary": "calorie",
+              "dictionaryAudioSrc": "/dictionary/c/calorie.mp3"
+            },
+            {
+              "keyword": "menopause",
+              "dictionary": "menopause",
+              "dictionaryAudioSrc": "/dictionary/m/menopause.mp3"
+            },
+            {
+              "keyword": "moderate",
+              "dictionary": "moderate",
+              "dictionaryAudioSrc": "/dictionary/m/moderate.mp3"
+            },
+            {
+              "keyword": "saturated fat",
+              "dictionary": "saturated fat",
+              "dictionaryAudioSrc": "/dictionary/s/saturated-fat.mp3"
+            },
+            {
+              "keyword": "screen",
+              "dictionary": "screen",
+              "dictionaryAudioSrc": "/dictionary/s/screen.mp3"
+            },
+            {
+              "keyword": "vigorous",
+              "dictionary": "vigorous",
+              "dictionaryAudioSrc": "/dictionary/v/vigorous.mp3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Listening for gist",
+      "time": "'10",
+      "bgColor": "black",
+      "textColor": "white",
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Listen to this article. What's the main idea of this article?</b>"
+            }
+          ]
+        }
+      ],
+      "audioSrc": "/extras/skills/listening/articles/health-and-lifestyle/doctors-give-new-guidelines-for-preventing-stroke/audio.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "From VOA Learning English, this is the Health & Lifestyle report."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "New guidelines have been issued in the United States for preventing"
+            },
+            {
+              "keyword": "stroke",
+              "dictionary": "stroke",
+              "dictionaryAudioSrc": "/dictionary/s/stroke.mp3"
+            },
+            {
+              "text": "– the nation's 4th biggest killer."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The U.S. Centers for Disease Control and Prevention (CDC) says that in 2023, stroke was the fourth leading cause of death in the United States. An estimated half a million people suffer strokes in the U.S. each year. But the CDC notes that up to 80 percent of strokes could be prevented with better nutrition and exercise, along with improved risk identification."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "What is a stroke?"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "A stroke happens when blood flow to part of the brain is blocked or if a blood vessel in the brain breaks open, or bursts. The event keeps oxygen from getting to the brain. This can result in the person having difficulty thinking, talking and walking. In some cases, a stroke can even cause death."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Stroke is a major health problem across the world. On its website, the World Stroke Organization says the condition is a leading cause of death and disability worldwide. Over 100 million people worldwide have suffered a stroke. It is estimated that 25 percent of adults over 25 will have a stroke during their lifetime."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The new guidelines on stroke prevention came from the American Stroke Association. They are the first to be issued in 10 years. The advice includes suggestions for people and doctors and are based on improved information about who has strokes and why. The guidelines also include new drugs that can help reduce risk."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Health researchers say the best way to reduce the risk of stroke is the same as reducing risks for many other conditions. These include eating a healthy diet, moving the body often and not smoking."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Here is what to know about stroke and the newly issued guidelines:"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Eating healthy can reduce stroke risk"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Experts say eating healthy can help control possible stroke risks. The goal is to prevent or reduce high cholesterol, high blood sugar and obesity, the condition of being extremely overweight."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The advice urges people to choose foods in the so-called Mediterranean diet. These include fruits, vegetables, whole grains and olive oil. Eating these foods can help keep cholesterol levels down."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Red meat should be limited, along with saturated fats. Additional protein can come from beans, nuts, poultry and seafood. Highly processed foods and drinks with a lot of added sugar should also be avoided."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Moving your body can help prevent strokes"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Getting up and walking around for at least 10 minutes a day can greatly reduce a person's stroke risk, said Dr. Cheryl Bushnell. She is a neurologist at Wake Forest University School of Medicine in North Carolina."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Bushnell was part of the group that came up with the new guidelines. She said regular exercise can help reduce blood pressure, a major risk factor for stroke."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "However, health experts say more movement is better. The stroke association suggests <mark>at least 150 minutes of moderate</mark> aerobic or 75 minutes of vigorous exercise activity every week. Such exercise could include going to the gym, taking a walk or running. People can also use exercise machines at home, dance or play a sport."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "New tools to reduce obesity, a risk factor for stroke"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The guidelines include a new group of drugs that have been proven to help people lose weight."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The drugs – designed for people with obesity or diabetes – had not been approved when past guidelines were issued. But the advice now suggests doctors consider these drugs for patients at risk for stroke. These include versions sold under the names Ozempic, Wegovy, Mounjaro, and Zepbound."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The new guidelines also help doctors identify people who might be at higher risk for stroke. For the first time, the advice suggests doctors screen patients for other risk factors. They could include gender or non-medical factors such as economic issues or the availability of quality health care."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "The new <mark>guidelines</mark> also suggest that doctors screen for conditions that may <mark>increase a woman's risk for stroke</mark>. These could include <mark>high blood pressure during pregnancy</mark> or early menopause."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "How do I know if I'm having a stroke and what do I do?"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Three of the most common stroke signs include face weakness, arm weakness and difficulty speaking. Also, time is important when a person suffers a stroke. Brain damage can happen quickly, but it can be limited if a stroke is treated quickly."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "Stroke experts have created an acronym to help people remember: FAST -- F for face, A for arm, S for speech, and T for time."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "If you think you or a loved one may be having a stroke, call the emergency response number in your area immediately."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "And that's the Health & Lifestyle report."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "I'm Anna Matteo."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "And I'm Bryan Lynn."
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "title": "Listening for details",
+      "time": "'10",
+      "bgColor": "black",
+      "textColor": "white",
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Listen again and do the exercise.</b>"
+            }
+          ]
+        }
+      ],
+      "audioSrc": "/extras/skills/listening/articles/health-and-lifestyle/doctors-give-new-guidelines-for-preventing-stroke/audio.mp3",
+      "radio": [
+        {
+          "title": "Choose the correct answer.",
+          "question": "1. How many people in the U.S. suffer strokes each year?",
+          "options": [
+            { "label": "a) 100,000", "isCorrect": false },
+            { "label": "b) 500,000", "isCorrect": true },
+            { "label": "c) 1,000,000", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "2. What percentage of strokes can potentially be prevented?",
+          "options": [
+            { "label": "a) 50%", "isCorrect": false },
+            { "label": "b) 70%", "isCorrect": false },
+            { "label": "c) 80%", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "3. Which of the following is part of the Mediterranean diet?",
+          "options": [
+            { "label": "a) Olive oil", "isCorrect": true },
+            { "label": "b) Red meat", "isCorrect": false },
+            { "label": "c) Processed foods", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "4. What is the recommended amount of moderate aerobic exercise per week?",
+          "options": [
+            { "label": "a) 75 minutes", "isCorrect": false },
+            { "label": "b) 100 minutes", "isCorrect": false },
+            { "label": "c) 150 minutes", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "5. What is a new tool doctors can use to help reduce obesity?",
+          "options": [
+            { "label": "a) Physical therapy", "isCorrect": false },
+            { "label": "b) New weight-loss drugs", "isCorrect": true },
+            { "label": "c) Vitamin supplements", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "6. What does the new guideline suggest doctors screen for in women?",
+          "options": [
+            { "label": "a) High cholesterol levels", "isCorrect": false },
+            {
+              "label": "b) High blood pressure during pregnancy",
+              "isCorrect": true
+            },
+            { "label": "c) High sugar intake", "isCorrect": false }
+          ]
+        },
+        {
+          "question": "7. Which of the following is NOT a recommended protein source in the Mediterranean diet?",
+          "options": [
+            { "label": "a) Seafood", "isCorrect": false },
+            { "label": "b) Beans", "isCorrect": false },
+            { "label": "c) Saturated fats", "isCorrect": true }
+          ]
+        },
+        {
+          "question": "8. What does the \"T\" in the acronym FAST stand for?",
+          "options": [
+            { "label": "a) Treatment", "isCorrect": false },
+            { "label": "b) Time", "isCorrect": true },
+            { "label": "c) Test", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Follow-up",
+      "time": "'5",
+      "bgColor": "black",
+      "textColor": "white",
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "text": "<b>Discuss these questions.</b>"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "What changes could you make to your lifestyle to reduce the risk of stroke?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "text": "How would you recognize and respond if someone was having a stroke?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

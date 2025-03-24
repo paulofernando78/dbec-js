@@ -1,0 +1,31 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Songs"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "A-Z",
+          "contents": [
+            {
+              "link": "/materials/specific-purposes/...",
+              "linkLabel": "Elton John • ..."
+            },
+            {
+              "link": "/materials/specific-purposes/...",
+              "linkLabel": "Taylor Swift • ..."
+            },
+            {
+              "link": "/materials/specific-purposes/...",
+              "linkLabel": "The Beatles • ..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

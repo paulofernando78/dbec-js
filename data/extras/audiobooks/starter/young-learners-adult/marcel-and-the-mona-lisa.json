@@ -1,0 +1,979 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "Marcel and the Monalisa"],
+    "time": "11:50",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/cover.png",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Marcel is a French mouse, and a detective. One evening, at the Louvre museum, he sees a man steal a famous painting - the Mona Lisa. Marcel follows the thief to Venice and risk his life to get the painting back again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-1.png",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Marcel is a French mouse, and a detective. He has lots of friends in Paris. One of them is Céline. She paints pictures and is very beautiful. Céline's home is at the Louvre. Marcel often goes there for dinner. One evening in May he arrives with some pink flowers. There is a guard at the door. \"I don't know him,\" Marcel thinks. \"He must be new.\" Then he walks inside."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e630724-f264-4a2f-9c70-bfb30700a3a6",
+      "exercises": [
+        {
+          "id": "ee735dc4-5c9b-4ccc-a3b2-d538611888f3",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "81cc2653-b138-46b1-91a0-455bd5cd08d8",
+              "question": "1.1 Marcel often goes to Céline's for...",
+              "options": [
+                {
+                  "id": "073a5101-9d2c-4937-a4cf-eca40cce0138",
+                  "label": "lunch.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2111a4fb-23cc-40f5-acfd-8e6e02c5a7dd",
+                  "label": "dinner.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "7ebbac67-7060-4aab-8442-cc3d93b37d74",
+              "question": "1.2 What does he bring with him?",
+              "options": [
+                {
+                  "id": "3334c2be-1c83-4357-a51b-128cbf361794",
+                  "label": "He brings some pink flowers",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a2c40b36-c17a-4f76-84ab-4ce4e2b085b9",
+                  "label": "He brings some red flowers.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-2.png",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The two friends eat, drink and talk all evening. Céline shows Marcel her new paintings. They talk about their summer holiday in Los Angeles. They laugh, play jazz. records and tell lots of stories. Then at 11 o'clock Marcel puts on his coat. \"It's late,\" he says. \"I must go home.\" Two minutes later he leaves. \"Good night,\" says Céline. Then she closes her front door."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "029cd9a2-ddad-47e3-93fb-7a95585249a8",
+      "exercises": [
+        {
+          "id": "a6a71968-d979-4ffa-b069-350cd8c6197e",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "c537d41c-43fc-47f9-9ed5-3496c555f233",
+              "question": "2.1 What time does Marcel leave Céline's house?",
+              "options": [
+                {
+                  "id": "872f2dc0-d982-46b6-ae12-0fcaf7e60ce5",
+                  "label": "He leaves at 11:00.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "513e79ba-207d-46fd-a068-286cab2f17c1",
+                  "label": "He leaves at 11:02.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:32",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-3.png",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Marcel walks across the floor. He is very happy. Then he stops. The room is dark, but he can see something. What is it? A man? A man with a long knife? Yes! Suddenly Marcel's mouth is very dry. He runs to the wall. Then, after five seconds he looks again. This time he can see the man's face. \"It's that new guard,\" he thinks. \"And he's... he's stealing the Mona Lisa!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7779c7fb-a58f-4c0a-a5e1-85ea54b529f0",
+      "exercises": [
+        {
+          "id": "9906d49e-4087-4920-a366-5d9e86918952",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "cd0c3080-80ab-4f49-8532-67f4c4271c69",
+              "question": "3.1 How does the guard steal the Mona Lisa.",
+              "options": [
+                {
+                  "id": "a19d7c92-3bbc-4223-b689-b93afccfc8ea",
+                  "label": "He uses a short knife.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "1f99a602-4799-4732-bea7-90a4c34aaf83",
+                  "label": "He uses a long knife.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:26",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-4.png",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Next to the thief there is a black bag. Two minutes later the Mona Lisa is inside it. The thief smiles and picks up the bag. But a second later he puts it down again. \"Car keys,\" he says, and begins to look in all his pockets. \"All right — this is it,\" Marcel thinks. \"It's now or never.\" He runs along the wall very fast, climbs up the tall, black bag, and jumps inside it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7221a808-1b48-4109-ba2d-d00a575f2e3a",
+      "exercises": [
+        {
+          "id": "c09108c3-98fe-475b-9f77-10e1fb23c484",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "25d8f2d7-adfe-48e7-b28b-822dc3388b8a",
+              "question": "4.1 What's the thief looking for?",
+              "options": [
+                {
+                  "id": "3b738162-970c-4873-a011-350cc69fc00e",
+                  "label": "He's looking for his keys.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "31d82fbb-0da8-425c-bec3-2ec4d8287e75",
+                  "label": "He's looking for his money.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a46415ca-8223-4503-bbd5-8b4f23416171",
+              "question": "4.2 How does Marcel go inside the bag?",
+              "options": [
+                {
+                  "id": "db9f9dbd-38f9-4dfd-ac47-2baa0a2e0128",
+                  "label": "He jumps on it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "856ba391-59f4-4947-9fa4-2968a9914ce2",
+                  "label": "He climbs it.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "3:12",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-5.png",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At the bottom of the bag Marcel can see a face. The Mona Lisa's face. She is smiling at him. \"Now what?\" he asks her. There is no answer, but at that moment the bag starts to move. Marcel can hear lots of noises: a motor starts - traffic goes by - a radio plays. Then the bag suddenly stops. Marcel climbs the painting and looks out. \"A railway station!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3930d333-39f1-464e-b253-64975db6612a",
+      "exercises": [
+        {
+          "id": "db5ffb26-c8ff-4d56-91e9-c73b87546de8",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "473001f6-f07a-404c-8e79-dd81f3bb4c04",
+              "question": "5.1 What does Marcel see at the bottom of the bag?",
+              "options": [
+                {
+                  "id": "9739e2c5-5880-4c4d-8c67-1c745c5ee683",
+                  "label": "He sees a sad face.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0a07e4ac-8c5e-4d30-a807-3a78d317807d",
+                  "label": "He sees a smiling face.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "4:15",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-6.png",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Five minutes later the Louvre 'guard' gets on a train. He sits next to a thin man in sunglasses and a white jacket. \"Have you got it, Antoine?\" the thin man asks. \"Yes,\" the guard answers. After that the train starts and there is a lot of noise. \"Oh no! Now I can't hear them,\" Marcel thinks. But he can hear one or two words. \"Italy\", for example, and \"all those cats\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "95ce2e3c-fc1c-4f66-8836-b132704983d5",
+      "exercises": [
+        {
+          "id": "b67d4054-dc4e-4085-86ca-6d715b7c7a9f",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "cb635f2e-de9e-46c2-bace-bff74c91bb37",
+              "question": "6.1 What does Marcel hear while on the train?",
+              "options": [
+                {
+                  "id": "2b24e13f-b084-4704-8229-98aa47c11392",
+                  "label": "He can hear they talking about France and dogs",
+                  "isCorrect": false
+                },
+                {
+                  "id": "76d02a44-366a-46a4-bea9-37ba3fcf464f",
+                  "label": "He can hear they talking about Italy and cats",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "5:00",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-7.png",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Cats!\" Marcel looks at the Mona Lisa. His eyes are two big saucers. \"But cats kill mice,\" he thinks. \"They eat them. And where are we going in Italy? Rome? Milan? Naples? ...\" But at that moment Antoine puts the bag under the seat. \"Now I really can't hear,\" Marcel thinks. Then he goes to sleep and has a very bad dream."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d956eb88-878f-4c4b-ac78-6e0fb77f7667",
+      "exercises": [
+        {
+          "id": "aaeba59d-7e1c-4980-bee7-d516c3be6e97",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "0aaadc05-868c-483d-ba7a-078e4bcf8fbb",
+              "question": "7.1 What does Marcel think about cats?",
+              "options": [
+                {
+                  "id": "fd774334-7bd4-480b-a015-ead50f9c4d85",
+                  "label": "He thinks that they kill mice.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "29d14810-590c-42b5-85f6-25d3f581f607",
+                  "label": "He thinks that they are scared of mice.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "5:45",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-8.png",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Early next morning the sun is shining. Marcel opens his eyes and sees the Mona Lisa. Then he remembers where he is. He runs up the painting and looks at Antoine and Henri. \"Good,\" he thinks. \"They're asleep.\" Ten seconds later, Marcel is standing at the window. He can see a small village and some mountains. Then a sign goes by: a hundred and eighty kilometres to Venice!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9eb5269e-1106-48dc-b344-71ce78c493c2",
+      "exercises": [
+        {
+          "id": "50161eb4-69bd-4b72-8503-6b86b028c205",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "7dbbb6a1-d9f2-4193-8523-d3b300970c11",
+              "question": "8.1 Antonie and Henri are...",
+              "options": [
+                {
+                  "id": "167539fe-64f4-49a3-97ff-f9972e8ced8e",
+                  "label": "awake.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d641495e-7489-4dda-83e2-c69fcb4ac729",
+                  "label": "asleep.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "2c1a9bc0-c6c6-483f-b4cf-4582a293d16a",
+              "question": "8.2 Where are they going?",
+              "options": [
+                {
+                  "id": "aca2fc12-6c51-446d-8273-7a01b9b8631c",
+                  "label": "They're going to Rome.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ea9a8bc5-8d3f-4d0f-9195-2fcd36601f1a",
+                  "label": "They're going to Venice.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "6:31",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-9.png",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two hours later Antoine and Henri are on a gondola. \"Look,\" says Antoine and laughs. He shows Henri a newspaper story. It says, 'THIEVES TAKE DA VINCI PAINTING'. Henri says, \"Be quiet!\" and turns to the boatman. \"Do you see that big palace on the left?\" \"Signor Spandini's house?\" \"Yes. Stop there.\" Inside the bag Marcel hears every word."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8571775-094e-4b6d-a02a-d6fec990dea4",
+      "exercises": [
+        {
+          "id": "51bf69b6-7461-48f9-a17f-8d05231d4fef",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d70a5032-94f9-4d73-90b9-175f8dff6017",
+              "question": "9.1 What does the newspaper story say?",
+              "options": [
+                {
+                  "id": "8295d25a-c1f0-4d11-88d2-1fee87dfeb7a",
+                  "label": "'GONDOLA SINKS IN VENICE'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "228cecd6-77be-4fd3-91a6-682f7c983879",
+                  "label": "'THIEVES TAKE DA VINCI PAINTING'",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "dd8390eb-533d-4d6d-8419-8c159cac364a",
+              "question": "9.2 Where does Henri tell the boatman to stop?",
+              "options": [
+                {
+                  "id": "660ace57-6480-4106-9127-a7c15fb5ae5e",
+                  "label": "He tells the botman to stop at Signor Spandini's house.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8bcd1a68-d287-4c9e-ae25-45500cbae5e9",
+                  "label": "He tells the boatman to stop at Antonie's house.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "7:17",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-10.png",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "An old woman answers the front door. \"Come in,\" she says to the two thieves. \"Signor Spandini is waiting for you.\" She takes them to a big, dark room. A fat man is sitting behind a desk. \"Have you got it?\" he asks. \"Yes, Boss,\" Henri answers. The bag is beside him. \"I can't stay in here,\" Marcel thinks. He jumps out of the bag and hides behind a chair."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "498a934a-92ca-43ac-9d43-2cfc9a720d83",
+      "exercises": [
+        {
+          "id": "b1324a1d-a761-411c-828d-4188cb4a3d2c",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "4971f5c0-3681-483d-a66e-b77a9f7f9251",
+              "question": "10.1 Who is waiting for the thieves?",
+              "options": [
+                {
+                  "id": "1c94ece3-e3e6-4ab9-aabf-5a1fb0ae9ad4",
+                  "label": "The police is waiting for them.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ad083edf-c0e9-44b4-b6ff-10a1664ca701",
+                  "label": "Signor Spandini is waiting for them.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "2484cd5b-5fde-4f8c-bad7-04bc7d7240f6",
+              "question": "10.2 Where does Marcel hide after jumping out of the bag?",
+              "options": [
+                {
+                  "id": "218cb285-7f6a-4bd0-a633-67fe327c1c59",
+                  "label": "Behind a chair.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "174b6eb1-a315-4692-aaec-231c4bd296fe",
+                  "label": "Under the desk.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "8:03",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-11.png",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Good,\" he thinks. \"Now I can...\" But then he goes cold. \"Cats!\" There are seven, eight - no nine of them in the room. Suddenly Marcel remembers Henri's words - \"all those cats.\" Then he remembers his dream on the train. What can he do? Where can he go? But it is too late. One of the cats sees him. \"Help!\" Marcel thinks and climbs up a red curtain."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a1e72f4-3d21-4c89-9439-96492b6c53d1",
+      "exercises": [
+        {
+          "id": "7b8d2d40-1a9c-49f1-bb4e-f9784a8dc81e",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "9c3f3e72-433a-4b98-b7e0-83a4bb9ec91d",
+              "question": "11.2 Where does Marcel go to escape the cats?",
+              "options": [
+                {
+                  "id": "b2371be7-b44f-4aa3-b3c0-073d6d3c3766",
+                  "label": "He climbs up a red curtain.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d91dfebf-3f8b-4c3b-921b-52ac7696a53b",
+                  "label": "He hides under a table.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "3a9d9c6e-812c-40bc-9097-4edc9d2b3bb7",
+              "question": "11.1 What makes Marcel go cold?",
+              "options": [
+                {
+                  "id": "d74bbde9-bf04-45f6-93b4-b0f8ff8a3542",
+                  "label": "Seeing all the cats in the room.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "83e1e1a6-9058-4c5c-bad1-1f0f0840f012",
+                  "label": "Hearing Henri's voice.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "8:51",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-12.png",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "A moment later the cat starts climbing, too. Marcel can hear it below him. He has to do something - and fast! But what? Then he sees two candles above his head. \"That's the answer,\" he thinks. He jumps onto the bookcase and starts to push the candles over. They are very heavy, but in the end he does it. Below him he hears, \"Yee•owwwww!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a1e72f4-3d21-4c89-9439-96492b6c53d2",
+      "exercises": [
+        {
+          "id": "7b8d2d40-1a9c-49f1-bb4e-f9784a8dc81f",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "9c3f3e72-433a-4b98-b7e0-83a4bb9ec92d",
+              "question": "12.1 What does Marcel do to stop the cat?",
+              "options": [
+                {
+                  "id": "d91dfebf-3f8b-4c3b-921b-52ac7696a53d",
+                  "label": "He hides behind a chair.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b2371be7-b44f-4aa3-b3c0-073d6d3c3766",
+                  "label": "He pushes two candles off the bookcase.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "3a9d9c6e-812c-40bc-9097-4edc9d2b3bb8",
+              "question": "12.2 What sound does Marcel hear after pushing the candles?",
+              "options": [
+                {
+                  "id": "d74bbde9-bf04-45f6-93b4-b0f8ff8a3543",
+                  "label": "A loud 'Yee•owwwww!'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "83e1e1a6-9058-4c5c-bad1-1f0f0840f013",
+                  "label": "The sound of a door slamming.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "9:31",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-13.png",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"What's all that noise?\" asks Antoine. \"Look! The carpet's on fire!\" says Henri. Spandini stands up. \"Angelina! Quick, bring some water.\" Marcel looks over the bookcase. He can see the Mona Lisa on Spandini's desk. \"OK,\" he thinks. \"This is it.\" After that he runs down the curtain, across Spandini's desk, picks up the Mona Lisa, and runs out of the room."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a1e72f4-3d21-4c89-9439-96492b6c53d3",
+      "exercises": [
+        {
+          "id": "7b8d2d40-1a9c-49f1-bb4e-f9784a8dc81g",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "9c3f3e72-433a-4b98-b7e0-83a4bb9ec93d",
+              "question": "13.1 What does Henri notice in the room?",
+              "options": [
+                {
+                  "id": "b2371be7-b44f-4aa3-b3c0-073d6d3c3767",
+                  "label": "The carpet is on fire.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d91dfebf-3f8b-4c3b-921b-52ac7696a53f",
+                  "label": "The Mona Lisa is missing.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "3a9d9c6e-812c-40bc-9097-4edc9d2b3bb9",
+              "question": "13.2 What does Marcel do after noticing the fire?",
+              "options": [
+                {
+                  "id": "83e1e1a6-9058-4c5c-bad1-1f0f0840f014",
+                  "label": "He hides himself behind te bookcase..",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d74bbde9-bf04-45f6-93b4-b0f8ff8a3544",
+                  "label": "He runs down the curtain, grabs the Mona Lisa, and runs out of the room.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "10:23",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-14.png",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Marcel runs for a long time. He thinks, \"I want to leave the Mona Lisa somewhere safe. But where?\" Then, after twenty minutes, he stops in a quiet street. In front of him there is a police station. The front door has a letter-box. \"Of course!\" Marcel thinks. \"That's it.\" He stands up tall. Then he pushes the Mona Lisa through the letter-box."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a1e72f4-3d21-4c89-9439-96492b6c53d4",
+      "exercises": [
+        {
+          "id": "7b8d2d40-1a9c-49f1-bb4e-f9784a8dc81h",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "9c3f3e72-433a-4b98-b7e0-83a4bb9ec94d",
+              "question": "14.1 Where does Marcel stop after running for a long time?",
+              "options": [
+                {
+                  "id": "d91dfebf-3f8b-4c3b-921b-52ac7696a53g",
+                  "label": "In a quiet park.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b2371be7-b44f-4aa3-b3c0-073d6d3c3768",
+                  "label": "In front of a police station.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "3a9d9c6e-812c-40bc-9097-4edc9d2b3bba",
+              "question": "14.2 What does Marcel do with the Mona Lisa?",
+              "options": [
+                {
+                  "id": "83e1e1a6-9058-4c5c-bad1-1f0f0840f015",
+                  "label": "He takes home.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d74bbde9-bf04-45f6-93b4-b0f8ff8a3545",
+                  "label": "He pushes it through a letter-box.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "11:03",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/marcel-and-the-mona-lisa/paragraph-15.png",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two days later Marcel is in Paris again. At the station he  sees a newspaper. It says, 'ITALIAN POLICE FIND THE MONA LISA'. Then he goes to the Louvre and tells Celine everything. \"Nine cats!\" she says. \"Oh Marcel, are you all right?\" \"Yes, I'm fine,\" Marcel answers. He goes to Céline's window. \"And the Mona Lisa's fine, too. Look, Céline. She's smiling.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5a1e72f4-3d21-4c89-9439-96492b6c53d5",
+      "exercises": [
+        {
+          "id": "7b8d2d40-1a9c-49f1-bb4e-f9784a8dc81i",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "9c3f3e72-433a-4b98-b7e0-83a4bb9ec95e",
+              "question": "15.1 What does Marcel see in the newspaper?",
+              "options": [
+                {
+                  "id": "d91dfebf-3f8b-4c3b-921b-52ac7696a53h",
+                  "label": "The Mona Lisa has been sold to a private collector.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b2371be7-b44f-4aa3-b3c0-073d6d3c3769",
+                  "label": "The Mona Lisa has been found by the Italian police.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "3a9d9c6e-812c-40bc-9097-4edc9d2b3bbb",
+              "question": "15.2 How does Céline react when Marcel tells her everything?",
+              "options": [
+                {
+                  "id": "d74bbde9-bf04-45f6-93b4-b0f8ff8a3546",
+                  "label": "She is surprised and asks if Marcel is all right.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "83e1e1a6-9058-4c5c-bad1-1f0f0840f016",
+                  "label": "She laughs and says it was all a dream.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

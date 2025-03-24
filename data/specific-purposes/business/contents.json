@@ -1,0 +1,31 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Idioms",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa",
+                  "linkLabel": "Business English Like an American"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbbelaa",
+                  "linkLabel": "Better Business English Like an American"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

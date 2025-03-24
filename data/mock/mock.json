@@ -1,0 +1,219 @@
+{
+  "whiteboard": {
+    "title": "Lesson Data",
+    "subtitle": "...",
+    "descriptions": ["..."]
+  },
+
+  "lessons": [
+    {
+      "title": "Title",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "subtitle": "Subtitle",
+      "subtime": "...",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "bgColor": "#F0E994",
+      "textColor": "black",
+      "cards": [
+        {
+          "text": "text 1 "
+        },
+        {
+          "text": "text 2"
+        }
+      ]
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "test 1"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "test 3"
+            }
+          ]
+        },
+        {
+          "imgSrc": "/general/animal-cat1.jpg",
+          "imgAlt": "An image of a cat.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "..."
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "..."
+            },
+            {
+              "enText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ]
+        },
+        {
+          "imgSrc": "/general/animal-cat2.jpeg",
+          "imgAlt": "An image of a cat.",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "enText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "imgSrc": "/general/animal-cat1.jpg",
+      "imgAlt": "An image of a cat.",
+      "imgWidth": "60%"
+    },
+    {
+      "swiperFractionImages": [
+        {
+          "imgSrc": "/general/animal-cat1.jpg",
+          "imgAlt": "An image of a cat."
+        },
+        {
+          "imgSrc": "https://cdn.britannica.com/34/235834-050-C5843610/two-different-breeds-of-cats-side-by-side-outdoors-in-the-garden.jpg",
+          "imgAlt": "An image of a cat."
+        }
+      ]
+    },
+    {
+      "flipcards": [
+        {
+          "width": "...",
+          "height": "...",
+          "frontText": "What's the past of ask?",
+          "backText": "asked"
+        },
+        {
+          "frontText": "...  ",
+          "backText": "..."
+        },
+        {
+          "imgSrc": "/assets/img/general/animal-cat1.jpg",
+          "imgAlt": "A cat"
+        }
+      ]
+    },
+    {
+      "audioSrc": "/assets/audio/welcome.mp3"
+    },
+    {
+      "videoSrc": "https://www.youtube.com/embed/oCY5YEEjlwE"
+    },
+    {
+      "iframeTitle": "Title",
+      "iframeSrc": "https://www.dbec.com.br/",
+      "iframeWidth": "...",
+      "iframeHeight": "..."
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "lightgrey"
+    },
+    {
+      "exercises": [
+        {
+          "id": "4c723fee-e3f8-483d-9d89-dbe40e25b41e",
+          "title": "Main Title",
+          "subtitle": "Main Subtitle",
+          "radio": [
+            {
+              "title": "Radio-Title",
+              "subtitle": "Radio-Subtitle"
+            },
+            {
+              "id": "e39477f9-fae4-4d26-baa7-ba3cfaba9f89",
+              "question": "1. Question",
+              "options": [
+                {
+                  "id": "642babd2-eaf4-4eb3-a866-22b0b33aeca5",
+                  "label": "Answer 1",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d562f38b-d36a-401a-91bb-89e1eaa6825a",
+                  "label": "Answer 2",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "5ba39f89-5a9f-4227-b85b-90e9e0807c88",
+              "question": "2. Question",
+              "options": [
+                {
+                  "id": "88933e10-3f6a-4e81-a903-380d7ced3c14",
+                  "label": "Answer 1",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c03e7321-5b31-409a-a041-ea20b931751c",
+                  "label": "Answer 2",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6569d057-a7f3-4bb6-a41f-f1a5bcbad2eb",
+              "question": "3. Question",
+              "options": [
+                {
+                  "id": "a2bf63ea-2d73-4208-b568-60a476addc7f",
+                  "label": "Answer 1",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e33cde97-611a-468e-912c-bddb6dbb0d2f",
+                  "label": "Answer 2",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ],
+          "fillInTheBlank": [
+            {
+              "options": true,
+              "width": "50px",
+              "title": "Fill in the blanks.",
+              "subtitle": "Subtitle",
+              "beforeBlank": "1. He",
+              "correctAnswer": ["works"],
+              "afterBlank": "every day.",
+              "lineBreakAfter": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

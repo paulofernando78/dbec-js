@@ -1,0 +1,1033 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "A New Zealand Adventure"],
+    "time": "8:05",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    }
+  ],
+
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/cover.jpg",
+          "imgAlt": "Cover photo",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Sarah and Jessica arrive in New Zealand for a holiday. They find a mobile phone in the taxi from the airport. It is Michael's mobile, but can they find him? He has messages from home - are they important? Go with the girls on a New Zealand adventure."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-1.jpg",
+          "imgAlt": "Paragraph 1 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Sarah and Jessica are going to New Zealand for a holiday. They are very excited. Jessica is near the window! We're here!\" \"But we're late,\" Sarah answers. \"When'<span class=\"underline\">s o</span>ur bus?\" \"At one o'clock, \"Jessica says. \"We can ge<span class=\"underline\">t a</span> taxi from the airport to the bus station.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframeTitle": "Auckland",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3268890.664738037!2d174.706121!3d-36.859811!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47fb5a9ce6fb%3A0x500ef6143a29917!2sAuckland%2C%20New%20Zealand!5e0!3m2!1sen!2sus!4v1734803605582!5m2!1sen!2sus",
+      "iframeHeight": "400px"
+    },
+    {
+      "id": "82471cf5-1ecf-486d-80ba-a18b040845a7",
+      "exercises": [
+        {
+          "id": "52fb9d97-f283-4d44-8458-4fac1feabb8f",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "3ea8e636-e219-4816-a80c-532accc55ee0",
+              "question": "1.1 Where are Sarah and Jessica going?",
+              "options": [
+                {
+                  "id": "c0ab8c54-70b5-4e0a-9729-70ada7caaa61",
+                  "label": "They're going to England.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5c424ca5-8f16-45d1-bac7-7df911355079",
+                  "label": "They're going to New Zealand.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "678a4db5-612b-4eaa-86c8-c4a3f1d02c35",
+              "question": "1.2 Are they on vacation?",
+              "options": [
+                {
+                  "id": "e407bc31-59d6-475a-8c4d-c70a81660e50",
+                  "label": "Yes, they are.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "3d3f84fe-74b6-40b6-94af-4ed3b742e284",
+                  "label": "No, they aren't.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6465c54d-abbd-4e69-b269-6e751cfed99b",
+              "question": "1.3 Who's sitting near the window?",
+              "options": [
+                {
+                  "id": "ad063ef0-6261-4db0-adf5-6f03c4fb6b7a",
+                  "label": "Sarah is sitting near the window.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "449313cf-78c9-429f-b0a1-2f2777872786",
+                  "label": "Jessica is sitting near the window.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "0070e9b7-58c1-4733-b517-c583eaf2bc0d",
+              "question": "1.4 How are they going to the bus station?",
+              "options": [
+                {
+                  "id": "dbb78123-2a62-43f2-aafe-2772e9dc0dd3",
+                  "label": "They are going to walk.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b4809f8d-f0eb-448d-8f95-490719822f5b",
+                  "label": "They are going to get a taxi.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:31",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-2.png",
+          "imgAlt": "Paragraph 2 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At the airport, the girls look for a taxi. \"Look!\" Jessica says. \"That boy's waving to us!\" \"Excuse me! Are you late?\" the boy calls to them. \"Do you want this taxi? I can wait.\" \"Thank you very much!\" the girls answer. \"To the bus station, please,\" Sarah says to the driver. She smiles at the boy and they drive away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24fe9e7f-fc0e-4232-8cb8-f0657a1d8070",
+      "exercises": [
+        {
+          "id": "edbaa042-7724-48ad-8bac-d8bd3f1c74d8",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "934eec79-1c72-4db6-8486-ea8c14865d9e",
+              "question": "2.1 Where are they now?",
+              "options": [
+                {
+                  "id": "4a7eb517-0208-4e0f-834d-48102a823f6d",
+                  "label": "They're at the airport.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "66968848-22f5-4007-9e7d-8c767b75a9cc",
+                  "label": "They're at the bus station.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "fd057e26-4d0b-4618-b1fa-292717c7c870",
+              "question": "2.2 Who's waving to the girls?",
+              "options": [
+                {
+                  "id": "483bcd52-dd85-424c-bc09-f070d8702446",
+                  "label": "A girl is waving to them.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "bd96e267-9fe0-4588-9138-9241651ab9f5",
+                  "label": "A boy is waving to them.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:08",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-3.jpg",
+          "imgAlt": "Paragraph 3 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The taxi stops at the bus station. Suddenly, Jessica sees a mobile phone on the taxi floor. \"Is that your mobile phone?\" she asks the driver. He look<span class=\"underline\">s at i</span>t. \"No,\" he answers. \"It's the boy's mobile.\" Sarah take<span class=\"underline\">s i</span>t. Perhaps I can find his address,\" she says. \"Yes! His name's Michael. Tomorrow he'<span class=\"underline\">s a</span>t Ninety Mile Beach. We can gi<span class=\"underline\">ve it t</span>o him there.\" \""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframeTitle": "Nitety Mile Beach",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d6716282.398077579!2d172.928415!3d-34.719434!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d09b4c1de3b7777%3A0x6031476e8f5691ff!2sNinety%20Mile%20Beach!5e0!3m2!1sen!2sbr!4v1734841161283!5m2!1sen!2sbr",
+      "iframeHeight": "400px"
+    },
+    {
+      "id": "3d8c90dc-eebe-43f8-bf58-7302420ca92b",
+      "exercises": [
+        {
+          "id": "4d5adc21-ae40-4aac-a5ea-38acc358f0fd",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "6e95f7b1-ab34-405f-8c4f-d571125e5117",
+              "question": "3.1 What does Jessica see on the taxi floor?",
+              "options": [
+                {
+                  "id": "f345c2a1-9b44-4089-b58d-bbfcfc880d9c",
+                  "label": "She sees a photo on the floor.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "aae65f8c-61a4-4bb9-babc-b49b499472ee",
+                  "label": "She sees a mobile phone on the floor.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "1:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-4.png",
+          "imgAlt": "Paragraph 4 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The girls wait at Ninety Mile Beach. They eat and watch the buses. The buses aren't driving on a road — they are driving on the long beach. \"Look for Michael!\" Jessica says. But Sarah is looking at the sea. Suddlenly Jessica sees him. \"He'<span class=\"underline\">s on</span> that bus!\" she says. She waves. Michael waves to her, but the bus doesn'(t) stop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7e68492a-1eef-4dee-af7f-c68615b98100",
+      "exercises": [
+        {
+          "id": "5b54f560-f734-4539-b0bb-9c4acb114090",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a9f614db-b8ff-4216-bc65-dd3e57383413",
+              "question": "4.1 Where are buses driving?",
+              "options": [
+                {
+                  "id": "60c68e57-32d8-4d1b-8f51-76960b1e2ee5",
+                  "label": "The buses are driving on the a road.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9c704d4-45e5-4bbe-a33f-3c803e938825",
+                  "label": "c) The buses are driving on the Long Beach.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "304109b9-0036-4f66-84d5-9023e3ee9a4f",
+              "question": "4.2 Do the girls see Michael on the bus?",
+              "options": [
+                {
+                  "id": "ba150a03-d984-4b67-9613-e673585b8a1d",
+                  "label": "Yes, they do.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "944b593f-45c8-4423-b0b5-ac235b4bb392",
+                  "label": "No, they don't.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ee9dce59-7129-4dab-b2a8-a422ceed9591",
+              "question": "4.3 Does Michael wave to the girls?",
+              "options": [
+                {
+                  "id": "cb9e8d8c-9729-4eab-b8da-437c5d4d899a",
+                  "label": "Yes, he does.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "409f3b43-3553-4197-ab5a-c4f50dc3bab4",
+                  "label": "No, he doesn't.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:22",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-5.jpg",
+          "imgAlt": "Paragraph 5 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The girls ge<span class=\"underline\">t on a</span> bus. \"Can we ca<span class=\"underline\">tch (h)i</span>m?\" Jessica asks. \"I don'(t) know,\" Sarah answers. \"I can'(t) see his bus now.\" Suddenly, they hear a beep. Sarah look<span class=\"underline\">s a</span>t the mobile. \"There'<span class=\"underline\">s a</span> message for Michael,\" she says. She reads the message. \"It'<span class=\"underline\">s i</span>mportant,\" she says. Perhaps we can fin<span class=\"underline\">d (h)i</span>m tomorrow a(t) the Sky Tower in Auckland.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14bcae71-be43-4487-9098-5a6e2f0bd94a",
+      "exercises": [
+        {
+          "id": "1a088e7b-3334-47d0-a29d-7286cc9a9478",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "8ecb5a06-a899-4f2e-8b24-0eaa3a490ce8",
+              "question": "5.1 Are the girls in a taxi?",
+              "options": [
+                {
+                  "id": "a9bce47e-9a2e-4488-b074-454c2bbbb0a0",
+                  "label": "Yes, they are.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "64319043-829b-4cf1-a104-3db2cd47e146",
+                  "label": "No, they aren't.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "3a1b9a6c-d22f-441a-abfd-a2f161400991",
+              "question": "5.2 Why does Sarah look at the mobile?",
+              "options": [
+                {
+                  "id": "213cac09-2dc3-4145-9953-fe1108deed48",
+                  "label": "Because there's a message for Michael.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a544ae1d-3bf8-46b5-baa7-285b03ae26a4",
+                  "label": "Because there's a message for Jessica.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "b98446d9-3fe7-48cb-b1c8-db6c78af4cf3",
+              "question": "5.3 Where can the girls find Michael the next day?",
+              "options": [
+                {
+                  "id": "462b6da0-0410-4503-8a4d-22502eadf477",
+                  "label": "Perhaps they can find him at Ninety Mile Beach",
+                  "isCorrect": false
+                },
+                {
+                  "id": "25911f85-8b6b-411f-b0a1-ccac42757679",
+                  "label": "Perhaps they can find him at the Sky Tower in Auckland",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "2:59",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-6.jpg",
+          "imgAlt": "Paragraph 6 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At the Sky Tower, the girls can'(t) see Michael. \"He isn'(t) here,\" Sarah says. A woman bungy jumps from the tower. \"I can do that,\" she says. \"Are you coming, Jessica?\" \"No,\" Jessica answers. \"Bu<span class=\"underline\">t I</span> can watch you from here.\" \"Please watch my bag too,\" Sarah says. She gives her bag to Jessica and she go<span class=\"underline\">es u</span>p the tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframeTitle": "Sky Tower",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d817344.1603166473!2d174.762191!3d-36.848448!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0d47f06d4bdc25%3A0x2d1b5c380ad9387!2sSky%20Tower!5e0!3m2!1sen!2sbr!4v1734842998945!5m2!1sen!2sbr",
+      "iframeHeight": "400px"
+    },
+    {
+      "id": "8ea0bc05-ed6c-4bad-bb11-fa16da331f59",
+      "exercises": [
+        {
+          "id": "4cd791fd-79c6-4116-bdc5-ac3d1ccbdeb6",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "05b03017-e220-4fcd-8cd1-73ac770a56b2",
+              "question": "6.1 Is Michael at the Sky Tower when they arrived there?",
+              "options": [
+                {
+                  "id": "5a3f4926-7533-4e1b-b398-67659f29650e",
+                  "label": "Yes, he is",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d2a37540-82e6-440b-b4c2-3fa772da8813",
+                  "label": "No, he isn't.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "5c752712-aef7-4e6f-bb9f-601cf484294f",
+              "question": "6.2 What does Sarah want to do when they get there?",
+              "options": [
+                {
+                  "id": "d391003a-ac1e-4891-85f0-1f12f8a665d0",
+                  "label": "She wants to bungy jump from the tower.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "237c7e08-a8e2-4d6c-97d5-c78a0bf00db5",
+                  "label": "She wants to go shopping.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "3:34",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-7.jpg",
+          "imgAlt": "Paragraph 7 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Sarah jumps. It is very long jump. She comes down near the street and she sees Michael. Jessica sees him too. \"Michael! Come back! We've got your mobile!\" she calls to him. But Michael is walking away. She runs after him. She doesn't take Sarah's bag. \"Jessica! My bag!\" Sarah calls."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "56383d2e-d230-41ae-b819-0032bb9222ed",
+      "exercises": [
+        {
+          "id": "793203aa-9e64-4dd6-a362-ebe14803cad3",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "3f84d0d5-35e0-4f22-8610-edab02814be5",
+              "question": "7.1 What does Jessica forget to take after Sarah jumps from the tower?",
+              "options": [
+                {
+                  "id": "e22f36fa-061e-4cd8-a73a-cd3467b9e6e7",
+                  "label": "She forgets to take Michael's bag.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2f08313f-05f7-4456-b23a-761e9c5166a5",
+                  "label": "She forgets to take Sarah's bag.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "4:10",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-8.jpg",
+          "imgAlt": "Paragraph 8 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Jessica and Sarah are very unhappy. They can't find Michael and they can't find Sarah's bag. Sarah has no money now. \"Sorry,\" Jessica says. \"But I've got some money — and we've got tickets for the Glow-worm Caves.\" \"OK. Let's go there tomorrow,\" Sarah says. \"Michael is going too. We can look for him there.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1f822239-3aa7-4fb3-a180-3429cd04acd6",
+      "exercises": [
+        {
+          "id": "7023b46b-1196-4d43-92e7-eb6aba685822",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a97dd71a-b833-4a45-8b3a-2b528c4257ac",
+              "question": "8.1 Does Sarah have money?",
+              "options": [
+                {
+                  "id": "5ae5c843-3da1-450f-a575-0288b42ae7cc",
+                  "label": "Yeah, she does.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a764e094-c1b4-492d-8bb7-0ca96830b119",
+                  "label": "No, she doesn't.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "1648472f-1a9d-47d1-9e7b-c22c4c189a83",
+              "question": "8.2 What tickets do they have for?",
+              "options": [
+                {
+                  "id": "d65df5b7-8656-438a-b736-7bea1339add5",
+                  "label": "They have tickets for the Glow-worm caves.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "0aa8284c-4731-41ea-a2b0-6ad312f0b6cc",
+                  "label": "They have tickets for the movie theater.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "4:42",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-9.png",
+          "imgAlt": "Paragraph 9 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The girls go on a boat into the dark cave. The lights from the glow-worm are very beautiful and it is very quiet. Suddenly, there is a beep from Michael's mobile. The lights go dark. The people in the boat are angry. \"No mobiles!\" they say. \"We're very sorry,\" Sarah says. She sees a new message for Michael. \"Perhaps we can find him in Rotorua.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframeTitle": "Glow Worm Caves",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11496089.463169565!2d167.727202!3d-45.295042!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa9d417aea23b14e9%3A0xb74c6de4ff0070f9!2sGlow%20Worm%20Caves!5e0!3m2!1sen!2sbr!4v1734845933030!5m2!1sen!2sbr",
+      "iframeHeight": "400px"
+    },
+    {
+      "id": "dccedc24-2eab-4e47-ba51-1f11ec797f82",
+      "exercises": [
+        {
+          "id": "",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "362d9ecd-7ff6-492b-98bd-e238d9d593b4",
+              "question": "9.1 How do they go into the dark cave?",
+              "options": [
+                {
+                  "id": "8362883d-6e2c-4fb5-b7e7-4f0eeead11a6",
+                  "label": "They walk into the dark cave.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c7483053-1012-4d92-ac5c-b9e8db7feff3",
+                  "label": "They go on a boat into the dark cave.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c4c11f04-bf59-42b2-8004-a60c7e795163",
+              "question": "9.2 Why do people get angry in the cave?",
+              "options": [
+                {
+                  "id": "a392a2f4-e7ba-47c4-b785-c982691c928b",
+                  "label": "Because the cave is too dark.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "46c49422-dd1f-4d7c-b8b2-2f10d3266793",
+                  "label": "Because phones are not allowed.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "5:19",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-10.png",
+          "imgAlt": "Paragraph 10 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Rotorua is very interesting,\" Jessica says. \"I like the hot water.\" \"Yes,\" Sarah answers, \"but I can't see Michael.\" \"Where is he tomorrow?\" Jessica asks. Sarah looks at the mobile, \"He's in the South Island,\" she says. \"The boat's very expensive. Can we go?\" \"Yes,\" Jessica says. \"I've got money for the tickets.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3e3cbc4b-2718-4c58-a3c8-868f743fbd8a",
+      "exercises": [
+        {
+          "id": "8fe14746-c378-42d9-8d69-79fcf968b629",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "904a1351-d0e2-4362-b1a2-203cb56866ab",
+              "question": "10.1 Where's Michael?",
+              "options": [
+                {
+                  "id": "adba2634-446b-4d33-bd20-b32492c52f4e",
+                  "label": "He is in North Island.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "122601ff-a844-4093-a45f-300a6e56dd6e",
+                  "label": "He is in South Island.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c1c51d0f-3d73-419a-b12e-7701bf9d65b3",
+              "question": "10.2 How do they go to South Island?",
+              "options": [
+                {
+                  "id": "e12d4c0f-f527-49fa-90fe-c9bc1eb678a2",
+                  "label": "They take a boat.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ff10347b-4554-4142-8dcf-23c1a00a300d",
+                  "label": "They take a plane.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "5:55",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-11.jpg",
+          "imgAlt": "Paragraph 11 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Sarah and Jessica take a boat to the South Island. It is very cold, but the café is expensive. Suddenly, there is a beep from Michael's mobile phone. \"Oh, no! Not again!\" Sarah says. She reads the message. \"Michael's mother and father are worrying about him, and we can't find him. Let's take his mobile phone to the police station in Kaikoura.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iframeTitle": "Title",
+      "iframeSrc": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d754270.089788524!2d173.680537!3d-42.398618!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d3a203a34917c75%3A0x500ef8684799936!2sKaik%C5%8Dura%2C%20New%20Zealand!5e0!3m2!1sen!2sbr!4v1734846072389!5m2!1sen!2sbr",
+      "iframeHeight": "400px"
+    },
+    {
+      "id": "d2e1b77d-51d5-4e08-97a4-dfa1803df681",
+      "exercises": [
+        {
+          "id": "d8a7f2dc-6d21-461a-a30b-bb371432ebad",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "de1fa924-9b62-4ed3-897a-2209980376d0",
+              "question": "11.1 Where do Sarah and Jessica take Michael's phone?",
+              "options": [
+                {
+                  "id": "505a3484-aaad-4fef-ae1d-dffd7e0a5c2e",
+                  "label": "They take his mobile phone to the police station in Rotorua.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "08eb25b4-3bf0-4102-96a8-cba80d4ae721",
+                  "label": "They take his mobile phone to the police station in Kaikoura.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "6:29",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-12.jpg",
+          "imgAlt": "Paragraph 12 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The girls take the phone to the police station. Then they go down to the sea. \"Let's go and see the whales,\" Jessica says. \"We can't,\" Sarah answers. \"The tickets are expensive.\" Suddenly, Jessica sees Michael. She runs to him. \"Your mobile's at the police station.\" she says, \"and you've got messages from home.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "caba198a-342a-4f0e-a5d0-df96e391b8d2",
+      "exercises": [
+        {
+          "id": "54b7c084-2da2-4804-91b9-8d8fe7f2872a",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "608fb863-1e39-4bfb-8c4d-cfd648620753",
+              "question": "12.1 What attraction do the girls want to see?",
+              "options": [
+                {
+                  "id": "b030409f-e157-46e4-b53f-4215698635b9",
+                  "label": "They want to see a Whale movie.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "baa4bcb0-29ba-4608-ab81-cdfaa3276608",
+                  "label": "They want to see the Whale Watch.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "199f578b-7b9b-459a-9cdc-6299ce648325",
+              "question": "12.2 Is it cheap?",
+              "options": [
+                {
+                  "id": "9a98dc69-9cec-4e58-aa5c-776d206cb543",
+                  "label": "No, it isn't",
+                  "isCorrect": true
+                },
+                {
+                  "id": "28757f2a-8820-4eb2-808a-f354b8c3d265",
+                  "label": "Yes, it is.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "7:03",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-13.png",
+          "imgAlt": "Paragraph 13 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Michael quickly calls home. He smiles. \"My mother and father are well,\" he says, \"and they've got £100,000 from the lottery! They're sending some money to me for my holiday. Now I can give you a surprise.\" \"What surprise?\" Jessica asks. \"Wait and see,\" Michael says. He walks to the Whale Watch ticket office."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a01b182-9753-4579-af5a-59ccd9a09f10",
+      "exercises": [
+        {
+          "id": "8e4f13ab-4432-46c7-afab-8c36ec661ee0",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e16f1264-df37-4594-9853-f6676f146121",
+              "question": "13.1 Who does Michael call?",
+              "options": [
+                {
+                  "id": "b761e6d1-03ab-44d6-967c-4e67807bd867",
+                  "label": "Michael calls his friends.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7918ba7f-98e9-4d72-9a61-8c4ce6613b8e",
+                  "label": "Michael calls home",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "535ad7f6-d69a-4ad7-ad3a-bc4ac5a0a016",
+              "question": "13.2 What does Michael's parents say?",
+              "options": [
+                {
+                  "id": "67d4ad0d-0e36-45b3-9652-cd190676b3a0",
+                  "label": "They say they've got £100,000 from the lottery!",
+                  "isCorrect": true
+                },
+                {
+                  "id": "76bcc544-adc1-4160-a746-102defed151c",
+                  "label": "They say they've got £1000,000 from the lottery!",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "887032f7-60d2-45e6-8dcf-febff04913b3",
+              "question": "13.3 What surprise does Michael give to the girls?",
+              "options": [
+                {
+                  "id": "8e15ad6a-675b-4545-95bf-02a08e6bcd38",
+                  "label": "Michael gives them some money.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d31ac6ae-7aa7-4745-83e5-d35f6e8f5568",
+                  "label": "Michael gives them tickets for the Whale watch.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "7:35",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/a-new-zealand-adventure/paragraph-14.png",
+          "imgAlt": "Paragraph 14 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Thank you for my mobile,\" Michael says to the girls. \"Thank you for the surprise,\" Jessica says. She is very excited. \"Do you like the whales?\" Michael asks. \"I love them,\" Jessica answers. \"They're beautiful.\" \"Yes, and New Zealand is beautiful too,\" Sarah says. \"This is an adventure!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a45388ad-5a4c-44a2-9a12-ba1e7f395893",
+      "exercises": [
+        {
+          "id": "2ccf277c-75e2-415d-a7cc-c1b8db8e71c6",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "b8581b71-02bd-4ea2-9c91-9b308a83784a",
+              "question": "14.1 Do they like the whales?",
+              "options": [
+                {
+                  "id": "69ae36f4-f3b4-482b-8f7a-be5f0116b200",
+                  "label": "No, they don't.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5278d163-df7b-4c50-bdc3-5a3f539bd867",
+                  "label": "Yes, they do.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

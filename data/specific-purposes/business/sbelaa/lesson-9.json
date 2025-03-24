@@ -1,0 +1,291 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 9 • Dealing with a dissastified customer"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-9.png",
+      "imgAlt": "...",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-9.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 9 • Dealing with a dissastified customer</b>"
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "John hired Kevin's web design firm to design a website for his company, but John is not satisfied with the end result."
+            }
+          ],
+          "addBreakLine": true
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> We're disappointed with the website you designed for us. It's <b>a far cry from</b> what we were expecting."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kevin:</b> I'm sorry you're not satisfied. We really <b>went all out</b> to make it a great site."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> Well, I'm not going to <b>mince words</b>, but you charged us a <b>pretty penny</b> and you didn't <b>deliver</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kevin:</b> Wow, I'm really surprised to hear you say that! We <b>pulled out all the stops</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> Don't try to <b>pull the wool over my eyes</b>. You promised that your best people would work on this project, but our website looks like it was designed by a summer intern!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kevin:</b> What exactly is the problem with the site?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> <b>Where to begin?</b> The shopping cart doesn't even work."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kevin:</b> Really? Well, we'll <b>get right on that</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> And you guys <b>messed around</b> forever getting the site done. You were three months behind schedule!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kevin:</b> I'm sorry about that. We were <b>swamped</b>. Let me <b>make it up to you</b>. We'll give you a 25 percent discount on the project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "d5b6d49f-ee49-481e-a5e5-f2da71abb434",
+      "exercises": [
+        {
+          "id": "0d868692-aecb-4e16-99d4-55ee8ee5fcbb",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "94b12a15-6acd-480b-ab0f-1a6e75460920",
+              "question": "1. You promised you'd do a great job re-designing our website, but you didn't <b>deliver</b>.",
+              "options": [
+                {
+                  "id": "14458dea-636b-4388-b5e4-b5c552839d30",
+                  "label": "do anything",
+                  "isCorrect": false
+                },
+                {
+                  "id": "32fc192e-e393-4275-a535-34df54676689",
+                  "label": "meet our expectations",
+                  "isCorrect": true
+                },
+                {
+                  "id": "77ab2f5b-28aa-4335-aee3-4c3cf6c9268e",
+                  "label": "disappoint us",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a9e9af6b-4ff2-42a5-84f8-101942ab4fec",
+              "question": "2. I'm not sure I'll be able to join you for drinks at 5:30. I'm <b>swamped</b>.",
+              "options": [
+                {
+                  "id": "a84aaf1d-3d4b-41ee-aa8c-e04021127c6c",
+                  "label": "exhausted",
+                  "isCorrect": false
+                },
+                {
+                  "id": "88277001-a645-486a-9bb6-846aa9659fb9",
+                  "label": "probably available",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d8f02e6c-8388-4cd8-a197-2ce4ba97fc2b",
+                  "label": "very busy",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "4eeec6b6-872a-4a88-949f-c6e6a30dc8ca",
+              "question": "3. The proposal is due by Friday? I'll <b>get right on it</b>.",
+              "options": [
+                {
+                  "id": "83b5cef8-b986-4550-b771-e2f4d1370f2a",
+                  "label": "see what I can do",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f345cbb5-cf6f-4504-86bb-39f9d8decee5",
+                  "label": "look it over",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0a68e657-daf4-44c3-bc68-b611abf0be05",
+                  "label": "start on it immediately",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "23f27f4c-dfef-4ce4-9f99-c9c78a4eb03d",
+              "question": "4. Don't try to <b>pull the wool over my eyes</b>. I know you are Suzi were involved in an office romance.",
+              "options": [
+                {
+                  "id": "ae7d5c1d-35d4-4c80-a146-6643d7d1417f",
+                  "label": "change the subject",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5d95c20c-98de-4a26-9f5e-41dded415fda",
+                  "label": "hide the truth from me",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ee86d5eb-ff5d-45b7-928f-ddde395417cc",
+                  "label": "explain things to me",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "839351ab-4965-4c0b-81e1-f107adf015c1",
+              "question": "5. Sorry you had to work during your vacation. Let me <b>make it up to you</b>.",
+              "options": [
+                {
+                  "id": "5bf60897-ca2d-4428-b202-aad7f5d0077b",
+                  "label": "do something nice for you",
+                  "isCorrect": true
+                },
+                {
+                  "id": "91e2fba8-43f9-48f1-b70d-1c5a08537371",
+                  "label": "explain why",
+                  "isCorrect": false
+                },
+                {
+                  "id": "44fe9d31-320d-4670-9fc3-ea2635709a3a",
+                  "label": "take over your duties",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "4ac1a1f5-73b9-46e9-ac1e-1ab210ae622c",
+              "question": "6. Let's stop <b>messing around</b>. We need to get our new product launched next month.",
+              "options": [
+                {
+                  "id": "e77ee648-744d-4d03-85a0-2ecea3143d55",
+                  "label": "strategizing",
+                  "isCorrect": false
+                },
+                {
+                  "id": "8baf14c1-c7a8-4396-87bf-8e8a4cef0a7e",
+                  "label": "wasting time",
+                  "isCorrect": true
+                },
+                {
+                  "id": "98800195-c3d1-488a-85b5-6a9b7f14ab77",
+                  "label": "working hard",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "05f28d4a-46fd-47bb-903f-b42084315d37",
+              "question": "7. We paid a <b>pretty penny</b> for this new payroll software.",
+              "options": [
+                {
+                  "id": "776b8b27-6b8b-467b-88ad-b982155e5f9d",
+                  "label": "a reasonable sum",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a08cfb8c-37a8-41c3-b5af-533db5bf1bb0",
+                  "label": "a lot of money",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ef9743ac-f20f-4b88-96fb-ce0f8d45b321",
+                  "label": "not much",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "61aa952b-6a96-4252-9cea-966bac83cd6a",
+              "question": "8. We <b>pulled out all stops</b> to get Chad to accpet our job offer.",
+              "options": [
+                {
+                  "id": "46eea8b9-67f2-4679-9715-d89474251b7b",
+                  "label": "tried really hard",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e3556c05-7097-43da-b832-2db57db96e01",
+                  "label": "pulled hard",
+                  "isCorrect": false
+                },
+                {
+                  "id": "bde2dc25-9fa6-4c9b-bc39-3297604f6b66",
+                  "label": "paid a lot of money",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "The Troy Stone"],
+    "time": "10:22",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "content": "Paragraph 2",
+      "link": "#paragraph-2"
+    },
+    {
+      "content": "Paragraph 3",
+      "link": "#paragraph-3"
+    },
+    {
+      "content": "Paragraph 4",
+      "link": "#paragraph-4"
+    },
+    {
+      "content": "Paragraph 5",
+      "link": "#paragraph-5"
+    },
+    {
+      "content": "Paragraph 6",
+      "link": "#paragraph-6"
+    },
+    {
+      "content": "Paragraph 7",
+      "link": "#paragraph-7"
+    },
+    {
+      "content": "Paragraph 8",
+      "link": "#paragraph-8"
+    },
+    {
+      "content": "Paragraph 9",
+      "link": "#paragraph-9"
+    },
+    {
+      "content": "Paragraph 10",
+      "link": "#paragraph-10"
+    },
+    {
+      "content": "Paragraph 11",
+      "link": "#paragraph-11"
+    },
+    {
+      "content": "Paragraph 12",
+      "link": "#paragraph-12"
+    },
+    {
+      "content": "Paragraph 13",
+      "link": "#paragraph-13"
+    },
+    {
+      "content": "Paragraph 14",
+      "link": "#paragraph-14"
+    },
+    {
+      "content": "Paragraph 15",
+      "link": "#paragraph-15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/cover.png",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Mark Jackson is on holiday in Turkey. He visits the old city of Troy and finds a yellow stone. \"I know this stone, \"he thinks. \"It comes from.. from...\" Suddenly Mark goes back in time. He can see a beautiful city, soldiers and a big wooden horse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-1.png",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The Jackson family are on holiday in Turkey. They are staying at a big hotel in Istanbul. Mark (13), his sister Fay (12) and their parents like Turkey. It is beautiful, the weather is hot and the food is good. There is a lot to see, too. Today they are visiting the city of Troy. It is 9 o'clock in the morning. They are getting on a bus in front of their hotel."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52cc64d9-55ba-4352-81c1-83ecdd5aaa91",
+      "exercises": [
+        {
+          "id": "8e6032e2-19a1-4d33-b24b-f4e535c9bf82",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e7e40714-4f43-4ee4-86f0-82b70742fb70",
+              "question": "1.1 Where are the Jackson family on holiday?",
+              "options": [
+                {
+                  "id": "2aefa30e-ce51-4cc4-ad3b-50d6d6c4fe32",
+                  "label": "They are in Greece",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f8228a86-3b09-4063-847e-46be38326808",
+                  "label": "They are in Turkey",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "a9e32f12-8d89-4de4-97e8-fb2325f6b349",
+              "question": "1.2 What city are the Jackson family visiting today?",
+              "options": [
+                {
+                  "id": "e48b7c6c-3d12-4f1b-a939-f6b321b7e4e5",
+                  "label": "They're visting Istanbul.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d823bd42-02a6-4f3e-8f94-83b82c0f5621",
+                  "label": "They're visting Troy.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:38",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-2.png",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "There are forty people on the bus. They come from Britain, America, France, Italy and Holland. At Troy they all have lunch. Then they start to look at the old city. It is a very hot day. After an hour, Mark sits under a tree. \"I'm going to stop here for a moment,\" he tells Fay. \"OK,\" she answers. Then, Mark sees something on the ground. \"What's that?\" he thinks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "52cc64d9-55ba-4352-81c1-83ecdd5aaa91",
+      "exercises": [
+        {
+          "id": "8e6032e2-19a1-4d33-b24b-f4e535c9bf82",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "b3e2c4fb-74f7-4fa5-a767-ea3a20d5431f",
+              "question": "2.1 How many people are on the bus?",
+              "options": [
+                {
+                  "id": "a492d69f-0303-4c49-b599-7750347d62b5",
+                  "label": "There are 14.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "cfb49070-8109-4063-98ec-48ebc7607b27",
+                  "label": "There are 40.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "ea765f38-d5c1-45fa-b097-e5d20b4c8f59",
+              "question": "2.2 Where does Mark sit after an hour?",
+              "options": [
+                {
+                  "id": "9b2448c0-d040-4bc9-9540-c0544308b800",
+                  "label": "He sits under a tree",
+                  "isCorrect": true
+                },
+                {
+                  "id": "1d6fef8a-b739-40a9-9256-b2acde43772d",
+                  "label": "He sits under a rock.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:23",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-3.png",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "It is a flat, yellow stone. Mark picks it up. Then he starts to clean it with his hands. \"But I know this stone,\" he thinks. \"It comes from... from... Suddenly, there is a white light in his eyes. Mark closes them. The light is strong. Now there is a loud wind in his ears. He cannot hear or see anything. \"What's happening ?\" he thinks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3550060-8927-4dbf-a7a3-afcc2eb299a5",
+      "exercises": [
+        {
+          "id": "43b5df55-bd72-40f1-8f46-8d61852324ef",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "fc97041a-2e1e-45d2-88da-2383fc5349e3",
+              "question": "3.1 What does Mark do with the stone?",
+              "options": [
+                {
+                  "id": "da704547-6684-4ead-b7c3-93c1cf7e58c5",
+                  "label": "He throws it away",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0138efc1-b33a-430e-a83a-5f2f0aef94fa",
+                  "label": "He picks it up and starts cleaning it",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "cc5834ab-8e80-4c9b-b7c4-da62f89350c9",
+              "question": "3.2 How does Mark react to the bright light?",
+              "options": [
+                {
+                  "id": "7d13b03f-9871-472b-889d-9d5d2b712ec6",
+                  "label": "He closes his eyes.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "7486316b-619b-443c-b3a0-b195602d0c23",
+                  "label": "He opens his eyes.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:00",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-4.png",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Ten seconds later the light and the wind stop. Mark opens his eyes. He is standing on a beach. He can see hundreds of ships and men. Behind him there is a beautiful city with high walls. \"Where am I?\" he thinks. \"Where's my family?\" He puts the yellow stone in his pocket. Then one of the men says to him, \"Boy! Come here!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ae271ca4-be08-4319-ad8d-97236665891c",
+      "exercises": [
+        {
+          "id": "ec963f7c-217c-47a6-bf8c-a4d02bff4641",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "6f896fd8-a324-4416-9073-71b39b49737d",
+              "question": "4.1 Where is Mark standing when he opens his eyes?",
+              "options": [
+                {
+                  "id": "fc1bbfbb-3856-4f24-8955-0140296d526c",
+                  "label": "He's standing on a rock.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "efb43308-6cec-4c23-b2b6-d8e0a53a6e0e",
+                  "label": "He's standing on a beach.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "52f6e992-4a6d-48a3-8d06-b5849b1355a7",
+              "question": "4.2 What can Mark see when see open his eyes?",
+              "options": [
+                {
+                  "id": "3720dc8c-306f-40df-bf85-5b70b5ebf01b",
+                  "label": "He can see hundreds of ships and men.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "1b8f9872-80ce-4ebc-abac-014f724631ad",
+                  "label": "He can see hundreds of buses and men.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:36",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-5.png",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Me?\" Mark walks across the beach to a long, black ship. \"Carry this,\" the man says. He gives Mark a lot of wood. Then he gets off the ship. \"Follow me,\" he says. Mark follows him. The man is very tall and has a short, brown beard. \"I don't know your face,\" he says. \"Are you new here?\" \"Y-yes,\" Mark answers. \"That's right. I'm new here.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b3f9c3e1-8a4b-4f91-b9c7-d7a5e2f9b1c4",
+      "exercises": [
+        {
+          "id": "e1a9b7f3-4c21-4d91-b2c7-d8a5e1f9c4b7",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "f2b7c3a4-8a1f-4b91-b9d7-e4a5c1b7e9f3",
+              "question": "5.1 What does the man give to Mark when he gets off the ship?",
+              "options": [
+                {
+                  "id": "b1c4e2f9-8a7d-4b91-b1c7-d5a3f9b7e4f2",
+                  "label": "He gives him a sword.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9b3f1c4-5d7e-4b91-b18c-f4e2a1b9f7c3",
+                  "label": "He gives him a lot of wood.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c4b7f2a9-1e8a-4d91-b9c7-f3e2b1d7a5f9",
+              "question": "5.2 How does Mark describe himself when the man asks if he is new?",
+              "options": [
+                {
+                  "id": "e9b7f3a1-4c5d-4b91-b18c-d2a1f9e7c4b3",
+                  "label": "He describes himself saying: No, I haven't been here before.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f1b7c3a9-8e4d-4b91-b1c7-d5a2e9f4b7f3",
+                  "label": "He describes himself saying: Yes, that's right. I'm new here.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:16",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "\"My name is Andros,\" says the man. He and Mark walk for another ten minutes. Then they climb a small hill. At the top Mark stops. There, in front of them, is a big wooden horse. Andros sees Mark's face and smiles. \"Well... what do you think of it?\" he asks. Mark does not answer, and Andros says, \"This horse is going to win the war for us Greeks.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7b9f3c4-5d8e-4b91-b1c7-d5a2e9f4b7f3",
+      "exercises": [
+        {
+          "id": "b3e9f4a8-7c5d-4b91-b7c9-d2f9e5b4c2a1",
+          "title": "6. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "c1f3e9b4-7c5d-4b91-b7c9-d2f9e5b4c2a8",
+              "question": "6.1 What does Andros say the wooden horse will do?",
+              "options": [
+                {
+                  "id": "c5a9e4b7-1f3d-4b91-b7c9-d2f9b4a8e5c2",
+                  "label": "He says that the horse is going to win the war for the Troys.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b4a7e9f3-5c2d-4b91-b7c9-d2f9e5b1f3c8",
+                  "label": "He says that the horse is going to win the war for the Greeks.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "d2f7b4a9-8e5c-4b91-b7c9-a1f3e9d4c5b2",
+              "question": "6.2 What does Mark see at the top of the hill?",
+              "options": [
+                {
+                  "id": "f4b7e9a3-5c2d-4b91-b7c9-d2f9b1e5c3a8",
+                  "label": "A big wooden horse.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e5a9c4b7-1f3d-4b91-b7c9-d2f9b4a8e5c2",
+                  "label": "A group of soldiers.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "3:55",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraphs-6-7.png",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "They walk down the hill. There are a lot of men working under the horse. One of them talks to Andros. \"There's a problem,\" he says. \"We can't find a stone for the second eye. We must find one before tomorrow.\" Mark looks at the horse's one bright eye. Then he remembers the stone in his pocket. \"Wait!\" he says. \"I think I can help you.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a7d9b3e1-8a4c-4d91-b7c3-e9d1f8e9b6a5",
+      "exercises": [
+        {
+          "id": "e3f7a9b4-5c2d-4b91-b7c9-d2f9e4b7e9c1",
+          "title": "7. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "f1b7c3e9-4c5d-4b91-b7c9-d2f9b4e5c9a2",
+              "question": "7.1 What problem do the men face with the horse?",
+              "options": [
+                {
+                  "id": "b4e7f1c5-8d2e-4b91-b7c9-e2a3b7c4f5d6",
+                  "label": "They can't find a stone for the second eye.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c5e4a3b7-1d2f-4b91-b7c9-d2f9e4c9b7a9",
+                  "label": "They are missing some wood for the body.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d2e5f8a9-8c3d-4b91-b7c9-d5e4a9f7b5c2",
+              "question": "7.2 What does Mark remember that might help the men?",
+              "options": [
+                {
+                  "id": "b9f7e4c5-7c3d-4b91-b7c9-d2f9f9e4b8a7",
+                  "label": "He remembers the stone in his bag.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7e4b1c5-8c3d-4b91-b7c9-e2a3f9d5b7c9",
+                  "label": "He remembers the stone in his pocket.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "4:29",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-8.png",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "He takes the stone out of his pocket. \"But how. . .?!\" says Andros. The man smiles. \"That's it. That's it!\" He looks at Mark. \"What's your name, boy?\" Mark tells him. \"He's new here,\" says Andros. \"Ah!\" The man is very happy. \"Well ... we must thank him. I know. You can come with us in the horse tomorrow night.\" Mark's mouth opens. \"Me?!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9f7b3e1-5c7a-4d91-b7c9-d1e2f9a8b1f4",
+      "exercises": [
+        {
+          "id": "a8b5e2d4-4f2e-4b91-b7c9-d2f9b7e3a1c4",
+          "title": "8. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "c5e9b1d7-8c5d-4b91-b7c9-d2f9e7b5a9c3",
+              "question": "8.1 How does Andros react when Mark takes out the stone?",
+              "options": [
+                {
+                  "id": "b7f5e9b1-4c5d-4b91-b7c9-e5a3d7b9c6f1",
+                  "label": "He says, 'That's it. That's it!'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f1b4e2c7-5c9d-4b91-b7c9-d2f9b8e4a9c2",
+                  "label": "He looks confused and asks Mark to explain.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d2f7b1c9-9f5d-4b91-b7c9-e2a3d7b9c7a8",
+              "question": "8.2 What offer does the man make to Mark?",
+              "options": [
+                {
+                  "id": "f7c5e9b1-1e9f-4b91-b7c9-d5a3b9c7f2c4",
+                  "label": "To join them in the horse tomorrow night.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b1c4e2f9-8a7d-4b91-b1c7-d5a3f9b7e4f2",
+                  "label": "To become part of the army.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "5:14",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-9.png",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "That evening Mark sits near a big fire on the beach. There is an old woman beside him. Her name is Ana and she is a cook. She tells Mark lots of stories. Stories about Greece, the war, and the beautiful princess Helen. In the end she goes to bed. \"Goodbye, boy,\" she says. \"Come and see me again one day. Come and see me again.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5c7b3e9-4f2d-4b91-b7c9-d3f9a2e7b5f4",
+      "exercises": [
+        {
+          "id": "d9f7a1b3-8c7d-4b91-b7c9-d2f9a1e5c4b8",
+          "title": "9. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "b5f9c1a7-9d2e-4b91-b7c9-d2f9e1b7c6f2",
+              "question": "9.1 Who is sitting next to Mark by the fire?",
+              "options": [
+                {
+                  "id": "a7c5b9e1-4d2f-4b91-b7c9-d2f9a8e5c3d2",
+                  "label": "An old woman named Ana.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f3b7e9c5-4a2d-4b91-b7c9-d2f9b8e1a6f7",
+                  "label": "A soldier named Hector.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d8f3e1b4-9c2d-4b91-b7c9-d1e9f9c7b8c5",
+              "question": "9.2 What does Ana say to Mark before she goes to bed?",
+              "options": [
+                {
+                  "id": "e7a1f3b5-9c2e-4b91-b7c9-d2f9e9c5a8f4",
+                  "label": "Goodbye, boy. Good luck with the war.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f1c5e7b3-4a9f-4b91-b7c9-d2f9c1e7b4f2",
+                  "label": "Goodbye, boy. Come and see me again one day.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "5:51",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-10.png",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Next morning the horse is ready. Greek soldiers pull it to the gates of Troy. Then they leave it there, inside the horse there are forty Greeks. They wait all afternoon under the hot, yellow sun. Mark is sitting in the horse's head. \"What happens now?\" he thinks. Suddenly the gates open. Trojan soldiers walk out. They pull the horse inside and shut the gates again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7d9b5c4-6b7a-4c91-b7c9-d3f9a8e1b4c7",
+      "exercises": [
+        {
+          "id": "b9f7a2c3-8a7d-4b91-b7c9-d2f9b6e7a9c2",
+          "title": "10. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "d1b7e5a9-8c3d-4b91-b7c9-d2f9b4e7a8f2",
+              "question": "10.1 What happens to the horse in the morning?",
+              "options": [
+                {
+                  "id": "e5c7b3d9-1a8f-4b91-b7c9-d2f9b9c1a5e7",
+                  "label": "The Trojan soldiers push it into the city.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b3e1a5f7-9c2d-4b91-b7c9-d2f9e4c7a9f5",
+                  "label": "The Greek soldiers pull it to the gates of Troy.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "a7b5c2d3-9e4f-4b91-b7c9-d2f9e8a1b7f4",
+              "question": "10.2 What happens after the gates open?",
+              "options": [
+                {
+                  "id": "f9d7a1b2-8c5e-4b91-b7c9-d2f9e9b7a5f8",
+                  "label": "Trojan soldiers pull the horse inside and shut the gates again.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b3e5a9f7-8c1d-4b91-b7c9-d2f9c3a7e9f4",
+                  "label": "Greek soldiers attack the Trojan soldiers immediately.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "6:36",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-11.png",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Mark can hear the Trojans. \"Why are the Greeks giving us this horse?\" asks one. \"Do you think they want to end the war?\" \"Yes! Look!\" says a soldier on top of the city walls. \"Their ships are leaving!\" After that the Trojans eat, sing and dance all evening. Then they go to bed very late and Troy is quiet. At that moment the Greeks climb out of the horse."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5e7a4c2-8f9d-4b91-b7c9-d2f9e3b1a7c6",
+      "exercises": [
+        {
+          "id": "f9c3d7b5-8a4e-4b91-b7c9-d2f9b5a1b3e8",
+          "title": "11. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "a7f5e3d1-8c7d-4b91-b7c9-d2f9b4a5f7c9",
+              "question": "11.1 What do the Trojans think the Greeks want with the horse?",
+              "options": [
+                {
+                  "id": "b9c3e7a5-9d2e-4b91-b7c9-d2f9b3a1f8e5",
+                  "label": "They think the Greeks want to end the war.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c5a9f3b7-1e2d-4b91-b7c9-d2f9e8b5a7f1",
+                  "label": "They think the Greeks want to attack them during the night.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d1b9e4f8-9a7d-4b91-b7c9-d2f9c6a7b9f4",
+              "question": "11.2 What do the Trojans do after they eat, sing, and dance?",
+              "options": [
+                {
+                  "id": "e5b4a7f1-1a9e-4b91-b7c9-d2f9e2f8b5c3",
+                  "label": "They continue to celebrate all night.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a9e1c4-8d7f-4b91-b7c9-d2f9b3e1f7c6",
+                  "label": "They go to bed very late and Troy becomes quiet.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "7:19",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-12.png",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Four men go to the gates and open them. A minute later there are thousands of Greek soldiers in the city. They and their ships are back! They run from one building to another. In five minutes Troy is on fire. Mark watches all this. Suddenly he sees a beautiful woman. She is running along the city walls. \"It's Helen,\" he thinks, \"Helen of Troy!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c9b5e4f7-1d3a-4b91-b7c9-d2f9a6e1b4f9",
+      "exercises": [
+        {
+          "id": "e1c7d9f3-8a2d-4b91-b7c9-d2f9b3e5a7f4",
+          "title": "12. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "a7b5c9e1-4d8f-4b91-b7c9-d2f9e5a9f2b3",
+              "question": "12.1 What happens after the gates are open?",
+              "options": [
+                {
+                  "id": "f1e9c5b4-8d3e-4b91-b7c9-d2f9b2e1a6f2",
+                  "label": "The Trojan soldiers close the gates again.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b7f3e5c2-8d7f-4b91-b7c9-d2f9e4a1b9f4",
+                  "label": "Thousands of Greek soldiers enter the city.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c5a3e1f7-1b7d-4b91-b7c9-d2f9b9e7a5d4",
+              "question": "12.2 Who does Mark see running along the city walls?",
+              "options": [
+                {
+                  "id": "f9a2e7c5-3a1d-4b91-b7c9-d2f9b4a8f3c7",
+                  "label": "He sees Helen of Troy.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e8b5c3f7-4a2d-4b91-b7c9-d2f9d1e9f6a5",
+                  "label": "He sees Thousands of soldiers.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "7:57",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-13.png",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At that moment Andros says, \"Follow me, boy.\" He runs down a small street very fast. Mark follows, but the street is full of smoke. After a minute he cannot see anything. \"Andros!\" he says. \"Where are you?\" Then suddenly two Trojans with swords come out of the smoke. Mark looks at them. \"Please don't kill me,\" he says. \"Don't kill me! Please\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a4d7b3f8-9c2d-4b91-b7c9-d2f9e7a5b8c6",
+      "exercises": [
+        {
+          "id": "c5e3d9a1-7c6f-4b91-b7c9-d2f9a8b3f7b4",
+          "title": "13. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "b5a7e9c3-9d8f-4b91-b7c9-d2f9b2a7f5e8",
+              "question": "13.1 What does Mark do after the street fills with smoke?",
+              "options": [
+                {
+                  "id": "d5c7e2b9-4c3d-4b91-b7c9-d2f9a4f7b9c8",
+                  "label": "He runs back down the street.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e7f5b9a3-1d9f-4b91-b7c9-d2f9b7c3a1f2",
+                  "label": "He calls out for Andros.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "a1c5b7f8-3a6d-4b91-b7c9-d2f9b2a5e9f3",
+              "question": "13.2 What happens when Mark sees the two Trojans?",
+              "options": [
+                {
+                  "id": "c8e7f3a1-9b2d-4b91-b7c9-d2f9b5e4a8f9",
+                  "label": "He begs them not to kill him.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f9b3c2a8-4e1d-4b91-b7c9-d2f9e5a7b9c5",
+                  "label": "He tries to fight them off with his fists.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "8:36",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-14.png",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Mark! Mark! It's 4 o'clock. The bus is leaving in a minute.\" Fay is looking down at Mark. After a moment he suddenly wakes up. \"What?\" he asks. \"The bus is leaving,\" Fay says again. Then she asks, \"Are you OK? Your face is white. And what's that dirty stone?\" Mark looks at the yellow stone in his hand. \"This? Oh... it's nothing.\" he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8e4d7a9-1d5f-4b91-b7c9-d2f9a2b6f3d4",
+      "exercises": [
+        {
+          "id": "a3d9e8b7-4c2f-4b91-b7c9-d2f9e7b6c9a3",
+          "title": "14. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "e7a5c6b9-4d3f-4b91-b7c9-d2f9e8a7f2b1",
+              "question": "14.1 What does Fay say to Mark when she wakes him up?",
+              "options": [
+                {
+                  "id": "f1c2e5a7-4d8f-4b91-b7c9-d2f9b7a8d6c1",
+                  "label": "The bus has already left.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b5e9d2a3-8a7f-4b91-b7c9-d2f9c6b9f1d8",
+                  "label": "The bus is leaving in a minute.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c6b7f5d2-8a1d-4b91-b7c9-d2f9e4a9f8d2",
+              "question": "14.2 What does Fay ask about Mark's appearance?",
+              "options": [
+                {
+                  "id": "a3d5c6b8-9f4e-4b91-b7c9-d2f9e5a7f6a2",
+                  "label": "She asks if he's tired and if he has a headache.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d5c7e9a6-1b7f-4b91-b7c9-d2f9b3e1f9a3",
+                  "label": "She asks if he's OK and why his face is white.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "9:18",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-troy-stone/paragraph-15.png",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Mark stands up. He sees an old woman. She has lots of small wooden horses in a basket. \"Do you want one, boy?\" she asks. \"Yes. Why not?\" Mark buys a horse and looks at the woman. \"No. It can't be,\" he thinks. He walks to the bus. Behind him the old woman smiles. \"Goodbye, boy,\" she says. \"Come and see me again one day. Come and see me again.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c3e9b2f7-9d5a-4b91-b7c9-d2f9b8a1f4d7",
+      "exercises": [
+        {
+          "id": "b7e5f3d1-4d8f-4b91-b7c9-d2f9c9e7a8f5",
+          "title": "15. Choose the correct answers.",
+          "radio": [
+            {
+              "id": "a3b9e7f4-9c1d-4b91-b7c9-d2f9e2a6f5c9",
+              "question": "15.1 What does the old woman have in her basket?",
+              "options": [
+                {
+                  "id": "f7c6d9a4-8b5d-4b91-b7c9-d2f9e1b8f2c4",
+                  "label": "She has a lot of small golden horses.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d1e7b3f4-9b2c-4b91-b7c9-d2f9a5b6f8a7",
+                  "label": "She has a lot of small wooden horses.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

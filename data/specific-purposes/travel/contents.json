@@ -1,0 +1,23 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Travel"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "...",
+          "contents": [
+            {
+              "checkboxLink": "/materials/specific-purposes/...",
+              "checkboxLabel": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

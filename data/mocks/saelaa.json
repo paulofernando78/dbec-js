@@ -1,0 +1,298 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 1 • ..."]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-1.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 1 • ...</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>...:</b> ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "",
+      "exercises": [
+        {
+          "id": "",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "",
+              "question": "1. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "2. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "3. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "4. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "5. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "6. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "7. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "8. ...",
+              "options": [
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": true
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                },
+                {
+                  "id": "",
+                  "label": "...",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

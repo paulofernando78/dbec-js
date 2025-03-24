@@ -1,0 +1,899 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "The Pearl Girl"],
+    "time": "11:47",
+    "usa": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "content": "Paragraph 2",
+      "link": "#paragraph-2"
+    },
+    {
+      "content": "Paragraph 3",
+      "link": "#paragraph-3"
+    },
+    {
+      "content": "Paragraph 4",
+      "link": "#paragraph-4"
+    },
+    {
+      "content": "Paragraph 5",
+      "link": "#paragraph-5"
+    },
+    {
+      "content": "Paragraph 6",
+      "link": "#paragraph-6"
+    },
+    {
+      "content": "Paragraph 7",
+      "link": "#paragraph-7"
+    },
+    {
+      "content": "Paragraph 8",
+      "link": "#paragraph-8"
+    },
+    {
+      "content": "Paragraph 9",
+      "link": "#paragraph-9"
+    },
+    {
+      "content": "Paragraph 10",
+      "link": "#paragraph-10"
+    },
+    {
+      "content": "Paragraph 11",
+      "link": "#paragraph-11"
+    },
+    {
+      "content": "Paragraph 12",
+      "link": "#paragraph-12"
+    },
+    {
+      "content": "Paragraph 13",
+      "link": "#paragraph-13"
+    },
+    {
+      "content": "Paragraph 14",
+      "link": "#paragraph-14"
+    },
+    {
+      "content": "Extra",
+      "link": "#extra"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/cover.jpg",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Kate Grant comes from Canada. She is visiting Europe with her mother and father. One evening she sees two men in a museum. They are taking a very famous picture, Girl with a Pearl Earring. What can Kate do?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-1.jpg",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Kate Grant is fifteen and comes from Canada. She is visiting the Netherlands with her mother and father. On June 8th, the Grants are at a museum in The Hague. \"This is very good\". Mr. Grant says. He is looking at a picture of an old man. \"Yes,\" Mrs. Grants says. \"What do you think, Kate?\" \"It's OK,\" Kate says. She looks at her watch. It is four forty-five."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2969b834-ee86-4996-b83d-6580c113b223",
+      "exercises": [
+        {
+          "id": "3824c22f-6436-48d8-8db3-e83b95188a9a",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e5751f88-d505-43de-97a3-14a470ffdd32",
+              "question": "1.1 What is Mr. Grant looking at?",
+              "options": [
+                {
+                  "id": "59a4178b-c234-4f23-bbe5-9fdb6137fd79",
+                  "label": "He's looking at a picture of an old woman.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "be18fabb-8a05-4934-98db-c9d4fddb75a1",
+                  "label": "He's looking at a picture of an old man.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "86f22794-9ca4-4e78-8223-cc024f92ded1",
+              "question": "1.2 What time is it when Kate looks at her watch?",
+              "options": [
+                {
+                  "id": "b49f5595-6fed-422d-8841-27fada200c13",
+                  "label": "She looks at her watch at 4:55.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2aa8d016-33cf-480e-a3b7-97683c236b6b",
+                  "label": "She looks at her watch at  4:45.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:50",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-2.jpg",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two minutes later she sees a picture of a young girl with an earring. Kate smiles. She loves earrings. She looks at the girl's face. \"Who are you?\" she thinks. \"What are you looking at?\" \"That's a very famous picture,\" Mrs. Grant says. A sign next to it says, \"Girl with a Pearl Earring.\" \"It's beautiful,\" Kate says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4b8e3e2-4d4e-4f8b-9b8e-4d4e4f8b9b8e",
+      "exercises": [
+        {
+          "id": "d3e4f5e6-7d8e-4f9b-8e7d-8e4f9b8e7d8e",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "c2d3e4f5-6d7e-4f8b-7d6e-7e4f8b7d6e7e",
+              "question": "2.1 What does Kate love?",
+              "options": [
+                {
+                  "id": "a0b1c2d3-4d5e-4f6b-5d4e-5e4f6b5d4e5e",
+                  "label": "She loves paintings.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b1c2d3e4-5d6e-4f7b-6d5e-6e4f7b6d5e6e",
+                  "label": "She loves earrings.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "09a54959-0d64-45b1-afa6-7b2f50290983",
+              "question": "2.2 What is the name of the painting Kate sees?",
+              "options": [
+                {
+                  "id": "87641a96-0b70-46fe-a4f0-ebb9ba6f6f74",
+                  "label": "Girl with a Gold Earring.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9fb23ef2-8905-47e4-872d-e7bf9dd4beb3",
+                  "label": "Girl with a Pearl Earring.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:33",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-3.jpg",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At four fifty-eight, the Grants are drinking coffee near the museum. \"Julia, do you have the guide book?\" Mr. Grant asks. \"No, Carl. You have it,\" Mrs. Grant says. They look for the guidebook in their bags, then Mr. Grant says, \"Oh no, I remember now. It's on a chair near 'Girl with a Pearl Earring'. My passport is in that book!\" Kate gets up quickly. \"Stay here, she says. \"I can find it.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e5f6g7h8-9i0j-1k2l-3m4n-5o6p7q8r9s0t",
+      "exercises": [
+        {
+          "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "2cf1fa93-e613-4be8-8fb3-b9b8e39fda38",
+              "question": "3.1 What time are the Grants drinking coffee?",
+              "options": [
+                {
+                  "id": "4581baa2-fa77-4115-85fc-4fa67af24282",
+                  "label": "At 4:48.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6c0ad6fb-5906-4d73-a2db-0c6da26263e6",
+                  "label": "At 4:58.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c3d4e5f6-7g8h-9i0j-1k2l-3m4n5o6p7q8r",
+              "question": "3.2 Where did Mr. Grant leave his passport?",
+              "options": [
+                {
+                  "id": "b2c3d4e5-6f7g-8h9i-0j1k-2l3m4n5o6p7q",
+                  "label": "He leaves the passport on a chair near 'Girl with a Pearl Earring.'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "He leaves the passport in his pocket.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:26",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-4.jpg",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Kate runs to the museum. A guard is closing the door. \"Stop!\" Kate says. \"My father's passport is in the museum.\" \"I'm sorry, but we close at five o'clock, \"the guard says. A sign on his shirt says, \"Paul Van Dyck.\" \"Please,\" Kate says, \"It's very important.\" The guard looks at his watch, then a(t) Kate. \"OK,\" he says and smiles. \"Come with me.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7g8h9i0-1j2k-3l4m-5n6o-7p8q9r0s1t2u",
+      "exercises": [
+        {
+          "id": "e6f7g8h9-0i1j-2k3l-4m5n-6o7p8q9r0s1t",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5e6f7g8-9h0i-1j2k-3l4m-5n6o7p8q9r0s",
+              "question": "4.1 What does Kate ask the guard?",
+              "options": [
+                {
+                  "id": "c4d5e6f7-8g9h-0i1j-2k3l-4m5n6o7p8q9r",
+                  "label": "She asks him to let her in to find her father's passport.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b3c4d5e6-7f8g-9h0i-1j2k-3l4m5n6o7p8q",
+                  "label": "She asks him to show her the famous painting.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "bd223782-ae47-40c7-a0fe-dadb5fbdd68d",
+              "question": "4.2 What is the guard's name?",
+              "options": [
+                {
+                  "id": "7f80f5e5-de95-44b0-9cae-e00e25a0a59b",
+                  "label": "Hi name is Paul Van Dyck.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "7e28c424-1f74-4976-a7a0-facfea1ff476",
+                  "label": "Hi name is Peter Van Dyck.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "3:14",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-5.jpg",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Kate goes into the museum with Paul Van Dyck. It is dark and there aren't any people in the rooms. \"Where is the passport?\" Paul asks. \"Do you know?\" \"Yes. It's on a chair near that picture of a girl with an earring,\" Kate says. They walk for a minute, then Paul Van Dyck stops. \"Sshh!\" he says. \"I can hear voices.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+      "exercises": [
+        {
+          "id": "f8g9h0i1-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e7f8g9h0-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+              "question": "5.1 What does Paul Van Dyck hear?",
+              "options": [
+                {
+                  "id": "d6e7f8g9-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+                  "label": "He hears voices.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c5d6e7f8-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+                  "label": "He hears footsteps.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:56",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-6.jpg",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Kate looks at Paul. He isn't smiling now. Then she hears voices, too. \"Be very, very quiet,\" Paul says. He takes a phone from his coat pocket, but suddenly there are two men in the room. One is tall and has a big, black bag in his hands. The short man has a gun. They look at Kate and Paul. Kate and Paul look a(t) the men. Time stops."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h0i1j2k3-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+      "exercises": [
+        {
+          "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "f8g9h0i1-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+              "question": "6.1 What does the short man have?",
+              "options": [
+                {
+                  "id": "d6e7f8g9-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+                  "label": "He has a knife.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e7f8g9h0-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+                  "label": "He has a gun.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "425c2269-972e-4b6d-8824-b512c6e80a7c",
+              "question": "6.2 What does the tall man carry?",
+              "options": [
+                {
+                  "id": "89c363b1-9a54-49c1-821a-708887823dbb",
+                  "label": "He carries a black bag,",
+                  "isCorrect": true
+                },
+                {
+                  "id": "809ae1cd-8264-4237-add8-b04fa5130e50",
+                  "label": "He carries a flashlight",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "4:45",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-7.jpg",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Put your phone on the floor,\" the short man says. \"Now!\" His voice is cold. \"No,\" Paul says. Suddenly there is a bang! Paul falls down and says. \"My leg!\" Kate looks at him. \"Get the girl,\" says the tall man. The short man puts his cold hand across Kate's mouth, She is very scared. \"Come with us,\" he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i1j2k3l4-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+      "exercises": [
+        {
+          "id": "h0i1j2k3-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+              "question": "7.1 What happens to Paul?",
+              "options": [
+                {
+                  "id": "e7f8g9h0-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+                  "label": "He gets shot in the arm.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f8g9h0i1-2j3k-4l5m-6n7o-8p9q0r1s2t3u",
+                  "label": "He gets shot in the leg.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "5:32",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-8.jpg",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "A minute later Kate and the thieves are in a small street behind the museum. They get into a car, and the tall thief drives very quickly for thirty minutes. The men don't talk. Kate is on the floor. She can see a picture in the black bag. It is \"Girl with a Pearl Earring\", \"Where are we going?\" she thinks. Then she looks up and sees a sign. It says, \"Amsterdam 10.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+      "exercises": [
+        {
+          "id": "i1j2k3l4-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "h0i1j2k3-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+              "question": "8.1 Where do the thieves take Kate?",
+              "options": [
+                {
+                  "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+                  "label": "They take her to a small street behind the museum.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "They take her to Amsterdam.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "6:27",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-9.jpg",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At 5:40 the car stops. \"Get up,\" the short thief says. His voice is very quiet. He opens the car door. The gun is under his coat. \"Smile,\" he says. Kate is scared but she smiles. There are people in the street. She can see a boat. Its name is the Black Dog, The cold gun is next to her back. The tall thief is behind them with his black bag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+      "exercises": [
+        {
+          "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "i1j2k3l4-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+              "question": "9.1 What is the name of the boat Kate sees?",
+              "options": [
+                {
+                  "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+                  "label": "Kate sees a boat called 'The Black Cat.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "h0i1j2k3-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+                  "label": "Kate sees a boat called 'The Black Dog'.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "7:18",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-10.jpg",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Sit down and be quiet!\" says the short thief. They are in the Black Dog's kitchen. It has one small window. Kate sits on a chair, and the men close the door and go. Later, Kate hears their voices. \"What do we do now?\" the short man says. \"We send a note to her family,\" the tall thief answers. \"They want the girl back. We want money. It isn't difficult.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+      "exercises": [
+        {
+          "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+              "question": "10.1 What do the thieves plan to do?",
+              "options": [
+                {
+                  "id": "i1j2k3l4-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+                  "label": "They plan to send a note to Kate's family.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "They plan to send a note to the police.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "8:11",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-11.jpg",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Kate is very scared. She looks around the kitchen. Suddenly, she sees a ship in a bottle. There is a pen next to it. Quickly she writes a note. It says: \"I'm on the Black Dog with two thieves. They have ‘Girl with a Pearl Earring'. Call the police! My name is Kate Grant.\" Then she puts her note in the bottle. She opens the small window and throws the bottle into the canal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+      "exercises": [
+        {
+          "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+              "question": "11.1 What does Kate do with the note she writes?",
+              "options": [
+                {
+                  "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "She gives it to the thieves.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+                  "label": "She puts it in a bottle and throws it into the canal.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "9:04",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-12.jpg",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At 9:15 that evening the bottle is a kilometer from the Black Dog. An old man is walking next to the canal. He stops. \"A ship in a bottle!\" he thinks. \"That's interesting.\" He picks the bottle out of the water. Then he sees Kate's note and reads it. \"Thieves!\" he thinks. \"This is important.\" He makes a call. \"Hello? Police?\" he says. He is talking very quickly. \"Listen to this.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+      "exercises": [
+        {
+          "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+              "question": "12.1 Who finds Kate's note?",
+              "options": [
+                {
+                  "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+                  "label": "An old man.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+                  "label": "A police officer.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "10:04",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-13.jpg",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At 11:25 Kate is trying to sleep in the Black Dog's kitchen. Suddenly her eyes open. She can hear a woman's voice. \"POLICE!\" the woman says. \"Put the gun on the floor. That's right. Now put your hands on your head. Quickly!\" Then the kitchen door opens. Kate sees three policemen and two policewomen. \"It's OK,\" one of the policemen says. \"We're here now.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+      "exercises": [
+        {
+          "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+              "question": "13.1 Who rescues Kate?",
+              "options": [
+                {
+                  "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+                  "label": "Her parents",
+                  "isCorrect": false
+                },
+                {
+                  "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+                  "label": "The police",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "11:58",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-pearl-girl/paragraph-14.jpg",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two days later Kate is in The Hague again with her mother and father. Some TV people are there, too. The museum's director and Paul Van Dyck are standing next to her. The director smiles, \"Thank you very much, Kate,\" he says. Then he gives her a small bag. Kate opens it and smiles. In the bag, there are two beautiful pearl earrings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8q9r0s1-2t3u-4v5w-6x7y-8z9a0b1c2d3e",
+      "exercises": [
+        {
+          "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+              "question": "14.1 What does the director give to Kate?",
+              "options": [
+                {
+                  "id": "d4e5f6g7-8h9i-0j1k-2l3m-4n5o6p7q8r9s",
+                  "label": "He gives her a big box.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+                  "label": "He gives her a small bag.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Extra",
+      "bgColor": "Lightgray",
+      "textColor": "black",
+      "id": "extra"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/young-learners-adult/girl-with-a-pearl-earring.jpg",
+          "imgAlt": "The Nertherlands map",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'Girl with a Pearl Earring' is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century because of the earring worn by the girl portrayed there.[3] The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary and cinematic treatments."
+            }
+          ]
+        },
+        {
+          "imgSrc": "/young-learners-adult/johannes-vermeer.webp",
+          "imgAlt": "The Nertherlands map",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Johannes Vermeer was a Dutch painter who specialized in domestic interior scenes of middle-class life. He is considered one of the greatest painters of the Dutch Golden Age. During his lifetime, he was a moderately successful provincial genre painter, recognized in Delft and The Hague."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "This map shows how Holland makes up just two of the provinces in all of the Netherlands."
+            },
+            {
+              "textPt": "Este mapa mostra como a Holanda representa apenas duas das províncias de toda a Holanda."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "imgSrc": "/young-learners-adult/map-the-netherlands.png",
+      "imgAlt": "The Nertherlands map"
+    }
+  ]
+}

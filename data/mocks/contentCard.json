@@ -1,0 +1,59 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "subtitle": "Beginner (A1)"
+  },
+  "contents": [
+    {
+      "headerLabel": "Header Label",
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Card Label",
+          "contents": [
+            {
+              "content": "Content"
+            },
+            {
+              "applyHr": true
+            },
+            {
+              "showIndex": true,
+              "links": [
+                {
+                  "link": "...",
+                  "linkLabel": "Link"
+                },
+                {
+                  "link": "...",
+                  "linkLabel": "Link"
+                },
+                {
+                  "link": "...",
+                  "linkLabel": "Link"
+                },
+                {
+                  "globeLink": "...",
+                  "globeLabel": "Globe Link"
+                },
+                {
+                  "globeLink": "...",
+                  "globeLabel": "Globe Link"
+                },
+                {
+                  "checkboxLink": "...",
+                  "checkboxLabel": "Checkbox Link"
+                },
+                {
+                  "checkboxLink": "...",
+                  "checkboxLabel": "Checkbox Link"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

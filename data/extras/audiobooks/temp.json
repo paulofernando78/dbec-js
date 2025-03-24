@@ -1,0 +1,152 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "audiobooks"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "lightgrey",
+          "textColor": "black",
+          "cardLabel": "Audiobooks",
+          "contents": [
+            {
+              "link": "/materials/extras/audiobooks/audiobooks/starter",
+              "linkLabel": "Starter (Pre-A1) 200 headwords"
+            },
+            {
+              "link": "/materials/extras/audiobooks/audiobooks/beginner",
+              "linkLabel": "Beginner (A1) 300 headwords"
+            },
+            {
+              "link": "/materials/extras/audiobooks/audiobooks/elementary ",
+              "linkLabel": "Elementary (A2) 600 headwords"
+            },
+            {
+              "link": "/materials/extras/audiobooks/audiobooks/pre-intermediate ",
+              "linkLabel": "Pre-Intermediate (A2-B1) 1200 headwords"
+            },
+            {
+              "link": "/materials/extras/audiobooks/audiobooks/intermediate ",
+              "linkLabel": "Intermediate (B1) 1700 headwords"
+            }
+          ]
+        },
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Articles (Intermediate)",
+          "contents": [
+            {
+              "link": "/materials/extras/audiobooks/articles/arts-and-culture",
+              "linkLabel": "Arts & Culture"
+            },
+            {
+              "link": "/materials/extras/audiobooks/articles/health-and-lifestyle",
+              "linkLabel": "Health & Lifestyle"
+            },
+            {
+              "link": "/materials/extras/audiobooks/articles/science-and-technology",
+              "linkLabel": "Science & Technology"
+            }
+          ]
+        },
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Radios",
+          "contents": [
+            { "globeLink": "https://laist.com/", "globeLabel": "LAist" },
+            {
+              "globeLink": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+              "globeLabel": "BBC Service"
+            }
+          ]
+        },
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Links",
+          "contents": [
+            { "globeLink": "https://chatgpt.com/", "globeLabel": "ChatGPT" },
+            { "globeLink": "https://youglish.com/", "globeLabel": "Youglish" },
+            {
+              "globeLink": "https://www.playphrase.me/",
+              "globeLabel": "Play Phrase"
+            },
+            {
+              "globeLink": "https://learningenglish.voanews.com/",
+              "globeLabel": "VOA Special English"
+            },
+            {
+              "globeLink": "https://www.cbc.ca/radio/quirks",
+              "globeLabel": "Quirks and Quarks"
+            },
+            {
+              "globeLink": "https://lyricstraining.com/",
+              "globeLabel": "Lyrics training"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Reading",
+      "cardContents": [
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Links",
+          "contents": [
+            {
+              "globeLink": "https://www.phrasemix.com/",
+              "globeLabel": "Phrase Mix"
+            },
+            {
+              "globeLink": "https://www1.folha.uol.com.br/internacional/en/",
+              "globeLabel": "Folha de São Paulo (English Version)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Speaking",
+      "cardContents": [
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Topics",
+          "contents": [{ "globeLink": "...", "globeLabel": "..." }]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Writing",
+      "cardContents": [
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "cardLabel": "Topics",
+          "contents": [{ "globeLink": "...", "globeLabel": "..." }]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Miscellaneous",
+      "cardContents": [
+        {
+          "bgColor": "lightgray",
+          "textColor": "black",
+          "label": "Links",
+          "contents": [
+            { "globeLink": "https://chatgpt.com/", "globeLabel": "ChatGPT" },
+            { "globeLink": "...", "globeLabel": "Gemini" },
+            { "globeLink": "...", "globeLabel": "Lhama" }
+          ]
+        }
+      ]
+    }
+  ]
+}

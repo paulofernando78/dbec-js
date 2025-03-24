@@ -1,0 +1,305 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 12 • Running a meeting"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-12.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 12 • Running a meeting</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Julia is running a meeting. When Larry and Sally start arguing, Julia has to bring the meeting back under control."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> Let's <b>get down to business</b>. We need to <b>cover a lot of ground</b>. Our first <b>agenda item</b> is to figure out how we're going to respond to all the complaints we've been getting about our new website."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Larry:</b> Just so we're all <b>on the same page</b>, please give us an overview of the problem."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> <b>In a nutshell</b>, our customers are complaining that it's very difficult to place orders through the new website."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Sally:</b> I think we <b>jumped the gun</b> by not conducting focus groups with our customers before we launched our new website."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Larry:</b> More focus groups? <b>Every time I turn around</b> we're running focus groups! It's <b>gotten out of hand</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Sally:</b> <b>I beg to differ</b>. Focus groups are very important. They help us better understand our customer."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> Well, clearly you two <b>don't see eye-to-eye</b> on this issue."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Larry:</b> Ha! <b>That's putting it lightly</b>! Focus groups are a waste of time and…..."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> Excuse me, let's not <b>get off track</b> here. Does anybody else want to <b>weigh in on the issue at hand</b>?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Carl:</b> If I can <b>put in my two cents</b>, I agree with Sally that focus groups would've been a good idea."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> Well, enough about focus groups for now. Let's move on to our next agenda item — planning for our <b>company offsite</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Larry:</b> Wait, I'm not finished talking about the website!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Julia:</b> We can <b>circle back</b> to that at the end of our meeting if we have time. I want to keep us on schedule since I know many of us have another meeting at 11 o'clock."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "4b447f49-4a36-49d4-a57c-9b73bd7aaa05",
+      "exercises": [
+        {
+          "id": "88fe5443-8be3-4f74-9779-221d0f09e89e",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "e5b08162-2a12-40ab-a67e-099166079a97",
+              "question": "1. Jim thinks his company should outsource its customer service to India, but his boss thinks they should keep it in California. They <b>don't see eye-to-eye on</b> the issue.",
+              "options": [
+                {
+                  "id": "b4209d25-2afd-418b-9704-fa78766ae1da",
+                  "label": "don't understand",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7d95e9f2-1211-4aef-b84e-ec5e71cd5c23",
+                  "label": "don't agree on",
+                  "isCorrect": true
+                },
+                {
+                  "id": "78aa2255-614c-4313-b760-f66b3adb1eae",
+                  "label": "agree on",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "181ca925-84e1-40f3-a9cf-6e150d297634",
+              "question": "2. We're going to conduct focus groups so consumers can <b>weigh in on</b> the design of some of our new products.",
+              "options": [
+                {
+                  "id": "419c36a3-5e21-490d-b7e0-c66f5e6433a5",
+                  "label": "complain about",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f3072c25-2d4d-4414-bcfa-a73392792060",
+                  "label": "dictate",
+                  "isCorrect": false
+                },
+                {
+                  "id": "32c87e27-ca96-433d-ad35-857404afde81",
+                  "label": "give their opinion on",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "19c6615d-aa29-4174-9aa8-671d06fd1083",
+              "question": "3. I know we're in a hurry to end the meeting, but let me just <b>circle back to</b> something David said earlier.",
+              "options": [
+                {
+                  "id": "0afd3754-3f95-4e20-a3e9-eab547742417",
+                  "label": "emphasize",
+                  "isCorrect": false
+                },
+                {
+                  "id": "70dac76f-3b35-443e-80b2-fc8d061d1068",
+                  "label": "return to",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5b54a747-d722-430d-8e07-f85e2ec052d5",
+                  "label": "dismiss",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "06ac92b5-e6b3-47f7-8088-e09eafc502eb",
+              "question": "4. <b>Every time I turn around</b>, Ellen and Kelly are chatting.",
+              "options": [
+                {
+                  "id": "099f6149-db43-49d0-b190-56339e3e6364",
+                  "label": "Very frequently",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b9fb8083-d251-4abb-9bcf-5daf510b904a",
+                  "label": "Whenever I turn my back",
+                  "isCorrect": false
+                },
+                {
+                  "id": "daf6cb10-fd02-4c47-9f4c-86ae263d88c7",
+                  "label": "From time to time",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "e555bc07-060a-436d-85bb-ca0055716dab",
+              "question": "5. Let's <b>not jump the gun</b> by buying a new printer before we can see if the old one can be",
+              "options": [
+                {
+                  "id": "48360c22-d74f-4030-a559-fc291a7094f7",
+                  "label": "not act too quickly",
+                  "isCorrect": true
+                },
+                {
+                  "id": "70b9b7da-0a43-4b3f-9447-b44e297e7bed",
+                  "label": "take action now",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5f0938a0-d03c-4c4c-9430-24bd039684e6",
+                  "label": "be efficient",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ef5ef2fc-c417-4a48-a6b1-c13f1a1f06ec",
+              "question": "6. I know many of you have more to say on this issue, but I'm afraid we're going to have to <b>move on</b> so we can finish this meeting on time.",
+              "options": [
+                {
+                  "id": "7c33a7fb-8da3-4b6b-b989-12c50989f9aa",
+                  "label": "continue to discuss this",
+                  "isCorrect": false
+                },
+                {
+                  "id": "70b210e3-0ac0-45d2-9868-023343fc1ca5",
+                  "label": "leave the conference room now",
+                  "isCorrect": false
+                },
+                {
+                  "id": "921518f9-9cbd-479d-995d-43229dc89063",
+                  "label": "proceed to our next topic",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c763b41a-c721-4903-a222-aa3ea95bd231",
+              "question": "7. Our office expenses are <b>out of hand</b>. We're going to have to stop spending so much.",
+              "options": [
+                {
+                  "id": "08e01a50-0269-40bf-a924-6b106a42e493",
+                  "label": "hard to count",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9e986bec-4f49-4be3-a6b6-c30df77ba3f3",
+                  "label": "written down",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ca2a2a39-1f17-4bbe-8c5d-6037007bef5e",
+                  "label": "much too high",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "782439e5-d18b-465b-8707-5c0c96411238",
+              "question": "8. Calvin <b>covered a lot of ground</b> with his local partners during his business trip to Tokyo.",
+              "options": [
+                {
+                  "id": "91920739-8a1a-4a0d-a32e-3d6f703c0a5f",
+                  "label": "saw much of the city",
+                  "isCorrect": false
+                },
+                {
+                  "id": "23743204-f0d8-4495-ae39-bb59d6114d06",
+                  "label": "had successful conversations",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e0797827-4b7a-436e-9b5f-6cf53a1ef639",
+                  "label": "made a lot of money",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

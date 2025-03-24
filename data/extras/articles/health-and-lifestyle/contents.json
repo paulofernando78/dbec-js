@@ -1,0 +1,33 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Skills",
+    "descriptions": [
+      "Listening",
+      "Articles",
+      "Health and Lifestyle"
+    ],
+    "subDescription": "June, 24, 2024"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "By date",
+          "contents": [
+            {
+              "link": "/materials/extras/skills/listening/articles/health-and-lifestyle/doctors-give-new-guidelines-for-preventing-stroke",
+              "linkLabel": "Doctors Give New Guidelines for Preventing Stroke (June 24, 2024)"
+            },
+            {
+              "link": "/materials/extras/skills/listening/articles/health-and-lifestyle/life-is-a-video-game",
+              "linkLabel": "Life is a Video Game, These Are the Cheat Codes (August, 2024)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

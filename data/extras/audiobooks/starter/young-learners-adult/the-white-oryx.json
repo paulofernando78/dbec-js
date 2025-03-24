@@ -1,0 +1,995 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Stater", "The White Oryx"],
+    "time": "09:32",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragrap,h-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/cover.png",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Summary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-1.png",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"There! Near the trees. Can you see them? They're the white oryx of Arabia,\" Abdullah says very quietly. Mandy Brown takes some photos of the oryx. She is writing a book about the animals of Arabia. Today she is in the desert with Abdullah. He is an oryx ranger. \"They're beautiful animals,\" Mandy says. \"But the desert is very big. How do you find them?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4225148b-f44a-4d9d-9b9a-c14f4a44c623",
+      "exercises": [
+        {
+          "id": "fa13fd3e-131d-4e80-98be-b5ecfaf0bb89",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "887fbf1a-5e0e-400a-994c-b9f06f2fa3d5",
+              "question": "1.1 What is Abdullah's role?",
+              "options": [
+                {
+                  "id": "0f0e2eb2-06f9-4c72-8e7d-0da4403ca0af",
+                  "label": "He's a Photographer.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c321a43d-7f1a-4bb5-a060-3209c3651a26",
+                  "label": "He's an Oryx ranger.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "75a271cb-6600-47b4-bcc4-4996b92e76b6",
+              "question": "1.2 What is Mandy Brown writing a book about?",
+              "options": [
+                {
+                  "id": "54179e3f-28ec-461a-83bc-9c014c49e3d2",
+                  "label": "She's writing a book about animals of Arabia.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d30f6f67-e019-4bce-bf7a-3c7bab6fd917",
+                  "label": "She's writing a book about desert plants.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-2.png",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"We put little radios on the oryx,\" Abdullah says. \"You can see one there, on its neck. With the radios we can usually find them.\" Suddenly there is a noise behind them. It is the big radio in the car. The oryx look up and run away quickly. \"Abdullah!\" the radio says. \"Can you hear me? There's a problem in Wadi Bidbid. Perhaps poachers.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "83383c1f-8bf4-4bdf-a499-9481fe2c433f",
+      "exercises": [
+        {
+          "id": "222b7bdc-6c36-47c8-8082-ad14dca6bc17",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "1cd7b8dc-458d-47f1-ac34-18c5ef04f15f",
+              "question": "2.1 How do Abdullah and Mandy usually find the oryx?",
+              "options": [
+                {
+                  "id": "81fb1b3c-e0ef-4fee-8adf-beb9c55d97ba",
+                  "label": "The usually Follow tracks.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7ff95e7-8d13-4a4c-a96e-a8dd3595ea2b",
+                  "label": "They usually use radios on the oryx.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "769075c4-dbe2-4ff5-b9c9-0cde2d52c045",
+              "question": "2.2 What noise do Abdullah and Mandy hear behind them?",
+              "options": [
+                {
+                  "id": "81057d7f-066b-4438-b5db-c340d8e2de49",
+                  "label": "They hear a helicopter.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "cab41427-f506-491d-a90b-cacf5d44e886",
+                  "label": "They hear the big radio in the car.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "745a36f9-f10d-4c7d-b391-61405d0b3954",
+              "question": "2.3 What problem do they hear on the radio?",
+              "options": [
+                {
+                  "id": "51892b11-f242-4e4a-97ab-1f1ebc6ca253",
+                  "label": "They hear, \"Poachers in Wadi Bidbid\".",
+                  "isCorrect": true
+                },
+                {
+                  "id": "86ac4c3f-8ea6-4e6e-82a2-aa465bde3ab4",
+                  "label": "They hear, \"An Oryx is lost.\"",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:29",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-3.png",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"I'm very near there,\" Abdullah says. \"I can go there, but I've got the Australian woman with me.\" \"That's OK,\" Mandy says. \"I can come with you. Perhaps I can help you.\" \"OK,\" Abdullah says. \"Let's go.\" Mandy gets into the car and they drive away quickly across the desert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3555c2be-6bb7-4394-8b20-c051a7a658bb",
+      "exercises": [
+        {
+          "id": "7f39efe5-a040-4d1a-991f-85cbc5b78029",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "bfc138e3-c498-4477-91dc-1fc107a4c53f",
+              "question": "3.1 What does Mandy offer to do?",
+              "options": [
+                {
+                  "id": "1664d6e9-d571-4820-adb0-2a987bdcf34f",
+                  "label": "Stay behind",
+                  "isCorrect": false
+                },
+                {
+                  "id": "df21040a-14f6-4c4a-95da-73d60b28089e",
+                  "label": "Help Abdullah",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:00",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-4.png",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The sand makes a long yellow cloud behind the car. \"Poachers?\" Mandy asks. \"What do they do?\" \"They're a big problem,\" Abdullah says. \"Usually they shoot the oryx. They sell the heads. And sometimes they catch the young oryx and sell them.\" \"There's Wadi Bidbid in front of us,\" Abdullah says. \"I can't see any oryx. Let's look for tracks in the sand.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36208c1e-57e9-4ba7-8099-a397bfa37a26",
+      "exercises": [
+        {
+          "id": "e2f4e5b6-7c8d-4e9f-8b8e-1d1b1c4e2f3g",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "f3g4h5i6-7j8k-4l9m-8n8o-1p2q3r4s5t6u",
+              "question": "4.1 What do poachers usually do with the oryx?",
+              "options": [
+                {
+                  "id": "fd06e391-a489-4248-a7e2-12ca87f14c3c",
+                  "label": "They catch and sell them.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "144bb68c-16ce-47af-9646-8e6b79a7fbcd",
+                  "label": "They shoot them and sell the heads.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "v7w8x9y0-1z2a-3b4c-5d6e-7f8g9h0i1j2k",
+              "question": "4.2 What does Abdullah suggest they look for?",
+              "options": [
+                {
+                  "id": "6367c5a4-0c70-4f65-899d-8d34371eeb38",
+                  "label": "He suggests they look for tracks in the sand.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e9d23003-c9bd-4836-be1c-43e8b6f6a1ce",
+                  "label": "He suggests they wait for help.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:41",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-5.png",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "They open the windows and drive slowly. \"Look! There!\" Mandy says. \"I can see tracks.\" \"You're right,\" Abdullah says. \"There are the tracks of a truck, and some oryx. And look! There's some blood in the sand here - and there. This is the work of poachers.\" They follow the tracks of the truck slowly across the sand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3f4g5h6-7i8j-4k9l-8m8n-1o2p3q4r5s6t",
+      "exercises": [
+        {
+          "id": "f4g5h6i7-8j9k-4l0m-8n8o-1p2q3r4s5t6u",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "w9x0y1z2-3a4b-5c6d-7e8f-9g0h1i2j3k4l",
+              "question": "5.1 What do they follow across the sand?",
+              "options": [
+                {
+                  "id": "e9d23003-c9bd-4836-be1c-43e8b6f6a1ce",
+                  "label": "They follow the tracks of the oryx.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6367c5a4-0c70-4f65-899d-8d34371eeb38",
+                  "label": "They follow the tracks of the truck.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:18",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-6.png",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Under the tree they find an oryx with a big hole in its neck. It is dead. \"We've got a problem,\" Abdullah says. \"Look! I can see the tracks of a young oryx here. This dead oryx is its mother. But the baby oryx isn't here.\" \"Can we follow the tracks of their truck in the sand?' Mandy asks. 'Can we catch them?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f5g6h7i8-9j0k-4l1m-8n8o-1p2q3r4s5t6u",
+      "exercises": [
+        {
+          "id": "g6h7i8j9-0k1l-4m2n-8o8p-1q2r3s4t5u6v",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "v8w9x0y1-2z3a-4b5c-6d7e-8f9g0h1i2j3k",
+              "question": "6.1 What do Abdullah and Mandy find under the tree?",
+              "options": [
+                {
+                  "id": "144bb68c-16ce-47af-9646-8e6b79a7fbcd",
+                  "label": "They find a dead oryx.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "fd06e391-a489-4248-a7e2-12ca87f14c3c",
+                  "label": "They find a poacher.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "y1z2a3b4-5c6d-7e8f-9g0h-1i2j3k4l5m6n",
+              "question": "6.2 The dead oryx is its...",
+              "options": [
+                {
+                  "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+                  "label": "baby",
+                  "isCorrect": false
+                },
+                {
+                  "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+                  "label": "mother",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "3:53",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-7.png",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "They drive quickly across the desert again. Mandy is watching the tracks. Abdullah is talking on the radio. \"One mother oryx is dead,\" he says. \"But the poachers have got her baby. We're following them.\" Abdullah listens to the radio and smiles. \"That's good,\" he says to Mandy. \"The police have a helicopter near here. They're coming, too.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g7h8i9j0-1k2l-4m3n-8o8p-1q2r3s4t5u6v",
+      "exercises": [
+        {
+          "id": "h8i9j0k1-2l3m-4n5o-8p8q-1r2s3t4u5v6w",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "z2a3b4c5-6d7e-8f9g-0h1i-2j3k4l5m6n7o",
+              "question": "7.1 What does Abdullah report to the police?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "He reports the poachers are armed.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "He reports the poachers have the baby oryx.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "a3b4c5d6-7e8f-9g0h-1i2j-3k4l5m6n7o8p",
+              "question": "7.2 What does Abdullah say about the police?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "They have a helicopter near here.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "They are far away.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "4:30",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-8.png",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Suddenly they come to a road in the desert. Now they can't see the tracks of the truck. \"Left or right?\" Abdullah says. \"What do you think?\" Mandy climbs quickly on the car: \"Go to the left,\" she says. \"I can see a small cloud of sand on the left. It's the poachers!\" She climbs down and they follow the road to the left."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "h9i0j1k2-3l4m-4n5o-8p8q-1r2s3t4u5v6w",
+      "exercises": [
+        {
+          "id": "i0j1k2l3-4m5n-6o7p-8q8r-1s2t3u4v5w6x",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "b4c5d6e7-8f9g-0h1i-2j3k-4l5m6n7o8p9q",
+              "question": "8.1 What does Mandy see on the left?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "She sees tracks of the truck.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "She sees a small cloud of sand.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c5d6e7f8-9g0h-1i2j-3k4l-5m6n7o8p9q0r",
+              "question": "8.2 What does Mandy suggest they do?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "Follow the road to the right",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "Follow the road to the left",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "5:09",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-9.png",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Now they can see the cloud of sand behind the poachers. \"We're very near them now,\" Mandy says. \"Look! They're not moving. We can catch them. Oh no! There's a man with a gun near the truck.\" Suddenly there is a loud noise in the car: \"Get down!\" Abdullah says quickly. \"They're shooting at us. Look at the hole in the window.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "i1j2k3l4-5m6n-4o7p-8q8r-1s2t3u4v5w6x",
+      "exercises": [
+        {
+          "id": "j2k3l4m5-6n7o-8p9q-0r1s-2t3u4v5w6x7y",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e7f8g9h0-1i2j-3k4l-5m6n-7o8p9q0r1s2t",
+              "question": "9.1 What does Mandy see near the truck?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "She sees a helicopter.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "She sees a man with a gun.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "d6e7f8g9-0h1i-2j3k-4l5m-6n7o8p9q0r1s",
+              "question": "9.2 What does Abdullah tell Mandy to do?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "He told, \"Get down\".",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "He told, \"Run away\".",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "5:48",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-10.png",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Abdullah drives into some small trees and stops the car. He gets his gun and talks on the radio again. Mandy goes into the trees and looks at the road. \"The poachers are moving again!\" she says. \"They're in the truck. And the man with the gun is on the back.\" \"Are they driving away?\" Abdullah asks. \"No!\" Mandy says. \"Help! They're coming back here!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j3k4l5m6-7n8o-4p9q-8r8s-1t2u3v4w5x6y",
+      "exercises": [
+        {
+          "id": "k4l5m6n7-8o9p-0q1r-2s3t-4u5v6w7x8y9z",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "g9h0i1j2-3k4l-5m6n-7o8p-9q0r1s2t3u4v",
+              "question": "10.1 What do Abdullah and Mandy do when the poachers come back?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "They drive away.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "They drive into some small trees.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "6:27",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-11.png",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Abdullah starts the car again. But it is in the sand now and it doesn't move. He goes in front of the car with his gun. Mandy goes behind the car. Suddenly there is a very loud noise and they see a helicopter in front of them. It makes a big cloud of sand and the poachers can't see the road. The truck stops in the sand and two men run from it into the desert."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k5l6m7n8-9o0p-4q1r-8s8t-1u2v3w4x5y6z",
+      "exercises": [
+        {
+          "id": "l6m7n8o9-0p1q-2r3s-4t5u-6v7w8x9y0z1a",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "h0i1j2k3-4l5m-6n7o-8p9q-0r1s2t3u4v5w",
+              "question": "11.1 What happens when the helicopter arrives?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "The poachers surrender.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "The poachers run into the desert.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "i1j2k3l4-5m6n-7o8p-9q0r-1s2t3u4v5w6x",
+              "question": "11.2 What does the helicopter do?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "It makes a big cloud of sand",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "It lands on the road",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "7:06",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-12.png",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The police helicopter comes down near the poachers. The poachers quickly put their guns on the sand and put up their hands. Abdullah and Mandy run to the truck. The young oryx is in the back of the truck. There is no blood, but it isn't moving. \"Is it dead?\" Mandy asks quietly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l7m8n9o0-1p2q-4r3s-8t8u-1v2w3x4y5z6a",
+      "exercises": [
+        {
+          "id": "m8n9o0p1-2q3r-4s5t-6u7v-8w9x0y1z2a3b",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "k3l4m5n6-7o8p-9q0r-1s2t-3u4v5w6x7y8z",
+              "question": "12.1 What do Abdullah and Mandy find in the back of the truck?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "They find some guns.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "They find the young oryx.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "7:41",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-13.png",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Abdullah takes its head in his hands. The little oryx opens its eyes and moves its legs. \"No, it's OK.\" Abdullah smiles. \"But its mother is dead,\" Mandy says. \"Can it live?\" \"Yes,\" Abdullah says. 'It's young, but it isn't a baby. We can find it a new mother. No problem.' \"Wait,\" Mandy says suddenly. 'I want some photos.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m9n0o1p2-3q4r-4s5t-8u8v-1w2x3y4z5a6b",
+      "exercises": [
+        {
+          "id": "n0o1p2q3-4r5s-6t7u-8v9w-0x1y2z3a4b5c",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "l4m5n6o7-8p9q-0r1s-2t3u-4v5w6x7y8z9a",
+              "question": "13.1 What does Abdullah say about the young oryx?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "He says, \"it can live.\"",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "He says \"It was dying.\"",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "m5n6o7p8-9q0r-1s2t-3u4v-5w6x7y8z9a0b",
+              "question": "13.2 What does Mandy want to do?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "She wants to take some photos.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "She wants to call for help.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "8:24",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-14.png",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Mandy takes photos of Abdullah and the young oryx. Then she takes photos of the police and their helicopter: She takes pictures of the poachers, too. A policeman comes and looks at the young oryx. \"Not a bad day,\" the policeman says. \"No,\" Abdullah says. \"The mother oryx is dead, but this young oryx is OK. And you've got two poachers.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "n1o2p3q4-5r6s-4t7u-8v8w-1x2y3z4a5b6c",
+      "exercises": [
+        {
+          "id": "o2p3q4r5-6s7t-8u9v-0w1x-2y3z4a5b6c7d",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+              "question": "14.1 What does the policeman say about the day?",
+              "options": [
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "He says, \"Not a bad day.\"",
+                  "isCorrect": true
+                },
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "He says, \"What a terrible day.\"",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "9:00",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-white-oryx/paragraph-15.png",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"It's a good day for me, too.\" Mandy smiles. I've got some very interesting pictures for my book about the animals of the desert.\" Perhaps you can write a new book,\" the policeman says. \"A book about the oryx poachers and the famous ranger, Abdullah.\" \"Why not?\" Mandy smiles again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3q4r5s6-7t8u-4v9w-8x8y-1z2a3b4c5d6e",
+      "exercises": [
+        {
+          "id": "q4r5s6t7-8u9v-0w1x-2y3z-4a5b6c7d8e9f",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "p8q9r0s1-2t3u-4v5w-6x7y-8z9a0b1c2d3e",
+              "question": "15.1 What does the policeman suggest Mandy write a book about?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "He suggest she writes a book about 'Animals of the desert'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "He suggest she writes a book about 'Oryx poachers and Abdullah'",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "q9r0s1t2-3u4v-5w6x-7y8z-9a0b1c2d3e4f",
+              "question": "15.2 What does Mandy say about her day?",
+              "options": [
+                {
+                  "id": "o7p8q9r0-1s2t-3u4v-5w6x-7y8z9a0b1c2d",
+                  "label": "She says, \"It's a bad day for me\".",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n6o7p8q9-0r1s-2t3u-4v5w-6x7y8z9a0b1c",
+                  "label": "She says, \"It's a good day for me, too\".",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

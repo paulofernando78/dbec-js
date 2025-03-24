@@ -1,0 +1,282 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 7 • Discussing bad results"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-7.png",
+      "imgAlt": "Lesson 7 image",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-7.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 7 • Discussing bad results</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Ron, Alex, and Pam work for Brooklyn Brewski, a company that brews and distributes beer throughout New York. The company's recent results have been terrible."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Alex:</b> We need to <b>face the music</b> here. We're <b>in deep trouble</b>! Sales are down by 50 percent versus last year."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Pam:</b> It looks like we're going to be <b>in the red</b> for the year <b>to the tune of</b> $1 million."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ron:</b> <b>No wonder</b>. We're losing <b>market share</b> to Manhattan Beer."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Alex:</b> Why? We need to <b>get to the bottom of</b> this!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Pam:</b> Every year they come up with beers. They're really <b>on top of trends</b>. For instance, last year they released a low-carb beer."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ron:</b> No wonder they're <b>eating our lunch</b>! They're <b>cashing in on</b> the latest trends and <b>bring great new products to market</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Pam:</b> Meanwhile, we're <b>running in place</b>. We need a new product line and new ideas for marketing."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Alex:</b> It's time to <b>clean house</b> and bring some <b>new blood</b> into this company."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ron:</b> <b>You took the words right out of my mouth</b>! We need some new people with fresh ideas."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "abbce76e-15b2-40c3-b495-4e51dd93505c",
+      "exercises": [
+        {
+          "id": "c10b0d1c-22d9-4ead-8ed5-7f5cac2e4dd7",
+          "title": "Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "fe1a5695-7b8f-4384-93c1-b25a3d90b3f7",
+              "question": "1. These past few years our company has been <b>running in place</b>.",
+              "options": [
+                {
+                  "id": "e263c3e9-c0b2-4acc-bdc5-c583a37c0d21",
+                  "label": "making good progress",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0285541a-2568-4bcc-a338-9939e85fe371",
+                  "label": "expanding our business",
+                  "isCorrect": false
+                },
+                {
+                  "id": "311fb91c-cbbd-4957-afb9-18710045400a",
+                  "label": "not making any progress",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bcd62b36-ccc4-4a12-99de-f8fbb95e1957",
+              "question": "2. \"I hope Todd doesn't get promoted to sales director.\" - \"<b>You took the words out of my mouth!</b>\"",
+              "options": [
+                {
+                  "id": "57bfb509-8ed8-4210-847c-2f234e04fcba",
+                  "label": "I was thinking the same thing!",
+                  "isCorrect": true
+                },
+                {
+                  "id": "93b322b3-a716-4299-be9e-290f62b86dd5",
+                  "label": "That's what I told him!",
+                  "isCorrect": false
+                },
+                {
+                  "id": "3ea5c8ad-8337-4f6e-98f7-d73bc93f1675",
+                  "label": "Don't try to influence me!",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "dc7b4081-ef44-4fd8-a731-ebfdce839f3c",
+              "question": "3. Some <b>new blood</b> would really help our company.",
+              "options": [
+                {
+                  "id": "5b8ed611-a062-4835-94d2-efa89105875e",
+                  "label": "new ideas",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a73024ae-38de-4afb-80d5-bc06ebb9b322",
+                  "label": "new acquisitions",
+                  "isCorrect": false
+                },
+                {
+                  "id": "994b8c03-04ee-4df7-b9e7-92755309fe8f",
+                  "label": "new employees",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "7b464674-7c42-4538-8a0f-2c4a9646748b",
+              "question": "4. Apple has really been able to <b>cash in on</b> the demand for mobile computing.",
+              "options": [
+                {
+                  "id": "4f73377d-b12c-4d77-8c29-0a9ec533b7eb",
+                  "label": "make lots of money from",
+                  "isCorrect": true
+                },
+                {
+                  "id": "0b29fd06-764d-42ce-bf24-731401dc6f0a",
+                  "label": "foresee",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c3b13ddc-91fe-4ad0-be01-68239623f3a4",
+                  "label": "increase",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ac673549-dd17-44e8-9199-813d3d8ccbe2",
+              "question": "5. <b>No wonder</b> Sergey is having trouble getting a job in the United States. His accent is really strong.",
+              "options": [
+                {
+                  "id": "e1138b86-a710-4660-9ebd-f57a713e060e",
+                  "label": "I don't understand why",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f0d37cd8-6f58-47d7-b335-34a27680d885",
+                  "label": "It's not surprising that",
+                  "isCorrect": true
+                },
+                {
+                  "id": "cdb788fe-5eec-4e3c-b5c9-6dfb075255b8",
+                  "label": "It's surprising that",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "7605c3e0-6ebd-457d-b62c-46c9d9fa7d4f",
+              "question": "6. After another bad quarter, our CEO announced plans to <b>clean house</b>.",
+              "options": [
+                {
+                  "id": "61266963-3883-4641-976a-855f387a7cda",
+                  "label": "introduce new products",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b13aaafc-d903-4cd3-8bad-3643b5bad41b",
+                  "label": "re-thinking our strategy",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0fd9a219-7f96-4185-a668-edb80235d16e",
+                  "label": "cut employess",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "34858615-7541-4e1c-8e05-ef20115eedc7",
+              "question": "7. Why are so many of our employees arriving late to work? We need to <b>get to the bottom of it</b>.",
+              "options": [
+                {
+                  "id": "b5f65bbb-d6d8-46e7-b36e-143de085272e",
+                  "label": "figure out what the problem is",
+                  "isCorrect": true
+                },
+                {
+                  "id": "6725e0f0-1640-4784-b1d3-6efc1e21507d",
+                  "label": "fire them",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e1eabf31-5115-4f11-b680-87800b3781dc",
+                  "label": "tell them to stop it",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "05e7adde-25e8-44b1-8ca6-d55316283ba7",
+              "question": "8. Last year we had revenues <b>to the tune of</b> $2 million.",
+              "options": [
+                {
+                  "id": "43c90c5e-feca-4bd1-becd-9d20887f6f4e",
+                  "label": "of more than",
+                  "isCorrect": false
+                },
+                {
+                  "id": "448b2c0d-4dee-4479-99bb-8b0918f68892",
+                  "label": "of around",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5daf8451-2cab-4930-83d6-abea96886da2",
+                  "label": "of much less than",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

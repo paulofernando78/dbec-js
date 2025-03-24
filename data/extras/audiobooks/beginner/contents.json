@@ -1,0 +1,42 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "subtitle": "Beginner (A1)"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Kids",
+          "contents": [
+            {
+              "checkboxLink": "/materials/extras/skills/listening/audiobooks/beginner/kids/...",
+              "checkboxLabel": "... • ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "General",
+          "contents": [
+            {
+              "checkboxLink": "/materials/extras/skills/listening/audiobooks/beginner/general/mother-teresa",
+              "checkboxLabel": "Mother Teresa • 00:00"
+            },
+            {
+              "checkboxLink": "/materials/extras/skills/listening/audiobooks/beginner/general/the-missing-coins",
+              "checkboxLabel": "The Missing coins • 16:49"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Speak Business English Like an American"]
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 1-5",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-1",
+                  "linkLabel": "Lesson 1 • Talking about a new project"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-2",
+                  "linkLabel": "Lesson 2 • Talking about financial issues"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-3",
+                  "linkLabel": "Lesson 3 • Discussing a new ad campaign"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-4",
+                  "linkLabel": "Lesson 4 • Talking about manufacturing"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-5",
+                  "linkLabel": "Lesson 5 • Talking about company strategy"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 1-5"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 6-10",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-6",
+                  "linkLabel": "Lesson 6 • Discussing good results"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-7",
+                  "linkLabel": "Lesson 7 • Discussing bad results"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-8",
+                  "linkLabel": "Lesson 8 • Discussing a difficult decision"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-9",
+                  "linkLabel": "Lesson 9 • Dealing with a dissastified customer"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-10",
+                  "linkLabel": "Lesson 10 • Discussing a difficult request"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 6-10"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 11-15",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-11",
+                  "linkLabel": "Lesson 11 • Motivating Co-Workers"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-12",
+                  "linkLabel": "Lesson 12 • Running a meeting"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-13",
+                  "linkLabel": "Lesson 13 • Discussing A Mistake"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-14",
+                  "linkLabel": "Lesson 14 • Taking Credit For Good Results"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-15",
+                  "linkLabel": "Lesson 15 • Shifting Blame"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 11-15"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 16-20",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-16",
+                  "linkLabel": "Lesson 16 • Politely Disagreeing With Someone"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-17",
+                  "linkLabel": "Lesson 17 • Telling Somebody Off"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-18",
+                  "linkLabel": "Lesson 18 • Discussing Office Scandals"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-19",
+                  "linkLabel": "Lesson 19 • Complaining About A Co-Worker"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-20",
+                  "linkLabel": "Lesson 20 • Talking About A Brown Noser"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 16-20"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 21-25",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-21",
+                  "linkLabel": "Lesson 21 • Explaining That You're Feeling Overworked"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-22",
+                  "linkLabel": "Lesson 22 • Calling In Sick"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-23",
+                  "linkLabel": "Lesson 23 • Requesting A Bank Loan"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-24",
+                  "linkLabel": "Lesson 24 • Negotiating A Purchase"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-25",
+                  "linkLabel": "Lesson 25 • Conducting A Performance Review"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 21-25"
+            }
+          ]
+        },
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Lessons 26-30",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-26",
+                  "linkLabel": "Lesson 26 • Promoting An Employee"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-27",
+                  "linkLabel": "Lesson 27 • Firing Somebody"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-28",
+                  "linkLabel": "Lesson 28 • Job Interview 1"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-29",
+                  "linkLabel": "Lesson 29 • Job Interview 2"
+                },
+                {
+                  "link": "/materials/specific-purposes/business/sbelaa/lesson-30",
+                  "linkLabel": "Lesson 30 • Negotiating a Salary Offer"
+                }
+              ]
+            },
+            {
+              "content": "Review Lessons 26-30"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 16 • Politely Disagreeing With Someone"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-16.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 16 • Politely Disagreeing With Someone</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "If Kroll Enterprises doesn't take action soon, the company is going to be in financial trouble. Joel and Kathy have different opinions on how to cut costs at the company."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> We're going to be <b>in the red</b> again this year."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Joel:</b> I think we <b>should cut back on</b> employee health benefits. We could <b>save a bundle</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> True, it might help the <b>bottom line</b>, but our employees would be really unhappy. I would only recommend it as a <b>last resort</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Joel:</b> Well, we need to do some <b>belt-tightening</b>. We can either have a salary freeze or we can cut back on their health benefits. I think I've chosen <b>the lesser of two evils</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> Another salary freeze is <b>out of the question</b>. All our best employees will quit."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Joel:</b> I'm caught <b>between a rock and a hard place</b>. I have to cut costs."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> Do you really? I don't think cutting costs is <b>the name of the game</b>. I think the secret is figuring out how to increase our sales."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Joel:</b> How do you suggest we <b>pull that off</b>?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> Let's meet with the other vice presidents and <b>bat around some ideas</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Joel:</b> We can talk <b>until we're blue in the face</b>. We need to take action now."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Kathy:</b> It's clear that you and I don't see eye-to-eye. For now, <b>let's just agree to disagree</b>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "",
+      "exercises": [
+        {
+          "id": "",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "",
+              "question": "1. I know we need to <b>do some belt-tightening</b>, but I'm not sure that laying off employees is the solution.",
+              "options": [
+                {
+                  "id": "629343ef-a629-4710-ab8e-91027430ce31",
+                  "label": "increase our revenues",
+                  "isCorrect": false
+                },
+                {
+                  "id": "004f299f-87f4-41d0-9f08-826d43a18bd0",
+                  "label": "get rid of some people",
+                  "isCorrect": false
+                },
+                {
+                  "id": "dcf752ab-1e9d-4e65-bfe4-20c4d05e22e6",
+                  "label": "reduce our expenses",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "88b4303f-a7c5-4689-bba1-d019658238d3",
+              "question": "2. Changing the packaging design at this point is <b>out of the question</b>. We're already in production.",
+              "options": [
+                {
+                  "id": "6066da5e-73e9-4880-91d8-be6a0823c9f2",
+                  "label": "not a possibility",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e85d5cc4-1b0d-4244-b5a1-53ae5d7d49ec",
+                  "label": "a good idea",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7a76035d-d8ce-4c95-993a-faeb02dc0758",
+                  "label": "probably not possible",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "3. If we're serious about saving money, we should consider <b>cutting back on</b> our use of expensive consultants.",
+              "options": [
+                {
+                  "id": "c1823725-af80-4eb0-99e1-df3a2319ee6a",
+                  "label": "eliminating",
+                  "isCorrect": false
+                },
+                {
+                  "id": "69d3f59f-c3f9-48b5-aa8c-1474aa09a4d3",
+                  "label": "reducing",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a466b5ac-beed-4795-a7d3-ccb04cd6be98",
+                  "label": "increasing",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "8b7d6595-017a-4db3-999a-f1d2a4d916aa",
+              "question": "4. You can tell me about how great Jim is <b>until you're blue in the face</b>. The fact is, I don't like the way he does business.",
+              "options": [
+                {
+                  "id": "31c490bc-f443-4584-99f2-eb5ec521f028",
+                  "label": "until your face turns blue",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c4c73d8c-b5d5-44fe-a8ba-9b871ce0636d",
+                  "label": "all you want",
+                  "isCorrect": true
+                },
+                {
+                  "id": "deb06960-5a00-4a0a-9b7a-25f542db89d9",
+                  "label": "until I change my mind",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "45e1895d-0d71-43a8-91f1-0806f6dfcf61",
+              "question": "5. Kyle and Mark are meeting at Flanagan's Bar after work to <b>bat around some ideas</b> about starting their own business.",
+              "options": [
+                {
+                  "id": "0a300105-bbeb-4afc-9532-5ddf5c765112",
+                  "label": "discuss",
+                  "isCorrect": true
+                },
+                {
+                  "id": "4161016f-48be-4827-b781-699751e3a88e",
+                  "label": "dismiss",
+                  "isCorrect": false
+                },
+                {
+                  "id": "29a85714-aafe-4d40-b932-2fa9b18d117f",
+                  "label": "finalize",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "48a09387-9c4b-4664-996e-b39e8fe55df4",
+              "question": "6. When you're the boss, demonstrating good leadership is <b>the name of the game</b>.",
+              "options": [
+                {
+                  "id": "9d5dbe7f-b124-49b9-94ce-06ced6c5f5de",
+                  "label": "not important",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0ada236b-5d2a-4580-b414-a87fb901e61e",
+                  "label": "somewhat important",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7f2f15fa-396d-44bb-865b-3ce81c0779ec",
+                  "label": "very important",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b1830556-f8c9-4454-9d65-4ff168d1e1d3",
+              "question": "7. The food manufacturer's costs have gone up, but they are unable to raise the price of their products. They're caught <b>between a rock and a hard place</b>.",
+              "options": [
+                {
+                  "id": "c891389b-db61-428d-91c9-ce260d63fdb3",
+                  "label": "in an undesirable position",
+                  "isCorrect": true
+                },
+                {
+                  "id": "eae414e8-e325-4397-b128-2210bb8b1620",
+                  "label": "ready to go out of business",
+                  "isCorrect": false
+                },
+                {
+                  "id": "dbfd9e20-41cf-4163-a2ab-f1ba0f5ae055",
+                  "label": "deciding between two good options",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "03d40db2-b9b0-4272-bb4a-f837d4625308",
+              "question": "8. Why don't you open a corporate account with UPS and ship all of your packages with them? You could <b>save a bundle</b>.",
+              "options": [
+                {
+                  "id": "a583f311-9d86-4aa2-b6a0-972409f3fc1a",
+                  "label": "stop carrying heavy packages",
+                  "isCorrect": false
+                },
+                {
+                  "id": "82b0ee63-287d-4200-9daf-89d761446e2b",
+                  "label": "save a few dollars",
+                  "isCorrect": false
+                },
+                {
+                  "id": "631795d8-7b38-46cb-b433-b2722c5a37f5",
+                  "label": "save a lot of money",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 3 • Discussing a new ad campaign"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-3.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 3 • Discussing a new ad campaign</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Ted works for an advertising agency. He's presenting to Sam and Lisa, who work for Pacific Beer Company."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lisa:</b> Ted would like to run some ideas by us for our new ad campaign."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ted:</b> Please, <b>keep an open mind</b>. Remember that <b>nothing is set in stone</b> yet. We're still just <b>brainstorming</b>." 
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Sam:</b> I hope that doesn't mean we're about to hear a lot of <b>half-baked ideas</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ted:</b> I think you're going to like this. Our idea is to use a black bear as our mascot. Our <b>tagline</b> can be: \"Strong enough to satisfy a bear.\""
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lisa:</b> It would be great if people would associate our brand with a bear — strong and independent. That would really improve our brand equity."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Sam:</b> I don't want to <b>throw cold water on</b> your idea, but where did you get the idea for a bear?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ted:</b> Didn't you hear about that bear at the campground a couple weeks ago? He entered a tent and drank two dozen Pacific beers! What a great endorsement for Pacific beer!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lisa:</b> I think we're <b>on the right track</b> with this campaign. The bear should <b>generate lots of buzz</b>. Everybody will be talking about the bear who loves Pacific beer!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ted:</b> And here's the <b>icing on the cake</b>: he won't demand <b>an arm and a leg</b> to <b>plug our product</b>. In fact, we can probably pay him in beer!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Sam:</b> Okay, you've <b>twist one's arm</b>. Let's <b>run with the idea</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ted:</b> Great. I'll <b>flesh it out</b> some more and <b>touch base with</b> you in a couple of days."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "6e11f37f-57dd-4d30-9825-3e02cae7bc5b",
+      "exercises": [
+        {
+          "id": "a81d3db5-9a78-499b-b8cb-e419e05e3f5b",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "476cdf45-842d-4e6c-a295-e449f67c5b5d",
+              "question": "1. Starting a chain of coffee houses in Manhattan is a <b>half-baked idea</b>! There are already more than enough coffee houses in Manhattan.",
+              "options": [
+                {
+                  "id": "7da42296-46f5-45c7-b029-4c16bc5c9cec",
+                  "label": "a great idea",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4adc5233-7417-48e1-9626-017cb95c52fc",
+                  "label": "a really bad idea",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4d6fec4f-16fc-42c4-874c-b47355289c26",
+                  "label": "an idea that needs some more time in the oven",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9202724a-f1a0-4523-a42a-915318a63090",
+              "question": "2. The government is discussing a new proposal to raise the minimum wage, but <b>nothing is set in stone yet</b>.",
+              "options": [
+                {
+                  "id": "a865c78f-54d7-41af-835b-e56be70de1c4",
+                  "label": "nothing has been decided yet",
+                  "isCorrect": true
+                },
+                {
+                  "id": "9527de3c-21c0-4986-8a33-8bfc1d704dea",
+                  "label": "the proposal has been approved",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e8ca14ad-825c-4baf-8845-b981e90976cd",
+                  "label": "nothing will ever be decided",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "7accab41-2030-413d-a29c-9f0822cf2ebc",
+              "question": "3. You don't have to <b>twist the boss's arm</b>. She's already decided to let everybody leave early on Friday to avoid holiday traffic.",
+              "options": [
+                {
+                  "id": "96ff375c-1386-498a-a424-92cbb1f9f129",
+                  "label": "convince the boss",
+                  "isCorrect": true
+                },
+                {
+                  "id": "78a79e78-7c61-435c-abc0-25fe93a8af4e",
+                  "label": "hurt the boss",
+                  "isCorrect": false
+                },
+                {
+                  "id": "699675be-676b-4f56-89a1-91628734b625",
+                  "label": "ignore the boss",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "204d0db2-86f4-4cd3-b747-cc36b73804a5",
+              "question": "4. Arnold Schwarzenegger has appeared on television commercials in Japan, China, Austria, and Brazil, <b>plugging products</b> such as vitamin drinks and soup.",
+              "options": [
+                {
+                  "id": "ae17a94c-4bc5-4fcd-b676-99aa71c7ec34",
+                  "label": "drinking products",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4430b063-7e94-4560-af6a-bff5af2a4bd8",
+                  "label": "advertising products",
+                  "isCorrect": true
+                },
+                {
+                  "id": "bf47b9c3-a031-454c-9e76-12d668804af9",
+                  "label": "terminating products",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "aceebb17-175f-4530-b846-93b1efeb4c01",
+              "question": "5. Before approaching a bank for a loan, you need to <b>flesh out</b> your business plan.",
+              "options": [
+                {
+                  "id": "73195c9a-c813-441e-a9f4-295b4568cd1f",
+                  "label": "throw out",
+                  "isCorrect": false
+                },
+                {
+                  "id": "27e9ce23-cc95-4c75-9a45-6549eed7481e",
+                  "label": "present",
+                  "isCorrect": false
+                },
+                {
+                  "id": "06ef88d4-2a3c-4e93-b5e0-f02f5c48178a",
+                  "label": "add more detail to",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b52461d5-4e62-48f8-acc9-9c51dfdfadeb",
+              "question": "6. Buying a new computer system would <b>cost an arm and a leg</b>. Let's just upgrade the system we already have.",
+              "options": [
+                {
+                  "id": "888e45db-e46c-42c1-a288-e80eca69e665",
+                  "label": "a lot of money.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "6291a40d-e658-463a-a401-34814f6dc761",
+                  "label": "not much money",
+                  "isCorrect": false
+                },
+                {
+                  "id": "684ce6b8-7231-4343-8dbb-58b80dbf995c",
+                  "label": "a lot of time",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "4b414c15-10a4-4ffe-b10a-2b102dcff926",
+              "question": "7. Paul and Susan make a good living running a bed-and-breakfast in Vermont. Meeting lots of friendly people is the <b>icing on the cake</b>.",
+              "options": [
+                {
+                  "id": "4ed700fc-0102-4247-bb3f-4a95e9d49acc",
+                  "label": "easy when you live in Vermont",
+                  "isCorrect": false
+                },
+                {
+                  "id": "3557bcae-2e25-4823-8d97-75fde02fc4ec",
+                  "label": "how they earn their living",
+                  "isCorrect": false
+                },
+                {
+                  "id": "884b4cab-f154-4052-a50f-89dd8ff9e657",
+                  "label": "an additional benefit",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "2cf0c9a4-20ba-4f83-9cd6-13c99b2f55e0",
+              "question": "8. I like your idea of selling our products by direct mail. Let's <b>run with it</b>.",
+              "options": [
+                {
+                  "id": "e2c50429-5911-4616-ad71-e0290a9b825d",
+                  "label": "Let's discuss it further.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d339deda-8e96-453d-b079-406bca2c8baa",
+                  "label": "Let's proceed with it.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "34717742-f79f-4c05-8a5c-e566d1db2667",
+                  "label": "Let's forget it.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Grammar",
+    "descriptions": ["Elementary / Intermediate"]
+  },
+
+  "lessons": [
+    {
+      "title": "A",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "swiperFractionImages": [
+        {
+          "imgSrc": "/assets/img/animal-cat1.jpg",
+          "imgAlt": "An image of a cat."
+        },
+        {
+          "imgSrc": "https://images.pexels.com/photos/346529/pexels-photo-346529.jpeg?cs=srgb&dl=pexels-bri-schneiter-28802-346529.jpg&fm=jpg",
+          "imgAlt": "Example image description"
+        }
+      ]
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "cards": [
+        {
+          "text": "text 1 "
+        },
+        {
+          "text": "text 2"
+        }
+      ],
+      "bgColor": "#F0E994",
+      "textColor": "black"
+    },
+    {
+      "title": "B",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "title": "C",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "title": "D",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3"
+            },
+            {
+              "enText": "..."
+            },
+            {
+              "keyword": "...",
+              "word": "...",
+              "wordAudioSrc": "/dictionary/xxx.mp3",
+              "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate reprehenderit id rem laboriosam, aspernatur facere sed ut vel error asperiores. Reiciendis dicta, earum debitis aliquid ratione numquam corrupti minus possimus."
+            }
+          ],
+          "addBreakLine": true
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "radio": [
+        {
+          "title": "Choose the correct answer.",
+          "question": "1. Question",
+          "options": [
+            { "label": "Answer 1", "isCorrect": true },
+            { "label": "Answer 2", "isCorrect": false }
+          ]
+        }
+      ]
+    },
+    {
+      "dropdown": [
+        {
+          "title": "Select the correct answer.",
+          "subtitle": "subtitle",
+          "beforeOptions": "1. I",
+          "options": [
+            { "value": "am", "label": "am", "correctAnswer": true },
+            { "value": "is", "label": "is", "correctAnswer": false },
+            { "value": "are", "label": "are", "correctAnswer": false }
+          ],
+          "width": "100",
+          "afterOptions": "a teacher.",
+          "lineBreak": true
+        },
+        {
+          "beforeOptions": "2. He",
+          "options": [
+            { "value": "am", "label": "am", "correctAnswer": false },
+            { "value": "is", "label": "is", "correctAnswer": true },
+            { "value": "are", "label": "are", "correctAnswer": false }
+          ],
+          "width": "100",
+          "afterOptions": "a teacher."
+        }
+      ]
+    },
+    {
+      "fillInTheBlanks": [
+        {
+          "title": "1. Fill in the blank with the correct word.",
+          "options": true,
+          "width": "100px",
+          "beforeBlank": "...",
+          "placeholder": "...",
+          "correctAnswer": ["..."],
+          "afterBlank": "...",
+          "lineBreakAfter": true
+        },
+        {
+          "options": true,
+          "width": "100px",
+          "beforeBlank": "...",
+          "placeholder": "...",
+          "correctAnswer": ["..."],
+          "afterBlank": "..."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 2 • Talking about financial issues"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-2.png",
+      "imgAlt": "An image of a boss \"pulling the plug\" on the project.",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-2.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 2 • Talking about financial issues</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Juan and Diane work in the finance department of Delicious Delights, a company that makes snack foods. Here, they're discussing the financial projections for a new product line."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> I'm really excited about the launch of our new line of fat-free Delicious Delight donuts."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> Me too. But before we go any further, we'd better make sure this product line is going to be profitable."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> I did some <b>back-of-the-envelope calculations</b>. Take a look."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> I see you've estimated $2 million for the new equipment. Where did you get that figure?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> That's an <b>educated guess</b> based on some equipment I bought last year."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> You're going to need to double-check that. Using old estimates can get us <b>in hot water.</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> No problem. I'll get on the phone with the manufacturer in Dallas and get a price quote."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> Do you have a sense for market demand? We should get the forecasts from the marketing department before we <b>crunch the numbers</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> We don't have those yet. Mary from marketing said maybe we'd have them next week."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> It just <b>blows my mind</b> when marketing people want us to <b>run the numbers</b> and they don't bring us the information we need!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Juan:</b> If we end up <b>in the red</b> on this project, it's going to be their <b>heads on the chopping block</b>, not ours. They're the ones with P&L* responsibility!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Diane:</b> Our CFO won't <b>give this project the green light</b> until he sees all the numbers. If it doesn't look like we'll make money or at least <b>break even</b>, he'll <b>pull the plug</b> on the project."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "bfc61a6f-e8ba-4fb4-8285-a6ac6a6fbd05",
+      "exercises": [
+        {
+          "id": "e0e2cf82-097c-4983-9951-11c7f1389b9a",
+          "title": "1. Choose the best appropriate response to each sentence.",
+          "radio": [
+            {
+              "id": "a11854f5-8795-401d-a5c7-81668d0f3367",
+              "question": "1. Did our CEO <b>give the greenlight</b> for the new project yet?",
+              "options": [
+                {
+                  "id": "ad46c3a7-2c19-4292-a701-ccf1f46b6659",
+                  "label": "No, he told us he needed some information before making a decision.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "197e1327-a82b-469a-9210-47adc4a52d4e",
+                  "label": "Yes, he told us that the project was a bad idea and that we should stop working on it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "715aa10b-2c9b-4124-a821-dec437ac0e02",
+                  "label": "Yes, he's going to discuss the project with his wife and see what she thinks.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "177c2eb5-d2ae-4426-b976-a39434c08d57",
+              "question": "2. Last year, our company made a loss on our new line of video games, but this year we'll make <b>break even</b>.",
+              "options": [
+                {
+                  "id": "7b9a95f0-09ce-412b-b405-c88d64d68d32",
+                  "label": "I'm sorry to hear you're broke.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b81fa928-2335-4930-83a8-6825baaeea57",
+                  "label": "That's great. At least you're making progress.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b437d64a-509b-4061-a583-b89edb4b7647",
+                  "label": "Too bad. Last year you did a lot better.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "fb24d060-f662-4bd7-baaa-9485931ea2c7",
+              "question": "3. If you don't double-check those numbers and make sure they're correct, you might getting <b>in hot water</b> with your boss.",
+              "options": [
+                {
+                  "id": "382539ca-db3b-4df9-a973-bad51549c659",
+                  "label": "You're right. My boss always appreciates it when I give him the wrong numbers.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0a4fd132-7742-4efc-bf1d-476562aab745",
+                  "label": "That would be great. My boss enjoys soaking in hot water.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6c130ddd-0089-4ff6-bfff-983c3931b4a8",
+                  "label": "You're right. My boss always gets angry when he finds mistakes.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "1b9f8bd7-3ffc-42e6-88bd-5919d864ae5e",
+              "question": "4. Our company is <b>in the red</b> again this quarter.",
+              "options": [
+                {
+                  "id": "d2e3e21b-0626-49af-992b-55fefe924ef2",
+                  "label": "Congratulations! When's the celebration party?",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5354435d-56eb-433a-8d15-4cf1665dc4b8",
+                  "label": "In the red again? I hope you don't go out of business!",
+                  "isCorrect": true
+                },
+                {
+                  "id": "33e0006d-e509-4780-8210-5674f4a1ea44",
+                  "label": "In the red? That's okay. It's better than being in the black.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "eab9b289-57a0-46ac-a85f-a1faa09611dc",
+              "question": "5. We should <b>pull the plug</b> on our online advertising campaign.",
+              "options": [
+                {
+                  "id": "1f5c427c-419e-463d-b643-172cb92825f0",
+                  "label": "I agree. It's not bringing us any new business.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "03b276f9-2c01-412a-b4a0-233cc65f372c",
+                  "label": "I agree. Let's double our spending on it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4d0c667d-8521-4576-b855-51187a451540",
+                  "label": "I disagree. I think we should stop spending money on online advertising.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "73701e5b-bf2d-4373-b351-d0ff738c3205",
+              "question": "6. I know our company is looking for ways to cut costs. Do you think my <b>head is on the chopping block</b>?",
+              "options": [
+                {
+                  "id": "f8aa8878-0eb6-4042-ac63-2c34879b7dd5",
+                  "label": "No, I don't think they'll cut off your head.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "24e43270-6b29-439d-b488-5c5407f34f13",
+                  "label": "No, don't worry. They won't fire you.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "0fd2e817-f403-4881-9f41-76a29b804a3e",
+              "question": "7. Doesn't it <b>blow your mind</b> that they promoted Beth to General Manager after the mess she made in our department?",
+              "options": [
+                {
+                  "id": "5567f4b9-bea2-456a-98bf-b1ae5164f40f",
+                  "label": "Yes, she really deserved that promotion.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "24b56b36-a690-41ac-9587-c73dde4781e1",
+                  "label": "No, but it does surprise me.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b69a32f4-afc7-4b8a-afd1-a6bbe591cb88",
+                  "label": "Yes, it really surprises me!",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b1f84fa1-8fd6-47bc-bff7-1baf6e467095",
+              "question": "8. Did you have a chance to <b>crunch those numbers</b> yet?",
+              "options": [
+                {
+                  "id": "b2aadb26-562b-4c65-9f61-849b4e683e33",
+                  "label": "Yes, I put them in a blender and crunched them up.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "1cdd762e-03d8-4087-bab8-6bf3c3e6ad34",
+                  "label": "Yes, I just put the financial reports on your desk.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "35e6979f-78d4-4eee-8024-9b9ebd5d43ab",
+                  "label": "Yes, I'll take a look at them next week.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

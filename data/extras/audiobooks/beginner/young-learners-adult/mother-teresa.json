@@ -1,0 +1,10 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Skills",
+    "descriptions": ["Listening", "Audiobooks", "Beginner", "Mother Teresa"],
+    "time": "0:00",
+    "uk": true
+  },
+  "lessons": []
+}

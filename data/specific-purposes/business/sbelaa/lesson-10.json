@@ -1,0 +1,284 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 10 • Discussing a difficult request"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-10.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 10 • Discussing a difficult request</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Tanya is a head of R&D in a laboratory for Sudsco, a company that makes shampoo. Here she meets with colleagues John and Andy to discuss a request from the marketing department."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tanya:</b> Let me <b>kick off</b> this meeting with some news. Our marketing department would like us to produce a new fragrance by the end of next month."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> Oh, brother. We <b>need this extra work like a hole in the head</b>! What fragrance are they looking for?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tanya:</b> Mango."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> Mango? Are they <b>out of their minds?</b> Do they know how tough that is?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tanya:</b> Yeah, but I told them we'd <b>take a crack at it</b>. If we <b>put our minds to it</b>, I know we can do it."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> I don't know. It's not going to be easy."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tanya:</b> Let's <b>roll up our sleeves</b> and <b>give it our best shot</b>. <b>Nothing ventured, nothing gained</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>John:</b> Well, Tanya, you certainly have a <b>can-do attitude!</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Tanya:</b> Actually, this is <b>child's play</b> compared to what our CEO wants us to do by the end of the year. He wants us to come up with new, improved formulas for all 50 of our shampoos."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> What? How are we supposed to manage that? Sometimes I think the <b>bigwigs</b> at this company are <b>out of touch with reality</b>!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "",
+      "exercises": [
+        {
+          "id": "b2560c8c-138b-442f-b783-a31be7e092aa",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "b6e3cf4f-13c1-47e7-b1c1-a6e0be86aad3",
+              "question": "1. Our president gave everybody business card holders for Christmas. <b>I need another business card holder like a hole in the head</b>.",
+              "options": [
+                {
+                  "id": "8e25d44c-951f-41e4-94df-fb7dccd53a8f",
+                  "label": "I really need a new business card holder.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "434e01b7-ea5d-4b14-bef6-0833effb0aae",
+                  "label": "I'm happy to get another business card holder.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "39455457-167c-41e4-a09d-53492fd544eb",
+                  "label": "I really don't need another business card holder.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "cfff1ac6-634a-4c4e-8da3-ba32abf3da9f",
+              "question": "2. Installing that new computer software was <b>child's play</b> for Mark. He's got a PhD in computer science.",
+              "options": [
+                {
+                  "id": "51be9107-2c92-44f3-b592-9e48f8994379",
+                  "label": "very easy",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5c7728f4-a7e2-4a41-bac0-86ee640f916d",
+                  "label": "challenging",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c15b36c2-e6af-4f69-961d-3d14fe391dad",
+                  "label": "enjoyable",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "5f8f62e4-6afc-46c6-9690-ed526db5a1b2",
+              "question": "3. I agree with you that we may not be successful entering the market in China, but <b>nothing ventured, nothing gained</b>",
+              "options": [
+                {
+                  "id": "4719ebb1-2fdd-46fc-acbf-e0783e1a6034",
+                  "label": "we should take a risk and enter the Chinese market",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e7e870fc-1d07-41eb-983c-3aa717c169d4",
+                  "label": "we shouldn't enter the Chinese market",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c8548f93-60d9-4532-8f85-8f4236a3fffb",
+                  "label": "if we enter the Chinese market, we'll definitely succeed",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "b99ef958-e2ac-45f2-baa7-ef3cf541d0e9",
+              "question": "4. If you can't figure out how to fix the jammed printer, let Adam <b>take a crack at it</b>.",
+              "options": [
+                {
+                  "id": "cee3469f-b20f-48cb-b2cd-7d9a00ced96e",
+                  "label": "fix the crack in it",
+                  "isCorrect": false
+                },
+                {
+                  "id": "080f8d17-8dec-4e10-a0bc-c997c07bcd60",
+                  "label": "try to fix it",
+                  "isCorrect": true
+                },
+                {
+                  "id": "32beaa1c-1c66-41d1-9ffb-fdcfc2eda8c0",
+                  "label": "throw it in the trash",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "48dc805c-fcdf-4196-b673-970154bc5913",
+              "question": "5. The company <b>kicked off</b> the new fiscal year by announcing several exciting new products.",
+              "options": [
+                {
+                  "id": "5e521c17-9d85-400b-b5ad-a7659962282b",
+                  "label": "ended",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9f3cc237-d082-4bd4-88bb-61fab61ea94d",
+                  "label": "postponed",
+                  "isCorrect": false
+                },
+                {
+                  "id": "46d1cdb4-ed71-495d-ac22-5b8832589cd0",
+                  "label": "began",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "94a45eaa-d4d0-449d-9de4-b0f35d77662e",
+              "question": "6. It won't be easy, but if you <b>put your mind to it</b>, you can study for your law degree while also working full-time.",
+              "options": [
+                {
+                  "id": "defe84d0-f343-40f6-92f5-b435e3003196",
+                  "label": "don't think too much about it",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f5cd4202-578c-4463-aa68-affc98355b53",
+                  "label": "work hard at it",
+                  "isCorrect": true
+                },
+                {
+                  "id": "4e5805ce-18b8-46d8-8e06-26872928647c",
+                  "label": "think about it",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "0317a3d4-68e8-4ab1-90b1-62713cd4a429",
+              "question": "7. Sorry I couldn't get you the financial reports by Friday. I <b>gave it my best shot</b>, but I just couldn't finish on time.",
+              "options": [
+                {
+                  "id": "7e700216-ad97-4588-adfb-fcd967729684",
+                  "label": "tried as hard as I could",
+                  "isCorrect": true
+                },
+                {
+                  "id": "1235d052-f6e6-40aa-b866-9607d0a7953e",
+                  "label": "made a little effort",
+                  "isCorrect": false
+                },
+                {
+                  "id": "dd4d9121-2c94-42e1-87c8-e514441cda4e",
+                  "label": "didn't try too hard",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "7ee320eb-d8e5-4da1-86cf-f87b67b6d15c",
+              "question": "8. If you want to work for IBM, call my cousin Alan. He's a <b>bigwig</b> there.",
+              "options": [
+                {
+                  "id": "3fdbbe41-cc54-418c-9104-e6bccbb38507",
+                  "label": "low-level employee",
+                  "isCorrect": false
+                },
+                {
+                  "id": "019f8ce5-551a-4929-94da-4f49290a9784",
+                  "label": "frequent visitor",
+                  "isCorrect": false
+                },
+                {
+                  "id": "02a4f666-a06a-4e56-8224-bd4cf33a2d55",
+                  "label": "senior executive",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

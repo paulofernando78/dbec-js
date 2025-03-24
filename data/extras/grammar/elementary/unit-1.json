@@ -1,0 +1,391 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Grammar",
+    "descriptions": ["Elementary", "Unit 1 • am/is/are"]
+  },
+
+  "lessons": [
+    {
+      "title": "A",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "imgSrc": "/general/woman-smile.jpg",
+      "imgAlt": "An image of a woman called Lisa."
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "My name <b>is</b> Lisa."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m</b> 22."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m</b> American. I<b>'m</b> from Chigago."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m</b> a student."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m</b> 22."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "My dad <b>is</b> a doctor, andmyh mom <b>is</b> a journalist."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "My favorite color <b>is</b> blue."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "My favorite sports <b>are</b> baseball and basketball."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m</b> interestd in arts."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "I<b>'m not</b> interested in politics.."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "B",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Take a look at the singular form:</b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtitle": "AFFIRMATIVE",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<i>subject + verb (short form)</i>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "I <b>am</b> (I<b>'m</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "you <b>are</b> (you<b>'re</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "he <b>is</b> (he<b>'s</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "she <b>is</b> (she<b>'s</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "it <b>is</b> (it<b>'s</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "we <b>are</b> (we<b>'re</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "you <b>are</b> (you<b>'re</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "they <b>are</b> (they<b>'re</b>)"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "• I'm cold. Can you close the window, please?"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• I'm 32 (years old). My sister is 29."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• It's ten (o'clock). You're late again."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Ann and I are good friends."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Your keys are on the table."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Steve is sick. He's in bed."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Jane is scared of spiders."
+            },
+            {
+              "addBreakLine": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtitle": "NEGATIVE",
+      "subBgColor": "lightgray",
+      "subTextColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<i>subject + verb not (short form)</i>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "I <b>am not</b> (I<b>'m not</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "you <b>are not</b> (you<b>'re not</b> or you <b>aren't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "text": "he is not (he<b>'s not</b> or he <b>isn't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "she is not (she<b>'s not</b> or she <b>isn't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "it is not (it<b>'s not</b> or it <b>isn't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "we are not (we<b>'re</b> not or we <b>aren't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "you are not (yo<b>u're not</b> or you <b>aren't</b>)"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "they are not (they<b>'re not</b> or they <b>aren't</b>)"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "• I'm not cold. You can open the window."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• I'm not 32 (years old). Actually, I'm 30."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Steve isn't sick anymore. He's at work now."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• My brother isn't scared of dogs. He's afraid of snakes."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• It's still ten (o'clock). You're not late. Ainda são dez horas."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Ann and I aren't good friends. She's just an acquaintance."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Your keys aren't on the table. They're in your pocket. Check that out!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+            "enText": "We say it's hot / warm / cold / sunny / dark / etc."
+            }
+            
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+            "enText": "• It's sunny today, but it isn't warm."
+            }
+            
+          ]
+        }
+      ]
+    },
+    {
+      "title": "C",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "That's = that is"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "there's = there is"
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "here's = here is"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "• Thank you. That's very nice of you."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Look! There's Chris."
+            },
+            {
+              "addBreakLine": true
+            },
+            {
+              "enText": "• Here's your key. Thank you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "lightgray",
+      "textColor": "black"
+    }
+  ],
+  "exercises": []
+}

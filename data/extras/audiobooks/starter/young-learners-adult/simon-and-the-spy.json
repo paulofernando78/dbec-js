@@ -1,0 +1,1221 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "Simon and the Spy"],
+    "time": "11:21",
+    "usa": false,
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/cover.png",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Simon Simple is going on a holiday and the police are looking for a spy. On the train, Simon meets a beautiful girl. He likes her and she likes him. But the spy is there too. Simon and the police can't see the spy. Can you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-1.png",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon Simple is at the station. He is going on a train. There are policemen at the station. There are policemen on the trains. They are all working very hard. \"Why are the police here?\" Simon asks a man. \"Look,\" the man says. Simon looks at the man's newspaper. \"Do you know this man?\" he reads. \"He's a spy! Find him! Stop him! Catch him!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "343c9e16-6dfa-4736-84df-24e06c6b16bd",
+      "exercises": [
+        {
+          "id": "6e2de8fb-e16c-4014-8365-896b93635611",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "03b91c98-b65f-4fb6-bd26-8fb634b0fa6d",
+              "question": "1.1 Why is Simon Simple at the station?",
+              "options": [
+                {
+                  "id": "d3c9b2b7-3f3f-4326-a9d5-8a1e22d2b7cd",
+                  "label": "He is going on a bus.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "83cb545a-fce2-4ac3-b2ce-e751beefa636",
+                  "label": "He is going on a train.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9a1d1d3c-3b9a-4e8a-b79b-d72a23e30b3d",
+              "question": "1.2 What does Simon see in the man's newspaper?",
+              "options": [
+                {
+                  "id": "fa7289b5-5c0b-4c5a-bd6c-d51b13c573d6",
+                  "label": "He sees a picture of a spy.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8c2b5d65-9f7c-4f2a-b89c-d327e1e8f23c",
+                  "label": "He sees a picture of a train.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d4c5f8f7-33a6-403f-8d89-08f5c2a4f7e6",
+              "question": "1.3 Why are there policemen at the station?",
+              "options": [
+                {
+                  "id": "e5c56e3d-33c8-4b46-89f3-a1a4a6c9c7b9",
+                  "label": "They are looking for Simon.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4d2f5b23-836f-472b-b4c9-2f34bc8a78f4",
+                  "label": "They are looking for a spy.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:48",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-2.jpg",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon looks at the people in the station. He can see students in jeans, and men in suits. He can see families and children. He can't see any spies. Simon's train goes at 11.00, and it is 10.57 now. Simon runs to the train. There is an old woman with an umbrella near Simon. She is walking very fast. Simon doesn't see her. He doesn't see her bag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26c4ef73-e0f2-452c-8540-25942c193b43",
+      "exercises": [
+        {
+          "id": "e7b12baf-f1f3-4557-a49f-f644f2415588",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "809c74ad-4a45-48a6-912e-7d08e311504d",
+              "question": "2.1 What time does Simon's train go?",
+              "options": [
+                {
+                  "id": "fdb2eb1c-1103-4667-8ed1-c57d777c0561",
+                  "label": "10:57.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "fa6b75a4-b0d3-443b-8660-6b42a17d9627",
+                  "label": "11:00.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9a8c7bdf-f5e2-4b29-94f6-cb2c5df755c3",
+              "question": "2.2 Who is near Simon at the station?",
+              "options": [
+                {
+                  "id": "8f6b7a9c-d7f5-4b9e-a6c7-b8f9e7d6c7b9",
+                  "label": "An old woman with an umbrella.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "7b8f6c9e-a7d6-4f5b-9c7e-b8f7d6c9b7f3",
+                  "label": "A policeman.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:32",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-3.jpg",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The old woman’s bag hits Simon's foot. Simon falls. His bag opens. His things fall to the ground. The old woman's bag is open, too. A letter falls out. Simon puts his things into his bag. The old woman's letter is with Simon's things. Simon does not see it. He puts the old woman's letter in his bag. He closes his bag and runs to the train."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3c9f7b8e-8d6a-4f5b-9c7e-b8f7d6c9b7f3",
+      "exercises": [
+        {
+          "id": "f1a2b3c4-d5e6-7f8g-9h0i-j1k2l3m4n5o6",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "q1-3c9f7b8e-8d6a",
+              "question": "3.1 What happens when the old woman’s bag hits Simon's foot?",
+              "options": [
+                {
+                  "id": "71456445-ef78-424c-9f21-0a40ba9a1d67",
+                  "label": "Simon keeps walking.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ce7a6e5a-c300-4bde-a240-6d616ea2c492",
+                  "label": "Simon falls and his things fall out.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "q2-3c9f7b8e-8d6a",
+              "question": "3.2 What does Simon put in his bag by mistake?",
+              "options": [
+                {
+                  "id": "69baebb6-8f8f-464b-a777-269967212e70",
+                  "label": "The old woman's letter.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c68450c5-7d2c-46d1-949b-afedf291ae16",
+                  "label": "The old woman's umbrella.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "q3-3c9f7b8e-8d6a",
+              "question": "3.3 What does Simon do after putting the letter in his bag?",
+              "options": [
+                {
+                  "id": "6e45b13a-6c19-48cf-afb5-91f3d22029ad",
+                  "label": "He runs to the train.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "6b46066a-db09-47bc-be37-5d615cfb3e88",
+                  "label": "He talks to the old woman.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "2:20",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-4.jpg",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon sits down in the train. There is a beautiful girl beside him. \"Hello,\" Simon says. \"Hello,\" the girl says. The old woman is on the train, too. She is looking at Simon's bag. She wants her letter. There are policemen on the train. They can't find the spy. The old woman sees the policemen. She turns and walks quickly down the train."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a8e2c8d-9f47-4e76-88fd-0a62d8d6c11b",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "4.1 Where is Simon sitting?",
+              "options": [
+                {
+                  "id": "9b4d8a3c-f66a-4eb2-b9d5-dadfe388c93d",
+                  "label": "He's sitting on the train.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "dd3047b5-87f6-4f94-8695-e62681a7a133",
+                  "label": "He's sitting on the floor.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "4.2 Who is sitting beside Simon on the train?",
+              "options": [
+                {
+                  "id": "5c23f593-6b24-4406-9181-f319fd7f0f33",
+                  "label": "The old woman.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "3b5f2762-e370-4eeb-a2a2-ea12b8c7b9a5",
+                  "label": "A beautiful girl.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bf0872db-470e-4cd7-9f88-fb4b2cbe2fa2",
+              "question": "4.3 What does the old woman want?",
+              "options": [
+                {
+                  "id": "ff39b79f-b533-4bff-b241-1bb5d3c29c25",
+                  "label": "She wants to talk to Simon.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4a5c84bb-fef7-4da7-aeab-67cf473dbcb3",
+                  "label": "She wants to find her letter.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "3:02",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-5.jpg",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon likes the girl. She likes him. \"There's a restaurant on the train,\" Simon says. \"Do you want a cup of coffee?\" \"Yes, please,\" the girl says. \"OK, wait here,\" Simon says. Simon takes his bag and goes to the restaurant. The old woman is waiting for him. Simon doesn't see her. He doesn't see her foot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a8e2c8d-9f47-4e76-88fd-0a62d8d6c11b",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "5.1 What does Simon offer the girl?",
+              "options": [
+                {
+                  "id": "b5f7d90e-2f1f-4c56-b798-44b9e5a253f1",
+                  "label": "He offers a sandwich.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a2b3e3c4-9b3d-493b-973f-90f1a66cb5c8",
+                  "label": "He offers a cup of coffee.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "5.2 Where does Simon go?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "He goes to the restaurant on the train.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e5f3d02d-d3b1-4ac0-b4cd-08f9da1fd40e",
+                  "label": "He goes to the bathroom.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "bf0872db-470e-4cd7-9f88-fb4b2cbe2fa2",
+              "question": "5.3 Who is waiting for Simon?",
+              "options": [
+                {
+                  "id": "4fd1b96f-bdef-4cbb-bc89-7f43b7cf8f82",
+                  "label": "The old woman.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "5c23f593-6b24-4406-9181-f319fd7f0f33",
+                  "label": "The girl.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-6.png",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The train is going fast. Simon falls. The old woman falls, too. She sits down on the floor. \"Oh, I'm sorry,\" Simon says. He helps the old woman. Simon sees the old woman's shoes. He looks at her shoes, and he looks at her face. \"They're not women's shoes,\" Simon thinks. Simon buys the coffee and goes back to the girl."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a8e2c8d-9f47-4e76-88fd-0a62d8d6c11b",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "6.1 What happens to Simon?",
+              "options": [
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "He falls.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "dd3047b5-87f6-4f94-8695-e62681a7a133",
+                  "label": "He talks to the old woman.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "3ce7958f-9187-4835-bc76-1cf500a4d6bb",
+              "question": "6.2 Does he help her?",
+              "options": [
+                {
+                  "id": "87ab7b4f-0bb2-40a6-884b-ae778ff16920",
+                  "label": "No, he doesn't.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "bb0d6a4d-2f9a-47b9-b3c5-e69146c2fbee",
+                  "label": "Yes, he does.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "6.3 What does Simon think about the old woman's shoes?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "They're women's shoes.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c6f9f7a2-37b7-42a2-bbb5-2d2b7872d5f2",
+                  "label": "They're men's shoes.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bf0872db-470e-4cd7-9f88-fb4b2cbe2fa2",
+              "question": "6.4 What does Simon do after he helps the old woman?",
+              "options": [
+                {
+                  "id": "4fd1b96f-bdef-4cbb-bc89-7f43b7cf8f82",
+                  "label": "He buys the coffee and goes back to the girl.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "3b5f2762-e370-4eeb-a2a2-ea12b8c7b9a5",
+                  "label": "He buys the coffee and drink.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "4:29",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-7.jpg",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The train stops. Simon and the girl are going on a boat now. They walk from the train to the boat. There are policemen here, too. \"What do they want?\" the girl asks. \"There's a spy,\" Simon says. \"A spy?\" the girl says. \"I can't see any spies.\" Simon looks, too. He sees families and students. He sees the old woman. \"No,\" Simon says. \"I can't see any spies.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4a8e2c8d-9f47-4e76-88fd-0a62d8d6c11b",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "7.1 Where are Simon and the girl going?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "They are going to a restaurant.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "They are going on a boat.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "7.2 Does Simon see any spies?",
+              "options": [
+                {
+                  "id": "3b5f2762-e370-4eeb-a2a2-ea12b8c7b9a5",
+                  "label": "Yes, he sees a spy.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "No, he doesn't see any spies.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "5:21",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-8.png",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "It is a beautiful day. The sun is shining and the water is blue. Simon and the girl sit near the water and wait. The boat is coming. \"What's your name?\" Simon asks. \"Samantha,\" the girl says. \"Oh,\" Simon says. \"My name's Simon. Simon and Samantha. That's nice.\" Simon and Samantha are talking. They don't see the old woman. They don't see her umbrella."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8d1c95c1-eedb-473f-a74c-b3a34c72e1e7",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "8.1 What is the weather like?",
+              "questionPt": "Como está o tempo / clima?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "It is raining.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "It is a beautiful day with sunshine.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "8.2 What are Simon and the girl doing?",
+              "options": [
+                {
+                  "id": "3b5f2762-e370-4eeb-a2a2-ea12b8c7b9a5",
+                  "label": "They are waiting for the boat.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e5f3d02d-d3b1-4ac0-b4cd-08f9da1fd40e",
+                  "label": "They are waiting for a lorry.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "6:09",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-9.jpg",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Look out!\" a man shouts. \"There's a lorry!\" Simon and Samantha look. A lorry is coming down the road very fast. They jump back. The old woman jumps back, too. Simon sees her trousers. \"They're not women's trousers,\" Simon thinks. \"Come on, Simon, the boat's here,\" Samantha says. Simon and Samantha get on the boat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9f6b0a62-7290-49c4-a36d-57da2e726dfe",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "9.1 What does the man shout?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "'Look out! There's a lorry!'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c6f9f7a2-37b7-42a2-bbb5-2d2b7872d5f2",
+                  "label": "'Stop! There's a boat!'",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "b01f38d6-89f6-432a-bcb2-b5f5dcd6d53b",
+              "question": "9.2 Where do Simon and Samantha go next?",
+              "options": [
+                {
+                  "id": "0d3a728b-c967-4bda-8e5e-f63255c65a5f",
+                  "label": "They get in the lorry.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b5f7d90e-2f1f-4c56-b798-44b9e5a253f1",
+                  "label": "They get on the boat.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "6:58",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-10.jpg",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon opens his bag and takes his lunch out. He takes the old woman's letter out, too, but he doesn't see it. \"Do you want a sandwich?\" Simon asks Samantha. \"Yes, please,\" Samantha says. She takes her lunch out of her bag. \"Do you want an apple?\" she says. The old woman is behind them. Simon and Samantha don't see her. They don't see her hand."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0d531f8a-464b-484b-bb28-6d4d8b2eeb9d",
+      "exercises": [
+        {
+          "id": "g1h2i3j4-k5l6-7m8n-9o0p-q1r2s3t4u5v6",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "10.1 What does Simon have for lunch?",
+              "options": [
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "He has an apple.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "He has a sandwich.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bf0872db-470e-4cd7-9f88-fb4b2cbe2fa2",
+              "question": "10.2 What does Samantha take out of her bag?",
+              "options": [
+                {
+                  "id": "5c23f593-6b24-4406-9181-f319fd7f0f33",
+                  "label": "A sandwich.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9a7b36e7-79a3-48ff-b5b6-f4a7f1f6edc7",
+                  "label": "An apple.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b01f38d6-89f6-432a-bcb2-b5f5dcd6d53b",
+              "question": "10.3 Do Simon and Samantha see the old woman?",
+              "options": [
+                {
+                  "id": "f6e3b1d9-684b-4de6-bb93-ecc358790dfa",
+                  "label": "Yes, they do.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b5f7d90e-2f1f-4c56-b798-44b9e5a253f1",
+                  "label": "No, they don't.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "7:41",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-11.jpg",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The boat is going fast now. The wind is strong. Samantha's hair goes in her eyes. The wind takes the old woman's letter. The letter flies along the boat. \"What's that paper?\" Samantha says. \"Is it your boat ticket?\" \"I don't know,\" Simon says. Simon runs. He wants his ticket. The old woman runs, too. She wants her letter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1f8d8e3-b3a3-45d9-b941-dfe37d0351e1",
+      "exercises": [
+        {
+          "id": "b6d7e8a7-f9c4-4f3f-b1c1-57a278c26fd9",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "11.1 What happens to the old woman's letter?",
+              "options": [
+                {
+                  "id": "c6f9f7a2-37b7-42a2-bbb5-2d2b7872d5f2",
+                  "label": "The letter falls in the water.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9d25d3b-cf82-487a-87f0-81dfe045b22f",
+                  "label": "The letter flies away.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9b2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "11.2 What does Samantha think the paper is?",
+              "options": [
+                {
+                  "id": "3b5f2762-e370-4eeb-a2a2-ea12b8c7b9a5",
+                  "label": "A letter.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7a2bb3a-63c8-4e56-b77c-73fd7b9f49de",
+                  "label": "A boat ticket.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bf0872db-470e-4cd7-9f88-fb4b2cbe2fa2",
+              "question": "11.3 Why does Simon run?",
+              "options": [
+                {
+                  "id": "5c23f593-6b24-4406-9181-f319fd7f0f33",
+                  "label": "He wants to exercise.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f6e3b1d9-684b-4de6-bb93-ecc358790dfa",
+                  "label": "He wants his ticket.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "8:24",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-12.jpg",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Simon and the old woman run fast. They are near the paper now. \"Woof!\" \"What is that? It's a dog!\" He's running very fast. He runs to the paper and catches it in his mouth. \"My ticket!\" Simon says. \"My letter!\" the old woman says. The dog runs along the boat. \"Catch the dog!\" Simon says. \"Stop him!\" says the old woman."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8f1c39e-3b67-4db5-8e3a-1f02c0ed6c1e",
+      "exercises": [
+        {
+          "id": "b6d7e8a7-f9c4-4f3f-b1c1-57a278c26fd9",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "c5950baa-feb8-4131-899c-9f1df6e3fae2",
+              "question": "12.1 What does the dog do?",
+              "options": [
+                {
+                  "id": "b5f7d90e-2f1f-4c56-b798-44b9e5a253f1",
+                  "label": "The dog sits.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e5f3d02d-d3b1-4ac0-b4cd-08f9da1fd40e",
+                  "label": "The dog runs along the boat.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "e2a8d13-e679-4bc9-9a63-ff1d3f346a71",
+              "question": "12.2 What does Simon say when the dog catches the paper?",
+              "options": [
+                {
+                  "id": "5c23f593-6b24-4406-9181-f319fd7f0f33",
+                  "label": "'My letter!'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f6e3b1d9-684b-4de6-bb93-ecc358790dfa",
+                  "label": "'My ticket!'",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "d9f5c4e9-836b-4c23-a063-fb5b107cce12",
+              "question": "12.3 What does the old woman say?",
+              "options": [
+                {
+                  "id": "c9bb8422-5af8-4a34-bcfe-5db33518a557",
+                  "label": "'My letter!'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f6e3b1d9-684b-4de6-bb93-ecc358790dfa",
+                  "label": "'My ticket!'",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "9:07",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-13.jpg",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The dog is happy. He can run fast. He's playing a game with Simon and the old woman. He doesn't see Samantha. Samantha jumps up and catches him. \"I've got him, Simon,\" Samantha says. Simon and the old woman run to Samantha. The paper's in the dog's mouth. Simon looks at it. \"That's not my ticket,\" he says. \"No,\" the old woman says. \"It's my letter.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4c2d9e7-bd35-4f74-8ad4-7408aeb222db",
+      "exercises": [
+        {
+          "id": "c9e5d4f9-b9c4-4f3f-b8c3-27adbf51c9db",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d3f4b1a8-91c3-4ac9-b6a9-c8e8f4b62394",
+              "question": "13.2 Who catches the dog?",
+              "options": [
+                {
+                  "id": "f9e5c2f4-d6a1-4bc1-8fd7-7f533d278a92",
+                  "label": "Simon.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2b4a5d1e-cd74-47da-9fa7-758928f2ccf9",
+                  "label": "Samantha.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "d48d8b12-4bc3-4b52-9b8d-1f82df7e1f89",
+              "question": "13.2 What is in the dog's mouth?",
+              "options": [
+                {
+                  "id": "2f1e3725-2561-4e77-bff4-8d5b15f96a64",
+                  "label": "The letter.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "9a2b92cf-e9d5-4325-9ac4-6d45f23bdb95",
+                  "label": "The ticket.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "9:48",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-14.jpg",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The dog likes Simon and Samantha, but he doesn't like the old woman. He takes her coat in his mouth and pulls it. The coat falls to the ground. The wind takes the old woman's hat. It falls into the water. Her hair falls with the hat. Simon and Samantha look at the old woman. It's not an old woman! It's a man! \"The spy!\" Simon says. \"Police! Come here!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7b62cd2-49c1-4927-bf44-57500aab4d24",
+      "exercises": [
+        {
+          "id": "4a2d8f94-f8c7-41b7-bdd8-13b6fdbbc69a",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d3f6d8a3-9a5c-4b6f-9527-16b8813c23a3",
+              "question": "14.1 What does the dog do to the old woman's coat?",
+              "options": [
+                {
+                  "id": "4e59b0d9-8b61-4ed4-a190-c4d7a1f99dff",
+                  "label": "The dog takes the coat in his mouth and pulls it.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "9e233f3d-bf96-465b-80f1-98b34f6ac845",
+                  "label": "The dog runs away with the coat.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "bf3d1e29-cfcd-4e95-bc8d-8479c0a17950",
+              "question": "14.2 What happens to the old woman's hat?",
+              "options": [
+                {
+                  "id": "3e2d67db-c8ff-41ac-8b59-b981fa85096d",
+                  "label": "The hat flies away.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "dbb7e6f4-b43b-42f6-8f26-e1e3c7b0c44c",
+                  "label": "The wind takes the hat and it falls into the water.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d34c2d2a-74a6-46a2-8f84-5e53a15f0f6d",
+              "question": "14.3 What do Simon and Samantha think the old woman is?",
+              "options": [
+                {
+                  "id": "e48d078f-a35b-4178-ae19-46f8d5000eab",
+                  "label": "She is woman.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7e8a7b9-4ff9-42a5-bd79-d4572c8cbd9b",
+                  "label": "She is the spy!",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "10:32",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/simon-and-the-spy/paragraph-15.jpg",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The police are very happy. \"Thank you, Simon,\" they say. \"Now we have the spy. But the spy has a letter. The letter has names and addresses on it. We want the letter but we can't find it. Where is it? Do you know?\" Simon looks at the dog. The dog looks at Simon. \"There's the letter,\" Simon says. \"Where?\" says the policeman. \"It's in the dog,\" Simon says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d914f072-4902-4f1d-bf3a-773e3e0d4c47",
+      "exercises": [
+        {
+          "id": "e5a0f69b-d8f9-48a7-8c8a-219ffdf2fe9f",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "c74b462e-3b10-48a9-b29e-2ff3d57ff4d9",
+              "question": "15.1 What do the police want?",
+              "options": [
+                {
+                  "id": "c432bdfe-cbc9-4b4d-bf6b-1f7fe8bc7311",
+                  "label": "The police wants the dog.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9d08a19c-0808-4b58-b7c1-78a79d5e3c63",
+                  "label": "The police wants the letter.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "bcd6a073-23b3-48c7-8049-0a973a47d8e4",
+              "question": "15.2 What does Simon say when the police can't find the letter?",
+              "options": [
+                {
+                  "id": "ed8f0de8-c853-4bc2-9870-44c1c83dbe11",
+                  "label": "'The letter is with me.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "12a3cc07-c703-4f78-bcb1-1e2be18977f3",
+                  "label": "'The letter is in the dog = (dog's mouth).'",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

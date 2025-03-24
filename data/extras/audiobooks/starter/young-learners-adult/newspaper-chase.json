@@ -1,0 +1,964 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "Newspaper Chase"],
+    "time": "08:18",
+    "usa": true,
+    "uk": false
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/cover.png",
+          "imgAlt": "Cover illustration",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Newspaper Chase is a fictional story about a thief who steals a very expensive painting from an art gallery."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-1.png",
+          "imgAlt": "Paragraph 1 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The time is one o'clock in the morning. The place is the Ritesville town art gallery. A window opens and a man comes in. His name is Harry Black, and he is a thief. It is dark in the art gallery, but Harry has a light. He looks across the room at a painting. \"There it is!\" he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c2f8a5f6-3e4a-4b62-9ef1-ae6d742b7349",
+      "exercises": [
+        {
+          "id": "b1c5a79b-91b4-4f16-b28f-01a7d3f4aadc",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e4f3c71e-5417-4c9a-99e8-056a48a5d48b",
+              "question": "1.1 What time does the story take place?",
+              "options": [
+                {
+                  "id": "d5910651-bdd5-42c2-892d-b0c228f03bb3",
+                  "label": "One o'clock in the afternoon.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d81054c7-38b6-44ea-b098-6fc2b73779d4",
+                  "label": "One o'clock in the morning.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "ae4b5723-9474-4f78-8e26-1b5aeef58b5e",
+              "question": "1.2 Who is Harry Black?",
+              "options": [
+                {
+                  "id": "e83f25a4-519d-4a99-9514-8753edfc293f",
+                  "label": "A thief.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ed25b917-78b1-4141-92a3-c6e6cbdff4f2",
+                  "label": "A policeman.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:35",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-2.png",
+          "imgAlt": "Paragraph 2 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Harry moves quickly across the room. He stands and looks at the painting. \"A million dollars for this?\" he thinks. \"I don't understand it.\" But he takes a knife from his coat. Then he takes the painting very, very slowly from its frame."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a94d7b38-5f79-4df8-8bc7-b0e7c68a3d9b",
+      "exercises": [
+        {
+          "id": "e3b8c3a7-2de4-4fa7-830b-3f893d8a705b",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "f31d937a-2c07-4068-9607-b93ebaa61002",
+              "question": "2.1 What does he take from his coat?",
+              "options": [
+                {
+                  "id": "ae476c58-7b41-4017-946c-7ebcb7ba9642",
+                  "label": "He takes a knife.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f51ae11f-019b-4f55-ae95-013b2b649722",
+                  "label": "He takes his keys.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:01",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-3.png",
+          "imgAlt": "Paragraph 3 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Harry goes back across the room to the window, but he walks into a table. There is a beautiful blue glass vase on the table. It falls on the floor and breaks into a hundred pieces. Harry smiles. \"Is that a million-dollar vase?\" he thinks. \"It isn't now!\" He runs across the pieces of glass to the window."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d2357e25-6504-482a-8f19-af5015d76d21",
+      "exercises": [
+        {
+          "id": "299479e0-507f-4d6e-9140-0e09569b814b",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "b3bc7bfd-2119-4267-9867-4ef521780767",
+              "question": "3.1 What happens to the vase when he walks into the table?",
+              "options": [
+                {
+                  "id": "899ce31e-009f-4177-8ca8-11699b825dbc",
+                  "label": "It falls on the floor and breaks into ten pieces.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "aac87c16-59d0-4c33-a37f-0fa3ef60f3f5",
+                  "label": "It falls on the floor and breaks into a hundred pieces.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "1:33",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-4.png",
+          "imgAlt": "Paragraph 4 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Harry has a room in Mrs. Allen's rooming house. He goes quietly up to his room and closes the door. Mrs. Allen and her daughter, Janey, are sleeping. They don't hear him. In his room, Harry takes the painting from his bag. He puts it in a newspaper, then he puts the newspaper under his bed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6215cbaf-0b90-4e92-bc38-c2a72352f7f0",
+      "exercises": [
+        {
+          "id": "5479322b-e43c-4d49-81f7-f10b4a03b802",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "116a3a6c-8afe-4eb6-895e-feea0df18ea9",
+              "question": "4.1 Where does Harry live?",
+              "options": [
+                {
+                  "id": "9eb9b6a7-8103-4887-90c7-961959bc7036",
+                  "label": "He lives in a building.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "5aa29702-c288-4df1-a10e-fa9785c5d730",
+                  "label": "He lives in Mrs. Allen's rooming house",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "4e52df2a-675d-4e89-bd70-79c53a560c33",
+              "question": "4.2 Where does Harry put the paiting?",
+              "options": [
+                {
+                  "id": "739c7e83-5cb9-46e7-960e-dbf8e262fb97",
+                  "label": "He puts it in a newspaper under his bed.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b6e57f6c-dff7-4b9e-b3a4-9b5c6a9109f4",
+                  "label": "He puts it in a newspaper behind the door.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:04",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-5.jpg",
+          "imgAlt": "Paragraph 5 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "In the morning, Janey Allen is in the kitchen. She is putting old bottles into a box. \"Recycling is important,\" Janey thinks. On the TV, a reporter is at the Ritesville art gallery. He is talking about the painting. \"It's a million-dollar painting,\" he is saying. \"Here's a photo of it.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b0bfef0e-0b85-44bd-88f0-0dff34c96e53",
+      "exercises": [
+        {
+          "id": "b0207d58-9fb0-4dd2-86a6-e7f590b23587",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "99bdef5d-10a8-42ad-a69c-ead80e918b0c",
+              "question": "5.1 What's Janey putting into a box?",
+              "options": [
+                {
+                  "id": "14b482ed-f5fa-44b6-a1c1-6d82540dd05a",
+                  "label": "She puts newspapers.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c4a531a5-7093-4dd4-a26a-cf4d51feae04",
+                  "label": "She puts old bottles.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "21ef04c7-5d71-443a-a58f-46dd5b2ab2eb",
+              "question": "5.2 Why does she do it?",
+              "options": [
+                {
+                  "id": "a6fb39af-f638-499c-b93c-59b96ad0a443",
+                  "label": "Because she collects bottles.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "45f6b3e3-957d-4df3-a2da-cacd9c8efa3e",
+                  "label": "Because she think recycling is important.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "2:33",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-6.jpg",
+          "imgAlt": "Paragraph 6 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Now the reporter is talking about the blue glass vase. \"It's in a hundred pieces now,\" he says. Janey looks at the photo of the vase, then she asks her mother, \"Do you have any old bottles?\" \"No,\" Mrs. Allen says. \"That's all, Janey. But the newspaper recycling truck is coming today.\" \"Of course!\" Janey says. \"It's Friday!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5d9f1a7-82a6-4a17-b4a2-9b1f16e7d5a3",
+      "exercises": [
+        {
+          "id": "e3c8a7b5-2f69-4e3b-8a17-b6d7f1f8a1c3",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "f2a7d6e1-49a5-4c37-b3f9-e6b1c7f8d215",
+              "question": "6.1 What does the reporter say about the blue glass vase?",
+              "options": [
+                {
+                  "id": "d5f9b3a8-91a2-4c6e-b8d5-fb1e7a8c6b29",
+                  "label": "It’s in a hundred pieces.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a6d3e1b5-79c3-4d1e-8b72-dc8f3a5b7e92",
+                  "label": "It's in perfect condition.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "e7b6d2c5-39a4-4f29-91c6-b3f8d1a7e6b5",
+              "question": "6.2 Why is Janey excited about Friday?",
+              "options": [
+                {
+                  "id": "c8a5b7e1-49f3-4d2a-b6e7-f1d9b3a8c2f5",
+                  "label": "She is going shopping with her mom.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b1e7f8c6-2a5d-4a3c-b7e9-d5c8f1a9b3e2",
+                  "label": "The newspaper recycling truck is coming.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "3:10",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-7.jpg",
+          "imgAlt": "Paragraph 7 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Harry isn't in his room. He is talking on his telephone to a man in Seattle. The man wants the painting, but Harry isn't happy. \"Five thousand dollars?\" Harry says. \"No! It's a million-dollar painting! ... What? ... No, I want fifty thousand, not five! ... What? ... The painting? Yes, I have it, and it's OK.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4f7d3b8-6a2d-45e8-8f9b-19d4c3a7b5e2",
+      "exercises": [
+        {
+          "id": "b8e7c2d1-3f6a-49b7-a2c5-f9d3b5e8a7f4",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e1f7c8b5-4a6d-4b3f-9d2e-c5b7a8d9f4e3",
+              "question": "7.1 Why is Harry unhappy during the phone call?",
+              "options": [
+                {
+                  "id": "a9e2d1b7-6f3a-4b5c-8d7e-f4b8a5c9d3e1",
+                  "label": "The man refuses to buy the painting.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d6b7f3a8-1e9c-4b2a-a7f5-c8d5e1f4b9e2",
+                  "label": "The man offers only five thousand dollars for the painting.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b2e8f3c7-4d9a-41b5-a7c5-d1f6e9b4a7d8",
+              "question": "7.2 How much does Harry want for the painting?",
+              "options": [
+                {
+                  "id": "c9e8d1f7-4b6a-41f5-a3c5-b7d9f4e2a8b3",
+                  "label": "Five thousand dollars.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f1d7b3e9-6a8c-4b5f-92e1-c7a8d4b5e3f9",
+                  "label": "Fifty thousand dollars.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "3:54",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-8.png",
+          "imgAlt": "Paragraph 8 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Janey is looking for old newspapers. Early on Friday morning, she takes them from every room in the house. Then later, the newspaper recycling truck arrives. Janey opens Harry's door and looks into his room. She always takes his old newspapers or bottles for recycling. \"Ah!\" she thinks. \"There's a newspaper under Harry's bed.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8a7c9f2-6b3e-41f5-a7d9-b4e2c5f8a3b7",
+      "exercises": [
+        {
+          "id": "b7f9d1c8-4a6e-49b5-a3c5-f8d2b7a9e4f3",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e3f8b7d9-4c6a-41b5-a2e7-d1f9c5b4a8f7",
+              "question": "8.1 What does Janey collect early on Friday morning?",
+              "options": [
+                {
+                  "id": "c9e2f1b7-4a6d-49b5-a8c5-d4f3b7a8e5f9",
+                  "label": "She collects glass bottles.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a5b7d2e8-6f9c-41f5-a3e4-b9d8f4c7a3f2",
+                  "label": "She collects old newspapers.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b6f7c8d9-4a2e-41b5-a3e5-f9d1b7a8c4f2",
+              "question": "8.2 Where does Janey find a newspaper in Harry's room?",
+              "options": [
+                {
+                  "id": "f3b8d7e9-6c5a-41f5-a2e4-b7a9c5d4f1b7",
+                  "label": "Under Harry's bed.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d9f2b7e8-4a6c-41b5-a3e9-f1c5b7a8d4f3",
+                  "label": "On Harry's desk.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "4:28",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-9.jpg",
+          "imgAlt": "Paragraph 9 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Janey puts the old newspapers into a black recycling box. She runs from the house and sees the truck. \"Wait!\" she says. And she quickly gives the box to one of the men. Harry is coming back to the house. He sees the recycling truck, and he sees Janey. \"It's Friday!\" he says. \"The newspaper—! Oh, no!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7b8d9e1-4a2c-41f5-a8b3-d4c5e9f2b7a6",
+      "exercises": [
+        {
+          "id": "b9e7d1c8-4f6a-49b5-a3f2-c5d8b7a9e4f1",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d1f8b7c9-4a6e-41b5-a2e7-f9c5b7a4d8f2",
+              "question": "9.1 What does Janey do with the old newspapers?",
+              "options": [
+                {
+                  "id": "b6f2c8d9-4a7e-41b5-a3e9-f1d4b7a8c5f2",
+                  "label": "She throws them in the trash.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e3b7d2f8-6c9a-41f5-a3e4-b9d1f4c5a7f8",
+                  "label": "She puts them into a black recycling box and gives them to the truck.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "5:03",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-10.jpg",
+          "imgAlt": "Paragraph 10 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Harry chases after the truck. \"Wait! Wait!\" he says. Janey watches him. \"What is he doing?\" she thinks. Harry jumps into the back of the truck. \"I want my newspaper!\" he says. \"Where's my newspaper?\" But there are thousands of newspapers in the truck."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b8d1f7c9-4a2e-41f5-a3e9-b7a5c5d4f1b9",
+      "exercises": [
+        {
+          "id": "d9f7b1c8-4a6e-49b5-a2e7-c5d8b7a9e4f1",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "e1b7d2f8-6c9a-41f5-a3e4-b9d1f4c5a7f8",
+              "question": "10.1 Why does Harry chase after the truck?",
+              "options": [
+                {
+                  "id": "d8f7c9b6-4a2e-41f5-a3e9-b7a5c5d1f4b2",
+                  "label": "He wants to stop the truck for Janey.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f3b8d7e8-6c5a-41f5-a2e4-b7a8c5d4f1b9",
+                  "label": "He wants to find his newspaper.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b6f2c8d9-4a7e-41b5-a3e9-f1d4b7a8c5f2",
+              "question": "10.2 What problem does Harry face when he gets into the truck?",
+              "options": [
+                {
+                  "id": "b8d1f7c9-4a2e-41f5-a3e9-b7a5c5d4f1b9",
+                  "label": "The truck is locked.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e3b7d2f8-6c9a-41f5-a3e4-b9d1f4c5a7f8",
+                  "label": "There are thousands of newspapers.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "5:35",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-11.jpg",
+          "imgAlt": "Paragraph 11 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Janey walks quickly from the house to the truck. \"Why is your newspaper important, Harry?\" she asks. \"It's two days old.\" But Harry doesn't hear her. He is thinking, \"My million-dollar painting! Where is it?\" The men from the recycling truck are watching Harry, too. But now Janey is looking at Harry's shoe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4eac8562-190e-47c5-a9bf-46adfd622116",
+      "exercises": [
+        {
+          "id": "ce2b60e6-82e1-4c6e-91f7-f52518db680a",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "7f1fc5e0-c20b-4918-bffe-abc02ba6317a",
+              "question": "11.1 Where's Janey looking at?",
+              "options": [
+                {
+                  "id": "e66908f9-106e-4d64-b6f8-e1ee816943db",
+                  "label": "She's looking at Harry's shoes.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ffad8b6b-4f0f-4940-ad67-edcc8dfcbd10",
+                  "label": "She's looking at the newspapers.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "6:06",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-13.png",
+          "imgAlt": "Paragraph 12 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"There's some blue glass in Harry's shoe,\" Janey thinks. \"Where—? Oh!\" Suddenly, she remembers the photo of the blue glass vase on the TV. She looks again at the piece of glass in Harry's shoe. \"Is it from the vase in the art gallery?\" she thinks. \"Is Harry Black the thief?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bf9d4be-8fbc-494e-9f69-d932c2d14636",
+      "exercises": [
+        {
+          "id": "6316b9f9-0e7d-4402-a425-7f6d553ac6e1",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "7749759d-1a9c-4310-be34-3d4bcc98b922",
+              "question": "12.1 What's in Harry's shoe?",
+              "options": [
+                {
+                  "id": "9164f08a-8dd1-43fd-a079-75ad68db81a3",
+                  "label": "There's some green glass in Harry's shoe.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c893aeee-ea26-4a06-ac04-915c722e13a8",
+                  "label": "There's some blue glass in Harry's shoe.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "01e95b59-a76d-477f-8fe4-7eea8ee30705",
+              "question": "12.2 What does she think Harry is?",
+              "options": [
+                {
+                  "id": "ebbb4317-128a-42bf-b4a4-0953bc7c4ad9",
+                  "label": "She thinks he's the thief.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a9db6e09-9d23-45ff-b2ea-dd05a8694dc2",
+                  "label": "She thinks he's a police officer",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "6:37",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-13.png",
+          "imgAlt": "Paragraph 13 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The men from the recycling truck are angry. \"We're going now,\" they are saying. \"We're late.\" \"But I want my newspaper!\" Harry says. In the house, Janey is talking to the police on the telephone. \"Maybe I'm wrong,\" she is saying. \"But there's blue glass in his shoe ... What? ... Yes, he's looking for the newspaper now.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9ca8405d-a28f-410f-8560-4b456a82cd13",
+      "exercises": [
+        {
+          "id": "247bf34a-bd9e-4653-ace2-5fb704bede2b",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "6c0d670f-d434-464b-b264-62ec2395e50a",
+              "question": "13.1 Why are the men from the recycling truck angry?",
+              "options": [
+                {
+                  "id": "665f80e9-3507-4725-9fdc-168eeacd2c48",
+                  "label": "Because the police is coming.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "12866b76-124a-4b58-bad5-1d9b965c739a",
+                  "label": "Because they have to go, and they're late.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "7:10",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-14.png",
+          "imgAlt": "Paragraph 14 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Two policemen arrive quickly. \"Let's look at your shoe,\" they say to Harry. Harry doesn't understand. \"What's wrong?\" he asks. One of the policemen takes the glass from Harry's shoe. \"This is a very expensive piece of glass,\" he says. \"From a very expensive vase. Remember?\" Suddenly, Harry understands. \"Oh, no!\" he says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0330bc3b-e915-45f3-86e7-6f18e013a015",
+      "exercises": [
+        {
+          "id": "959a9312-55bd-44d0-b134-eed2486ea819",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "42e7e686-00ce-4415-babd-5dea30630105",
+              "question": "14.1 What does one of the policemen take from Harry's shoe?",
+              "options": [
+                {
+                  "id": "9756c1dc-f2f1-4e57-b679-3392edb23efa",
+                  "label": "He takes the green from Harry's shoe.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4fff01eb-5a7f-4627-91c1-022452483adf",
+                  "label": "He takes the glass from Harry's shoe.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "7:46",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/newspaper-chase/paragraph-15.png",
+          "imgAlt": "Paragraph 15 illustration",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Police cars and policemen arrive. The men look in the truck for the million-dollar painting. Later, they find the right newspaper — and they find the painting. \"Good work, Janey,\" one of the policemen says. \"And there's a reward.\" \"Maybe I can buy a painting with the reward!\" Janey says. \"I like pictures!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8178682c-5d89-487b-9fab-b8964255f853",
+      "exercises": [
+        {
+          "id": "cc0792a0-1868-4811-8cf2-7a489d2cc0eb",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "cfc9e85e-d316-46e0-bbe9-55f175efec33",
+              "question": "15.1 Can the police find the newspaper and the painting?",
+              "options": [
+                {
+                  "id": "cb86e797-107c-45aa-b941-b2ce82dcf96b",
+                  "label": "Yes, they can.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "9e5fad5d-ce2b-40e3-8b06-2e6c756a7c4d",
+                  "label": "No, they can't.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "226e511d-755a-4d95-810d-666b176bebc8",
+              "question": "15.2 What does Janey get from the police?",
+              "options": [
+                {
+                  "id": "c30d3e6c-5cb4-4701-ae17-407d84423837",
+                  "label": "She gets a reward.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "08cb4c23-f85a-4b0a-832b-53f02e68b996",
+                  "label": "She gets",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

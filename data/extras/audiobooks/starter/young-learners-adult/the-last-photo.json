@@ -1,0 +1,1050 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Audiobooks",
+    "descriptions": ["Starter (Pre-A1)", "The Last Photo"],
+    "time": "8:48",
+    "uk": true
+  },
+  "contents": [
+    {
+      "link": "#summary",
+      "content": "Summary"
+    },
+    {
+      "link": "#paragraph-1",
+      "content": "Paragraph 1"
+    },
+    {
+      "link": "#paragraph-2",
+      "content": "Paragraph 2"
+    },
+    {
+      "link": "#paragraph-3",
+      "content": "Paragraph 3"
+    },
+    {
+      "link": "#paragraph-4",
+      "content": "Paragraph 4"
+    },
+    {
+      "link": "#paragraph-5",
+      "content": "Paragraph 5"
+    },
+    {
+      "link": "#paragraph-6",
+      "content": "Paragraph 6"
+    },
+    {
+      "link": "#paragraph-7",
+      "content": "Paragraph 7"
+    },
+    {
+      "link": "#paragraph-8",
+      "content": "Paragraph 8"
+    },
+    {
+      "link": "#paragraph-9",
+      "content": "Paragraph 9"
+    },
+    {
+      "link": "#paragraph-10",
+      "content": "Paragraph 10"
+    },
+    {
+      "link": "#paragraph-11",
+      "content": "Paragraph 11"
+    },
+    {
+      "link": "#paragraph-12",
+      "content": "Paragraph 12"
+    },
+    {
+      "link": "#paragraph-13",
+      "content": "Paragraph 13"
+    },
+    {
+      "link": "#paragraph-14",
+      "content": "Paragraph 14"
+    },
+    {
+      "link": "#paragraph-15",
+      "content": "Paragraph 15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "summary"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/cover.png",
+          "imgAlt": "Book cover",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Pam and Martin visit Cambridge. Pam takes a photo, but a man walks in front of her. Later Martin sees a picture of a man in a newspaper. The police want this man. Is he the same man? And where is he now? Does Pam's photo have the answers?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-1"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph1.jpg",
+          "imgAlt": "Pam and Martin are taking some photos.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "dictionaryAudioSrc": "/dictionary/xxx.mp3",
+              "enText": "It is Saturday afternoon. Martin and his sister Pam are in Cambridge for the day. They are looking at the beautiful old buildings of this University City. Pam has a camera with her. She likes taking photos and sometimes they are very good. But sometimes they are not very good and Martin."
+            },
+            {
+              "keyword": "laugh",
+              "dictionary": "laughs at",
+              "dictionaryAudioSrc": "/dictionary/l/laughs-at.mp3",
+              "enText": "them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abc36107-9bdf-44a1-a5df-8acbb719c262",
+      "exercises": [
+        {
+          "id": "109d95e5-e935-4b67-aea4-686c8306b8e7",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "7675afe7-d502-4c87-93d7-d688894151ae",
+              "question": "1.1 Where are Martin and Pam?",
+              "options": [
+                {
+                  "id": "426950c9-d2b7-4dc5-b1ea-20f51a64f8fb",
+                  "label": "They are in Scotland, Glasgow.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b2970cba-5d83-4f7a-941d-f6bff3c2fbfb",
+                  "label": "They are in England, Cambridge.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "faf77fbe-8011-4416-a707-64ecbbf15ed4",
+              "question": "1.2 What are they looking at?",
+              "options": [
+                {
+                  "id": "69721d36-7494-4e46-9cc9-a875f6e1a4a3",
+                  "label": "They're looking at beautiful flowers.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "465e682d-842a-4386-92b7-bc0e368687eb",
+                  "label": "They're looking at beautiful old buildings.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "5b2a07c9-1826-43fb-9c67-2a2858439fac",
+              "question": "1.3 What does Pam have?",
+              "options": [
+                {
+                  "id": "0d605e02-c673-4799-9298-fb877d147b8a",
+                  "label": "She has a camera.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "12da0e4e-b11f-41ea-8ca2-033e511e46c8",
+                  "label": "She has a phone.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "33ce7ee1-24ec-48da-818b-a00aabcffdfe",
+              "question": "1.4 Are the photos always good?",
+              "options": [
+                {
+                  "id": "837c7fff-8276-40a9-953a-f8ff05d2defd",
+                  "label": "Yes, they're always good.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e1b65efe-95cd-4d70-bcbf-6ac906e8a049",
+                  "label": "No, they're not always good.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "0:37",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph2.jpg",
+          "imgAlt": "Martin is taking photos of Pam.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "It is five o'clock. Pam and Martin are going home now. They are tired after their long day. They are in the garden near the bus station. \"Let's have a last photo of you\", says Pam. \"Oh no, not again\", says Martin. \"Come on\", says Pam. \"It's the last one. I want to finish the film in my camera.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9a626ebd-00e3-4498-ae62-1ff7e9b67d94",
+      "exercises": [
+        {
+          "id": "249ea6ba-1190-478a-bf8c-fbfb076be359",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "ff37a403-731c-4609-945e-994109b63259",
+              "question": "2.1 What time do Martin and Pam go home?",
+              "options": [
+                {
+                  "id": "8eb5910f-1d3d-4deb-ba77-b6b2f7a2df0f",
+                  "label": "They go home at six o'clock.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b67b68fe-50e1-47e5-a030-6ac7f795ec9b",
+                  "label": "They go home at five o'clock.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "99c965eb-1edf-4b31-834a-dad70bc896b6",
+              "question": "2.2 How are they going home?",
+              "options": [
+                {
+                  "id": "9bd4b090-f43a-44cf-9f36-8b34ca634dea",
+                  "label": "They're going home by bus.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "90f5593e-4b76-40fe-981a-14b778010d19",
+                  "label": "They're going home by car.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "f3e77118-3ebf-4892-b690-4bfcf080c903",
+              "question": "2.3 Where is the bus station?",
+              "options": [
+                {
+                  "id": "a5d45cef-be6e-4ce5-a3c2-8210520a7209",
+                  "label": "The bus station is near the shopping center / mall.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f55d794f-d4bf-4883-972e-b8ce0a6153d6",
+                  "label": "The bus station is near the garden.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "29c174d5-196d-4710-b418-57b463a3257f",
+              "question": "2.4 Why does Pam want to take one more photo?",
+              "options": [
+                {
+                  "id": "a1b55306-3604-4a47-b88d-582e9d1be1af",
+                  "label": "Because she wants to finish her film.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d0466f55-0f5a-42cc-8c7b-377a656b102e",
+                  "label": "Because she wants to buy another film.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "1:15",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph3.jpg",
+          "imgAlt": "Pam is taking a photo when a man walks between Pam and Martin.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Oh, all right,\" says Martin. He stands in front of the flowers. \"Look at me\", says Pam and takes a photo. A man with a big rucksack on his back walks between Pam and Martin. \"Oh no\", says Pam. \"Now I've got a picture of that man, not of you, Martin.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e97383b-b0b2-4845-b034-be2b74cbd107",
+      "exercises": [
+        {
+          "id": "4540cdbb-171a-4331-94cf-82e94fe847a0",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "02d0d951-137f-441e-bf51-dfd40afb0988",
+              "question": "3.1 Where is Martin Standing?",
+              "options": [
+                {
+                  "id": "ffa426d7-b31a-4729-a683-94f5928aa7c5",
+                  "label": "He's standing behind the flowers",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6669c54e-acf1-4861-bdfa-b1693f882dae",
+                  "label": "He's standing in front of the flowers",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "48e33c32-46b9-4bb1-afc3-a835d21e5d2e",
+              "question": "3.2 What happens when Pam takes a photo / picture?",
+              "options": [
+                {
+                  "id": "9ad03a49-cc6f-4b54-827c-bd8a8468c27f",
+                  "label": "A man walks between Pam and Martin.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "39a4cbc5-6ab2-462b-8477-6b127360ed57",
+                  "label": "A man walks behind Martin.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "cf1f1d29-8d4e-482d-8767-ade6ecee9138",
+              "question": "3.3 Was Pam happy about it?",
+              "options": [
+                {
+                  "id": "37a346ad-bdc4-4ff9-9314-8bb56a7f471d",
+                  "label": "Yes, she was.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "717427c3-552d-42ec-bd3a-7c6fb80de4fe",
+                  "label": "No, she wasn't.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "1:53",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph4.jpg",
+          "imgAlt": "Pam is putting away her camera.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The man looks at Pam. He is angry. He goes across the road without a word. \"That man isn't very nice, is he?\" says Martin. \"No\", says Pam. \"And that was the last picture on the film, too.\" The man with the rucksack on his back goes into the bus station. He's got sunglasses and a blue hat."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10c9be97-325f-4958-8238-f1f08d17ddcb",
+      "exercises": [
+        {
+          "id": "53951dd9-1752-4ff3-9c68-dd8eaf4e1f90",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "13df48b1-8384-4e9e-8993-6b1fac0490c1",
+              "question": "4.1 Is the man kind to them?",
+              "options": [
+                {
+                  "id": "822d713f-55c9-4dae-a68e-d2fbbdd6ddd1",
+                  "label": "Yes, he's very kind.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ebe32f7e-2402-45b3-ba4e-1690c85e7543",
+                  "label": "No, he isn't. He's angry.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "2f90c4cc-bf6e-492a-bb89-611a904959e9",
+              "question": "4.2 Where does the man go?",
+              "options": [
+                {
+                  "id": "a673d805-69f0-466a-842e-83e436013595",
+                  "label": "He goes into the bus station.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d29efc7e-d6f5-4412-a63b-a95db6e02347",
+                  "label": "He goes into a car.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6f1f24a5-c883-4622-b6a8-ca0bc678f774",
+              "question": "4.3 What's he wearing?",
+              "options": [
+                {
+                  "id": "fab0a6dc-c0b8-445c-ae96-0f427f373039",
+                  "label": "He's got glasses and a red hat",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e8ff200e-b808-4fb5-8f4e-63b0436d7b23",
+                  "label": "He's got sunglasses and a blue hat.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "2:30",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph5.jpg",
+          "imgAlt": "Pam and Martin are at the bus station.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Come on,\" says Martin. \"Let's find our bus.\" They go into the bus station. \"Look\", says Martin. \"There's that man again. He's getting into that bus. He's going to Aberdeen. That's in Scotland.\" \"Good\", says Pam. \"Far from here and far from me!\" She is angry with the man."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e44ee4ed-cb08-4b54-b723-f447fb70ae4b",
+      "exercises": [
+        {
+          "id": "ff16effa-6737-4ea7-a089-2da53324499a",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a432f4e3-7f5d-4437-bc44-9b8141393d71",
+              "question": "5.1 Where's he man going?",
+              "options": [
+                {
+                  "id": "19fb4679-0805-4741-b9d8-a9b424eae37f",
+                  "label": "He's going to Dublin, in Ireland.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "dfb96142-bc3d-4783-b94d-d6d2a7260331",
+                  "label": "He's going to Aberdeen, in Scotland.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "3:12",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph6.jpg",
+          "imgAlt": "Pam and Martin are looking at some developed photos.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Three days later, on Tuesday, Pam has got her photos from the shop. \"Look at these\", she says to Martin. \"They're the photos of us in Cambridge.\" \"Oh, these are all very good,\" says Martin. \"But not this last one,\" says Pam. \"Look, it's that man with the rucksack.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "718fc20b-e09e-4314-904b-248a3b4c0213",
+      "exercises": [
+        {
+          "id": "c9beb23d-64aa-472e-99c6-20743e174cfd",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "da9cb115-9046-489c-be87-194c3627d564",
+              "question": "6.1 When does Pam get the developed photos?",
+              "options": [
+                {
+                  "id": "1976ed08-d784-45e9-89a9-7037dbca59fa",
+                  "label": "They get the developed photos five days later.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a2074b7f-a628-4455-914f-847c71b7ca8d",
+                  "label": "They get the developed photos three days later.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "7430d4a0-710c-47aa-8f38-b853b8a32cae",
+              "question": "6.2 What's the problem with the last photo?",
+              "options": [
+                {
+                  "id": "1250fef6-8480-444c-932f-aa1f84c238e4",
+                  "label": "A man with a rucksack appears in the photo.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "fd6a51e4-b782-47c2-aaeb-37c519bf5f87",
+                  "label": "A woman with a rucksack appears in the photo.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "3:43",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph7.jpg",
+          "imgAlt": "Martin is showing the same man on a newspaper.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "In the photo, the man is in front of Martin. You can't see Martin behind the man's rucksack. \"Wait a minute,\" says Martin. \"I know that face. It's in the newspaper. Have you got it?\" \"Today's newspaper?\" says Pam. \"Yes, it's here. Why?\" \"Yes, here he is. Look at this picture,\" says Martin. Pam looks at the photo in the newspaper."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c01a485b-2eaa-4168-90bf-8b6d1a37bb6d",
+      "exercises": [
+        {
+          "id": "b2df60ab-fa47-4e16-b4db-e1d73c92519b",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "bf562f61-d328-4b98-a8de-cd9e3c76188c",
+              "question": "7.1 What do they see in the today's newspaper?",
+              "options": [
+                {
+                  "id": "195d7235-51d5-43cf-8079-ee21781c6147",
+                  "label": "They see a picture of a different man.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "28e0b12e-b483-4ee4-a0d8-2f1682ba4c67",
+                  "label": "They see a picture of the same man.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "4:27",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph8.jpg",
+          "imgAlt": "Martin is talking about the man with Pam.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Who's that?\" she asks. \"It says in the paper his name's Alan Rook,\" says Martin. \"And he works in a bank in London. But on Monday morning — yesterday morning — no Alan Rook! The people at the bank don't know where he is. And they say he's got a hundred thousand pounds with him. The police are looking for him, too.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f472a0a-d1da-4759-a03c-4af46fc8232b",
+      "exercises": [
+        {
+          "id": "d0c7acad-16fc-410d-9114-0012f583b2f4",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "b356cd8e-847f-4dc9-80a3-9edc808167a7",
+              "question": "8.1 Where does Alan Rook work?",
+              "options": [
+                {
+                  "id": "86bb927a-bdbf-448b-b449-9a65f9fe1174",
+                  "label": "he works in a bank in Aberdeen.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "8391c7ea-b754-48b4-9d06-8551f0055285",
+                  "label": "He works in a bank in London.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "5:05",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph9.jpg",
+          "imgAlt": "Martin compares the two photos.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"But is that the man in my photo?\" asks Pam. \"He hasn't got a beard and he hasn't any hair.\" \"Look at his ears. Look at his nose,\" says Martin. \"It's him. I know it is.\" Martin has an idea. He takes a pencil and starts to draw on the newspaper. \"What are you doing?\" asks Pam."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "527009db-b546-469f-86c8-99ec418685c9",
+      "exercises": [
+        {
+          "id": "ce62848c-adc0-4ef8-b07a-c45f0962ce69",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "aacd7bd6-597f-4f00-86fd-ec6474d21a95",
+              "question": "9.1 What does Martin do when he sees the man on the newspaper?",
+              "options": [
+                {
+                  "id": "3a4578bf-05cb-4454-827f-6bc3230d178a",
+                  "label": "He takes a pencil and starts to draw on a book.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "1d824f89-7ef9-4c34-9bf8-97e7655f0461",
+                  "label": "He takes a pencil and starts to draw on the newspaper.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "5:43",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph10.jpg",
+          "imgAlt": "Now the two photos look alike.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"Look,\" says Martin. \"I'm putting dark glasses and a two-day beard on the man in this photo. Now I'm drawing a hat on his head. See? Now, look at the two pictures.\" \"You're right, says Pam. \"It's him. It's Alan Rook.\" \"Come on, says Martin. Let's take these pictures to the police.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45aa9ab4-58fc-41c6-b8a7-0f8dfa91f31a",
+      "exercises": [
+        {
+          "id": "7b1f6782-9da7-422a-8846-0e75f037c9a9",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "faa8c4b6-395f-406d-8ccc-02364a6e48a9",
+              "question": "10.1 What does Martin draw?",
+              "options": [
+                {
+                  "id": "79241c83-1e49-4edf-b4df-0c74586036e5",
+                  "label": "He draws dark glasses, a three-day beard, and a cowboy hat on the man's head.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e96056f8-1e52-4cc3-88e1-bf51f46b59b3",
+                  "label": "He draws dark glasses, a two-day beard, and a hat on the man's head.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "42c619d3-e577-4a11-ae74-e229ff21f7b7",
+              "question": "10.2 Where do they take the pictures?",
+              "options": [
+                {
+                  "id": "1e414089-b937-4c63-bdbd-8ca6b751f4a1",
+                  "label": "They take the pictures to the police.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8a44c695-af61-4e2d-b0af-5df7413f2b4a",
+                  "label": "They take the pictures to the bank.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "6:19",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph11.jpg",
+          "imgAlt": "Paragraph 11 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "At the police station, Pam and Martin speak to a policeman. They put Pam's photo and the newspaper on the table and they tell their story. \"That's Alan Rook,\" says the policeman. \"In Cambridge at 5 o'clock on Saturday. The big question is — where is he now?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6254ede2-ea9c-4bea-9765-f7161dcbcb6b",
+      "exercises": [
+        {
+          "id": "9c3f4184-f01b-4502-9520-0a79e089b717",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "8c6f969e-d610-4d1b-ac81-eab5be9dc79f",
+              "question": "11.1 What do the police put on the table?",
+              "options": [
+                {
+                  "id": "a3cd9da0-f4a6-42d8-a408-3b1557812f0c",
+                  "label": "They put Pam's keys and wallet on the table.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2028cd30-50f8-4b3c-a355-ed6bcc52ed46",
+                  "label": "They put Pam's photo and the newspaper om the table.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "6:47",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph12.jpg",
+          "imgAlt": "Pam's telling the police Alan is taking a bus to Aberdeen.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "\"We think we know. He's in Scotland, in Aberdeen,\" says Pam. \"Or he's near there.\" They tell the policeman about the man and the bus to Aberdeen. \"He's got a rucksack and a tent on his back in the photo,\" says the policeman. \"He isn't living in a hotel. He's camping. If we're lucky, he's still in Scotland. I must make a telephone call.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a969364d-598c-4353-b9ec-3d0da6e5cc25",
+      "exercises": [
+        {
+          "id": "25b08080-62b7-4c85-b882-bb93874c0cc5",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a0b6e77c-cc54-49c7-85d6-fbd1a353cb41",
+              "question": "12.1 Where does Pam think Alan Rook is?",
+              "options": [
+                {
+                  "id": "832c51c9-6d0b-44d8-ade9-64d0510d37db",
+                  "label": "She thinks he's in England, in Cambridge.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4e0daccf-e4bd-4996-83e5-d5a7d8dc9c5f",
+                  "label": "She thinks he's in Scotland, in Aberdeen.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "8dc8ee8d-35d0-4fef-b15d-b646b8fbcacf",
+              "question": "12.2 What does Allan Rook have in his back?",
+              "options": [
+                {
+                  "id": "39701acf-6eff-4f56-a47d-450da2c7d21b",
+                  "label": "He has a rucksack and a tent.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "054ede6e-f41d-47b3-bd8c-dad9130812ac",
+                  "label": "He has nothing.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "7:27",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph13.jpg",
+          "imgAlt": "Police is looking for Alan who's in his tent.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The policeman telephones the police station in Aberdeen. \"Alan Rook's in Scotland,\" he says. \"We think he's camping near Aberdeen. He's got a short beard now. \"The next day the police in Aberdeen find Alan Rook in a tent in the mountains near Aberdeen. The money from the bank is in his rucksack."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40cee64c-aa5a-496f-accd-ac1b095da082",
+      "exercises": [
+        {
+          "id": "9735423d-e343-497f-83f7-e9ad59e87373",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "ed9c2791-4de6-4493-a127-bb29c6fc7120",
+              "question": "13.1 Where's Alan Rook camping?",
+              "options": [
+                {
+                  "id": "6253a210-983d-4554-afb7-6df0a3900c87",
+                  "label": "He's camping far from Aberdeen.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4c3bd855-98a6-49dd-a2cf-08fa09114b07",
+                  "label": "He's camping near Aberdeen.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "81ca6f09-4c64-4af0-a190-4601abbf4bd6",
+              "question": "13.2 Where's the money?",
+              "options": [
+                {
+                  "id": "13440f97-2194-487d-a0a3-532b3ada1b6f",
+                  "label": "The money is in the rucksack.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "97bc35f6-2444-4238-8d20-5c0e5a33ff37",
+                  "label": "The money is in his pocket.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "8:00",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph14.jpg",
+          "imgAlt": "Paragraph 14 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The next morning Pam and Martin's story is in all the newspapers. There is Pam's photo of Alan Rook at the bus station. There is a picture of Martin and Pam, too. In the newspaper, it says: CAMERA GIRL GETS PHOTO OF ROOK POLICE IN ABERDEEN FIND BANK MONEY."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "08b932e6-251d-4dbc-87c2-0c11d0558375",
+      "exercises": [
+        {
+          "id": "81087caa-3a8f-4fde-aa95-02e7b65bad75",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "8d0754a5-3596-4232-95a5-525eb1dc1e6c",
+              "question": "14.1 What does the newspaper say?",
+              "options": [
+                {
+                  "id": "96ed96b4-48b5-4f47-86bc-18e54b6e1b4f",
+                  "label": "It says: CAMERA GIRL GETS PHOTO OF ROOK BUT POLICE IN ABERDEEN CAN'T FIND BANK MONEY.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "54a4430b-6b5d-4375-9ad7-802b71cecaf0",
+                  "label": "It says: CAMERA GIRL GETS PHOTO OF ROOK POLICE IN ABERDEEN FIND BANK MONEY.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "8:28",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/materials/extras/audiobooks/starter/young-learners-adult/the-last-photo/paragraph15.jpg",
+          "imgAlt": "Pam and Alan Rook are celebrating Alan Rook's capture.",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The people at the bank are very happy. They give Pam and Martin a thousand pounds. \"My last photo's a good one after all,\" laughs Pam. Now I can buy a very good new camera."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ba74cfc3-8251-4c92-9b8c-d4b569f5f4f4",
+      "exercises": [
+        {
+          "id": "938a1406-b9c4-4b4b-a75d-d5cdf81b617b",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "68e70c04-71d8-4ac2-9f43-84b1d8a1e32e",
+              "question": "15.1 What do the people from the bank give Pam and Martin?",
+              "options": [
+                {
+                  "id": "766f994e-3074-4b2f-903f-de3bf63d7866",
+                  "label": "They give Pam and Martin a hundred pounds",
+                  "isCorrect": false
+                },
+                {
+                  "id": "758d1cbd-6f80-4f85-a572-53fc72c66cf0",
+                  "label": "They give Pam and Martin a thousand pounds",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

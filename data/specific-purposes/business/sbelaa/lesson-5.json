@@ -1,0 +1,310 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 5 • Talking about company strategy"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-5.png",
+      "imgAlt": "Lesson 5 image",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-5.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 5 • Talking about company strategy</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "keyword": "Andy and Laura work for Saltonica, a maker of cell phones. Sales have been slow lately, so Andy is recommending the company adopt a new strategy."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> My team has come up with a new strategy. We can't continue being <b>fast followers</b>. We need to start developing our own <b>cutting-edge</b> technologies."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> Why? We've been <b>fast followers</b> for the past ten years. <b>Why mess with success?</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> Success? <b>Get with the program</b>. Our sales are way down. Our <b>cash cow</b>, the Model 8B, only sold 900 units last month!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> I can understand why. That phone's a relic. It's been around for over three years. What about our new phones?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> Our latest model cell phone was a <b>real dog</b>! It sold only 20 percent of our sales forecast."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> Any idea why?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> Product life cycles are much shorter now than before. New technologies are developed at a much faster rate."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> So what are we supposed to do?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> We need to become much more innovative as a company. Instead of producing <b>me-too products</b>, we need to <b>leapfrog our competitors</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> How do we do that?"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> <b>For starters</b>, we need to <b>beef up</b> our R&D* department. We need to develop differentiated products which we can sell <b>at a premium</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Laura:</b> As a next step, let's <b>get buy-in</b> from our marketing and sales directors."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Andy:</b> Right. We should get everyone <b>on the same page</b>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "7908828f-3094-4c91-a64e-b1f034696d61",
+      "exercises": [
+        {
+          "id": "7ebc5595-475f-4097-af31-45aa882b85b4",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "d3fbe3ca-a808-45d7-9161-b1a49a231616",
+              "question": "1. Mattel, a large toy company, always <b>beefs up</b> its advertising around the holiday season.",
+              "options": [
+                {
+                  "id": "1de32f79-6878-497f-b5c2-a5f20025be1c",
+                  "label": "changes",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d75b361b-eac7-4408-8ae5-70f4174626dd",
+                  "label": "increases",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f3c3af00-1eaf-431b-ba4d-5bc4e9498cb9",
+                  "label": "decreases",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a51288b3-3f04-44fe-8334-1bd27bc81605",
+              "question": "2. Amazon.com uses <b>cutting-edge</b> technologies to determine which products each of its customers is most likely to buy.",
+              "options": [
+                {
+                  "id": "5f6feba6-758f-4302-857d-7c1b11f98c7b",
+                  "label": "sharp",
+                  "isCorrect": false
+                },
+                {
+                  "id": "1e894e9e-c94d-4518-93e4-9968acef8f9d",
+                  "label": "inexpensive",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c326828c-fbd8-4294-8f88-343c7f202877",
+                  "label": "the most modern",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "16cda594-5932-43e9-8eb8-d2e4ea7f01b9",
+              "question": "3. We need to re-design our entire store. <b>For starters</b>, we should move the cash register from the back of the store to the front of the store.",
+              "options": [
+                {
+                  "id": "0f193a8d-d962-4c82-a7cd-9bf123838f87",
+                  "label": "For now",
+                  "isCorrect": false
+                },
+                {
+                  "id": "56877c13-8cc3-42dd-83f7-4198fb247c27",
+                  "label": "As a first priority",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b4464a4d-5c8e-4294-8978-a2609513dfd5",
+                  "label": "As the solution",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6fca9b2d-819c-432c-9349-604e85630b15",
+              "question": "4. Your company is introducing garlic fruitcake? <b>That sounds like a real dog!</b>",
+              "options": [
+                {
+                  "id": "687661e0-4448-460f-b1ba-d5cfb8a2d690",
+                  "label": "What a great idea!",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b66e64d1-86e5-4bcf-a08d-c19f3efdb6e0",
+                  "label": "That sounds like a terrible idea!",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f618a242-1fa3-4e3d-94a5-18e1674e34b9",
+                  "label": "I'm sure dogs will love it!",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "9bfa7e58-cbc7-40b8-8cfe-b4d62ce678c6",
+              "question": "5. After Apple's iPod proved to be successful, several other manufacturers came out with <b>me-too products</b>.",
+              "options": [
+                {
+                  "id": "953b3917-aefa-433a-899f-a6b43cb7194a",
+                  "label": "products very similar to the iPod",
+                  "isCorrect": true
+                },
+                {
+                  "id": "2c6ea96f-4973-4970-8010-166742b838ea",
+                  "label": "their own innovative products",
+                  "isCorrect": false
+                },
+                {
+                  "id": "84f1266e-3676-4177-b13c-a21548615c24",
+                  "label": "products very different from the iPod",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "4d14b8a6-7764-436a-85eb-cb43e6fa3287",
+              "question": "6. Your plan is good, but before you proceed, you'll need to get buy-in from the company president.",
+              "options": [
+                {
+                  "id": "999f94a9-964f-4171-9181-3d771944915a",
+                  "label": "get a purchase order",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b983ef5a-f003-4652-b6ef-aa39ff827137",
+                  "label": "get approval",
+                  "isCorrect": true
+                },
+                {
+                  "id": "196ce7af-0ff8-42fc-9e31-8660521f8065",
+                  "label": "get a promotion",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ead317bf-322a-4a5d-8f87-c5f445203306",
+              "question": "7. With our new solar-powered automobile, we're going to leapfrog our competitors.",
+              "options": [
+                {
+                  "id": "e23f1028-d359-4d85-8a71-b2b614e3f82b",
+                  "label": "make all our competition disappear",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9d29b7ad-cd81-4ed2-a0dd-b403544ac44f",
+                  "label": "turn our competitors into small green animals",
+                  "isCorrect": false
+                },
+                {
+                  "id": "418c4e08-d3b3-4a8e-b601-09fba91755f9",
+                  "label": "come out with a superior product",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "92736aba-f033-4e71-b71f-c7d1ab59034a",
+              "question": "8. I think you and I are on the same page about our plans to expand into China.",
+              "options": [
+                {
+                  "id": "e24c104a-c855-4985-89a9-2fdffe221090",
+                  "label": "realistic",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2c619584-8ec4-421c-90af-714a70e77e2b",
+                  "label": "in agreement",
+                  "isCorrect": true
+                },
+                {
+                  "id": "28fa8988-b8e9-4b1a-af68-fc0258637ced",
+                  "label": "not in agreement",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

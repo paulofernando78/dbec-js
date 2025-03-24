@@ -1,0 +1,23 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Job Interviews"
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "...",
+          "contents": [
+            {
+              "link": "/materials/specific-purposes/...",
+              "linkLabel": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

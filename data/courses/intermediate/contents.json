@@ -1,0 +1,1206 @@
+{
+  "whiteboard": {
+    "title": "Courses",
+    "subtitle": "Intermediate (B1)",
+    "descriptions": ["43 classes"]
+  },
+  "contents": [
+    {
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "CEFR (Common European Framework of Reference)",
+          "contents": [
+            {
+              "content": "• Can understand the main points of clear standard input on familiar matters regularly encoute#82C121 in work, school, leisure, etc."
+            },
+            {
+              "content": "• Can deal with most situations likely to arise while travelling in an area where the language is spoken."
+            },
+            {
+              "content": "• Can produce simple connection text on topics which are familiar or personal interest."
+            },
+            {
+              "content": "• Can describe experiences and events, dreams, hopes and ambitions and briefly give reasons and explanations for opinions and plans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 1 - 6 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 1",
+          "contents": [
+            {
+              "content": "Let's get to know each other / one another better."
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 2",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be better able to discuss ideal friends and partners using relative pronouns who and that.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-2/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • That's my kind of friend! (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-2/classwork",
+                  "linkLabel": "Classwork • That's my kind of friend! (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-2/homework",
+                  "linkLabel": "Homework • That's my kind of friend! (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 3",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be better able to discuss things they like and don’t like using clauses with it and adverbial clauses with when.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-3/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • That's my kind of friend! (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-3/classwork",
+                  "linkLabel": "Classwork • That's my kind of friend! (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-3/homework",
+                  "linkLabel": "Homework • That's my kind of friend! (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 4",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss their opinions of jobs using gerund phrases as subjects and as objects.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-4/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Working 9 to 5 (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-4/classwork",
+                  "linkLabel": "Classwork • Working 9 to 5 (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-4/homework",
+                  "linkLabel": "Homework • Working 9 to 5 (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 5",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss jobs using comparisons with adjectives, adverbs, nouns, and past participles.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-5/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Working 9 to 5 (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-5/classwork",
+                  "linkLabel": "Classwork • Working 9 to 5 (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-5/homework",
+                  "linkLabel": "Homework • Working 9 to 5 (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 6",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-6/classwork",
+                  "linkLabel": "Classwork • Review lessons 2-5 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 7 - 11 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 7",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss favors, borrowing, and lending using modals, if clauses, and gerunds.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-7/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Lend a hand (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-7/classwork",
+                  "linkLabel": "Classwork • Lend a hand (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-7/homework",
+                  "linkLabel": "Homework • Lend a hand (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 8",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to leave messages using indirect requests.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-8/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Lend a hand (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-8/classwork",
+                  "linkLabel": "Classwork • Lend a hand (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-8/homework",
+                  "linkLabel": "Homework • Lend a hand (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 9",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to describe past events using the simple past and past continuous.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-9/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Flipped Classroom • What happened? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-9/classwork",
+                  "linkLabel": "Classwork • Flipped Classroom • What happened? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-9/homework",
+                  "linkLabel": "Homework • Flipped Classroom • What happened? (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 10",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to tell stories using the past perfect tense.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-10/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • What happened? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-10/classwork",
+                  "linkLabel": "Classwork • What happened? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-10/homework",
+                  "linkLabel": "Homework • What happened? (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 11",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-11/classwork",
+                  "linkLabel": "Classwork • Review lessons 7-10 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 12 - 16 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 12",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss living abroad using noun phrases and relative clauses.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-12/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Expanding your horizons (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-12/classwork",
+                  "linkLabel": "Classwork • Expanding your horizons (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-12/homework",
+                  "linkLabel": "Homework • Expanding your horizons (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 13",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to describe expectations using when and if clauses.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-13/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Expanding your horizons (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-13/classwork",
+                  "linkLabel": "Classwork • Expanding your horizons (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-13/homework",
+                  "linkLabel": "Homework • Expanding your horizons (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 14",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to describe problems using nouns and past participles as adjectives.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-14/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • That needs fixing (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-14/classwork",
+                  "linkLabel": "Classwork • That needs fixing (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-14/homework",
+                  "linkLabel": "Homework • That needs fixing (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 15",
+          "contents": [
+            {
+              "content": "By the end of this class, students will be able to discuss what needs fixing using need with passive infinitives and gerunds, and keep with gerunds.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-15/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • That needs fixing (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-15/classwork",
+                  "linkLabel": "Classwork • That needs fixing (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-15/homework",
+                  "linkLabel": "Homework • That needs fixing (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 16",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-16/classwork",
+                  "linkLabel": "Classwork • Review lessons 12-15 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 17 - 21 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 17",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss environmental problems using the present continuous and present perfect passive tenses and prepositions of cause.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-17/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • What can we do? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-17/classwork",
+                  "linkLabel": "Classwork • What can we do? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-17/homework",
+                  "linkLabel": "Homework • What can we do? (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 18",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss what they can do about problems using infinitive clauses and phrases.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-18/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • What can we do? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-18/classwork",
+                  "linkLabel": "Classwork • What can we do? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-18/homework",
+                  "linkLabel": "Homework • What can we do? (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 19",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss personal preferences using would rather and would prefer.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-19/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Never stop learning (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-19/classwork",
+                  "linkLabel": "Classwork • Never stop learning (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-19/homework",
+                  "linkLabel": "Homework • Never stop learning (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 20",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss ways to learn and personal qualities using by + gerund for manner.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-20/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Never stop learning (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-20/classwork",
+                  "linkLabel": "Classwork • Never stop learning (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-20/homework",
+                  "linkLabel": "Homework • Never stop learning (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 21",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-21/classwork",
+                  "linkLabel": "Classwork • Review lessons 17-20 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 2-22 + Written Test",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 22",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-22/classwork",
+                  "linkLabel": "Classwork • Review lessons 2-20 + Written Test"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 23 - 27 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 23",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss professional services using causatives.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-23/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Getting things done? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-23/classwork",
+                  "linkLabel": "Classwork • Getting things done? (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-23/homework",
+                  "linkLabel": "Homework • Getting things done? (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 24",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss professional services using causatives.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-24/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Getting things done? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-24/classwork",
+                  "linkLabel": "Classwork • Getting things done? (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-24/homework",
+                  "linkLabel": "Homework • Getting things done? (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 25",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss important past events using time references.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-25/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • A matter of time (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-25/classwork",
+                  "linkLabel": "Classwork • A matter of time (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-25/homework",
+                  "linkLabel": "Homework • A matter of time (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 26",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to make predictions using a variety of structures.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-26/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • A matter of time (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-26/classwork",
+                  "linkLabel": "Classwork • A matter of time (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-26/homework",
+                  "linkLabel": "Homework • A matter of time (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 27",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-27/classwork",
+                  "linkLabel": "Classwork • Review lessons 23-26 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 28 - 32 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 28",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss milestones in their lives using a variety of time clauses.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-28/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Rites of passage (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-28/classwork",
+                  "linkLabel": "Classwork • Rites of passage (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-28/homework",
+                  "linkLabel": "Homework • Rites of passage (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 29",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss regrets using should have + past participle and if clauses in the past perfect.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-29/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Rites of passage (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-29/classwork",
+                  "linkLabel": "Classwork • Rites of passage (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-29/homework",
+                  "linkLabel": "Homework • Rites of passage (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 30",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to express personal views and describe qualities for success using infinitive clauses and phrases.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-30/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Keys to success (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-30/classwork",
+                  "linkLabel": "Classwork • Keys to success (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-30/homework",
+                  "linkLabel": "Homework • Keys to success (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 31",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to describe features and give reasons using because, since, because of, for, due to, and the reason.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-31/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Keys to success (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-31/classwork",
+                  "linkLabel": "Classwork • Keys to success (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-31/homework",
+                  "linkLabel": "Homework • Keys to success (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 32",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-32/classwork",
+                  "linkLabel": "Classwork • Review essons 28-31 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 33 - 37 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 33",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to give explanations, reasons, and suggestions using past modals must have, may have, and could have.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-33/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • What might have been (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-33/classwork",
+                  "linkLabel": "Classwork • What might have been (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-33/homework",
+                  "linkLabel": "Homework • What might have been (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 34",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to give opinions and advice with past modals should have, could have, and would have.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-34/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • What might have been (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-34/classwork",
+                  "linkLabel": "Classwork • What might have been (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-34/homework",
+                  "linkLabel": "Homework • What might have been (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 35",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to describe processes using the passive.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-35/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Creative carrers (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-35/classwork",
+                  "linkLabel": "Classwork • Creative carrers (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-35/homework",
+                  "linkLabel": "Homework • Creative carrers (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 36",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss jobs using defining and non-defining relative clauses.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-36/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Creative carrers (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-36/classwork",
+                  "linkLabel": "Classwork • Creative carrers (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-36/homework",
+                  "linkLabel": "Homework • Creative carrers (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 37",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-37/classwork",
+                  "linkLabel": "Classwork • Review lessons 33-36 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 38 - 42 + Written and Oral Quiz",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 38",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to make recommendations using passive modals.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-38/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • A law must be passed! (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-38/classwork",
+                  "linkLabel": "Classwork • A law must be passed! (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-38/homework",
+                  "linkLabel": "Homework • A law must be passed! (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 39",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to express opinions using tag questions.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-39/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • A law must be passed! (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-39/classwork",
+                  "linkLabel": "Classwork • A law must be passed! (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-39/homework",
+                  "linkLabel": "Homework • A law must be passed! (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 40",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss personal accomplishments using complex noun phrases with gerunds.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-40/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Reaching your goals (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-40/classwork",
+                  "linkLabel": "Classwork • Reaching your goals (Cycle 1)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-40/homework",
+                  "linkLabel": "Homework • Reaching your goals (Cycle 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 41",
+          "contents": [
+            {
+              "content": "By the end of this lesson, students will be able to discuss accomplishments and goals using future tenses, including the future perfect.",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-41/flipped-classroom",
+                  "linkLabel": "Flipped Classroom • Reaching your goals (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-41/classwork",
+                  "linkLabel": "Classwork • Reaching your goals (Cycle 2)"
+                },
+                {
+                  "link": "/materials/courses/intermediate/lesson-41/homework",
+                  "linkLabel": "Homework • Reaching your goals (Cycle 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 42",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-42/classwork",
+                  "linkLabel": "Classwork • Review lessons 38-41 + Written and Oral Quiz"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "headerLabel": "Lessons 23-41 - Written Test",
+      "cardContents": [
+        {
+          "bgColor": "#82C121",
+          "textColor": "white",
+          "cardLabel": "Lesson 43",
+          "contents": [
+            {
+              "content": "Learning objectives:"
+            },
+            {
+              "content": "• reflect on one's learning"
+            },
+            {
+              "content": "• identify areas that need improvement",
+              "applyHr": true
+            },
+            {
+              "links": [
+                {
+                  "link": "/materials/courses/intermediate/lesson-43/classwork",
+                  "linkLabel": "Classwork • Review lessons 23-41 + Written Test"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

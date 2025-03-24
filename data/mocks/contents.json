@@ -1,0 +1,81 @@
+{
+  "whiteboard": {
+    "title": "Mocks"
+  },
+  "contents": [
+    {
+      "headerLabel": "Templates",
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Main",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/mocks/ContentCard",
+                  "linkLabel": "ContentCard"
+                },
+                {
+                  "link": "/materials/mocks/Lesson",
+                  "linkLabel": "Lesson"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Celta",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/mocks/celta/vocabulary-grammar",
+                  "linkLabel": "Vocabular/Grammar"
+                },
+                {
+                  "link": "/materials/mocks/celta/listening",
+                  "linkLabel": "Listening"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cardContents": [
+        {
+          "bgColor": "black",
+          "textColor": "white",
+          "cardLabel": "Misc",
+          "contents": [
+            {
+              "links": [
+                {
+                  "link": "/materials/mocks/audiobooks",
+                  "linkLabel": "Audiobooks"
+                },
+                {
+                  "link": "/materials/mocks/grammar-in-use",
+                  "linkLabel": "Grammar In Use"
+                },
+                {
+                  "link": "/materials/mocks/saelaa",
+                  "linkLabel": "Speak American English Like an American"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

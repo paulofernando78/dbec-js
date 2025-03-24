@@ -1,0 +1,277 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 13 • Discussing A Mistake"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-13.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 13 • Discussing A Mistake</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Chris and Todd work for Alpine Design, a furniture manufacturer. When Todd accidentally orders the wrong amount of wood, his boss Chris warns him to be more careful in the future."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Chris:</b> Todd, we got our shipment of wood yesterday. We're <b>short by</b> 18 tons."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd:</b> Our wood supplier must've made mistake. <b>I could've sworn that</b> I ordered the right amount."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Chris:</b> You'd better go back and double-check your order."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd:</b> Oops, you're right. I accidentally ordered two tons instead of twenty. <b>No big deal</b>. I'll just put in another order."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Chris:</b> When filling out order forms, you need to <b>dot your i's and cross your t's</b>. You shouldn't be making careless mistakes like this."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd::</b> I just forgot to add a zero after the two. Don't <b>make a mountain out of a molehill</b>. No need to <b>blow things out of proportion</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Chris:</b> This is very serious. Now we won't have enough wood to finish the furniture order we got from La-Z Boy."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd::</b> Okay, sorry I <b>dropped the ball</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Chris:</b> Todd, this may be a <b>bitter pill to swallow</b>, but your work lately hasn't been <b>up to scratch</b>. You've really been <b>asleep at the wheel</b>!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "db090861-7fe6-4253-bdf0-2fd1eb6c4144",
+      "exercises": [
+        {
+          "id": "604dcc7b-73d4-4210-9ba3-16e5ad3b3557",
+          "title": "1. Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "73ac5bcc-85d8-4331-ab8c-832422231433",
+              "question": "1. In the future, please be sure to <b>dot your i's and cross your t's</b>.",
+              "options": [
+                {
+                  "id": "a2a117f0-5bb2-41e3-943c-7e1f243984c6",
+                  "label": "write more neatly",
+                  "isCorrect": false
+                },
+                {
+                  "id": "fa7fdecb-91a1-43c7-9913-0955d6325733",
+                  "label": "be more careful",
+                  "isCorrect": true
+                },
+                {
+                  "id": "82aad691-9776-4949-aea9-51bc7f0a2935",
+                  "label": "work more quickly",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "9288f118-b38e-4b0f-9dc0-d19e18ca37bf",
+              "question": "2. It's just a small mistake. No need to <b>make a mountain out of a molehill</b>.",
+              "options": [
+                {
+                  "id": "851b3bc3-6b5d-44e9-a51d-6adbfe3b9580",
+                  "label": "correct it",
+                  "isCorrect": false
+                },
+                {
+                  "id": "fc749437-3cf5-4814-90af-2fc883e03acf",
+                  "label": "make a big deal of it",
+                  "isCorrect": true
+                },
+                {
+                  "id": "74f20f35-30d7-43e1-91b2-2b4c6f9a81fb",
+                  "label": "point it out",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "33aac898-248f-4f87-985d-f8f1b0c2bbbe",
+              "question": "3. Lately your work hasn't been <b>up to scratch</b>.",
+              "options": [
+                {
+                  "id": "0ea5617b-a136-41c7-8ee3-0f7897b962d0",
+                  "label": "on time",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f292aea8-0066-41e1-abb2-593c5eda1ee0",
+                  "label": "bad",
+                  "isCorrect": false
+                },
+                {
+                  "id": "22702657-7f99-41c2-8726-022b33e668ba",
+                  "label": "good",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "2f8e0160-c593-4f00-873b-abecf4cd4a27",
+              "question": "4. This may be a <b>bitter pill to swallow</b>, but several of us have noticed that your performance has been poor for the past six months.",
+              "options": [
+                {
+                  "id": "54347f21-c6f7-4022-9582-0377ac566efc",
+                  "label": "unpleasant news",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8c8424b9-3865-4789-8267-065921e33591",
+                  "label": "no surprise",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b8e47f4f-f707-482d-8fd1-11a981eb4ffe",
+                  "label": "good news",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "1b05ea37-8a59-42d3-a7f3-79d83340a54a",
+              "question": "5. You <b>dropped the ball</b>. The proposal was due last Friday!",
+              "options": [
+                {
+                  "id": "d8c4590d-7791-488d-b5c5-bf21f0c0f03c",
+                  "label": "made a mistake",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8b4a5777-119e-4011-a8b0-466fa40f9d08",
+                  "label": "worked hard",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c58094c8-36e2-43f0-9220-76f33aa1523d",
+                  "label": "did well",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "17811fb2-e78a-444c-a28f-0d101700af5e",
+              "question": "6. <b>I could've sworn that</b> I told you about the meeting.",
+              "options": [
+                {
+                  "id": "c10540b3-1a3e-4b41-ae05-73cf785c70d9",
+                  "label": "I'm sorry",
+                  "isCorrect": false
+                },
+                {
+                  "id": "26a1791d-d253-4b17-8874-618d92fc5fa5",
+                  "label": "I forgot",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d08632dc-b78d-4adb-a9bc-6c69341873fd",
+                  "label": "I really thought",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "fec0efdb-aacc-4f04-b2e8-69ba69ca7dc0",
+              "question": "7. Joe has been <b>asleep at the wheel</b> for several months.",
+              "options": [
+                {
+                  "id": "cf2e6a83-d515-4a46-a8a6-6418d9657e5a",
+                  "label": "sleepy",
+                  "isCorrect": false
+                },
+                {
+                  "id": "4dc6338d-2901-4446-8c2d-d0f7517f7d1c",
+                  "label": "not doing his job well",
+                  "isCorrect": true
+                },
+                {
+                  "id": "6e0498cf-998d-476a-b770-969c506dea53",
+                  "label": "doing quite well",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "673d2c31-3103-4fbb-a62f-271386171e53",
+              "question": "8. We didn't get the contract renewed? <b>No big deal</b>.",
+              "options": [
+                {
+                  "id": "ab3db4a7-84a9-4294-8f5d-3bdf02634e52",
+                  "label": "It's not a big problem.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "4360a256-1838-42ce-9428-d605a53c7005",
+                  "label": "It's a big problem.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6441ee91-8d03-4253-a2e6-96226df4ce61",
+                  "label": "That's good news.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 1 • Talking about a new project"]
+  },
+  "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-1.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 1 • Talking about a new project</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Carl, Greg and Anne work for WaterSonic Corporation. Recently, the company has come up with an idea for a new electric toothbrush."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Carl:</b> I think we've <b>come up with a winner</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anne:</b> I agree. The new Brush-o-matic should be a <b>blockbuster</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Carl:</b> Our designers have already made up some prototypes. The toothbrushes have a tooth-whitening attachment and many other <b>bells and whistles</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Greg:</b> We should <b>fast track a project</b>. Let's try to launch it in time for the holiday season."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anne:</b> This will be a great <b>stocking stuffer</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Carl:</b> We definitely need a <b>big win</b> for the holidays."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anne:</b> This is a great idea. We're going to <b>make a killing</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Greg:</b> Let's not talk about this project to anybody who doesn't need to know. We'll <b>keep something under wraps</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Carl:</b> I agree <b>mum's the word</b>. We don't want any of our competitors to <b>get wind of</b> the idea and <b>rip it off</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Anne:</b> Right. Let's meet again on Monday morning and discuss our <b>game plan</b> for <b>getting this project off the ground</b>!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "d7f054eb-2a0c-4614-a401-2cbd0693a25d",
+      "exercises": [
+        {
+          "id": "2123ae2c-8707-4c92-86b2-4b87c57a453f",
+          "title": "Choose the best substitute for the sentence in bold.",
+          "radio": [
+            {
+              "id": "dd1d4acc-81bc-48f9-a743-3e8d3e9b9b94",
+              "question": "1. Did the company think of this new product idea themselves? No, they <b>ripped it off</b> from an inventor.",
+              "options": [
+                {
+                  "id": "993fbcd2-0586-4b1a-8b72-774d4870fcf1",
+                  "label": "No, they paid an inventor for the idea.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c4b5c13e-1d89-43c2-aca9-1f7db63fafcf",
+                  "label": "No, they stole the idea from an inventor.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "2dc1b375-3386-4dd9-a286-c661568d0706",
+                  "label": "No, they discussed it with an inventor and he agreed to sell it to them.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "448cd06a-3384-459a-9d50-19ccb085d889",
+              "question": "2. Jill is planning to quit her job at the end of September, but <b>mum's the word</b>.",
+              "options": [
+                {
+                  "id": "8f49746a-1671-46c0-9e66-155215be376f",
+                  "label": "don't tell anybody",
+                  "isCorrect": true
+                },
+                {
+                  "id": "8466e84e-6759-44c1-a588-da5066e1c01d",
+                  "label": "don't tell her mother",
+                  "isCorrect": false
+                },
+                {
+                  "id": "536ff626-010b-461a-91da-0a2608c7f108",
+                  "label": "she may change her mind",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "16c2a40c-f3a9-4026-9fa9-f675473cd712",
+              "question": "3. Sony has made a killing on its popular PlayStation line.",
+              "options": [
+                {
+                  "id": "322c80c9-5ee1-4650-a90f-ce3bf2ca09fc",
+                  "label": "lost money on",
+                  "isCorrect": false
+                },
+                {
+                  "id": "867e9e24-00cd-4271-801e-da6df66d6c01",
+                  "label": "made a lot of money on",
+                  "isCorrect": true
+                },
+                {
+                  "id": "968b1f6f-e781-4d1b-a79b-8458986158eb",
+                  "label": "decided to stop producing",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "84d863e7-d68f-44ff-b656-aae82bd5cc82",
+              "question": "4. After receiving a large loan from the bank, the company was finally able to <b>get its project off the ground</b>.",
+              "options": [
+                {
+                  "id": "a330802b-88eb-4724-b092-9dd9782dc746",
+                  "label": "get started on the project",
+                  "isCorrect": true
+                },
+                {
+                  "id": "86146ed1-501d-4d1d-81bf-69a9d60a2c02",
+                  "label": "cancel the project",
+                  "isCorrect": false
+                },
+                {
+                  "id": "7aa9228f-e47d-4de3-9960-2c9b0dcfd537",
+                  "label": "borrow money",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "",
+              "question": "5. That new software company seems very disorganized. Do they have a <b>game plan</b>?",
+              "options": [
+                {
+                  "id": "4e88577e-15de-456e-ab95-90bc54945164",
+                  "label": "plan for closing down their business",
+                  "isCorrect": false
+                },
+                {
+                  "id": "b42e28b9-b126-42dc-af41-9f1a8fd0dd08",
+                  "label": "plan for developing new games",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9665fff5-0405-449a-9159-e299adb3be2e",
+                  "label": "plan for how they will proceed to grow their business",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "6f5124b8-586e-4e3f-82d9-6d0285c51f4d",
+              "question": "6. Some experts recommend that when you're interviewing for a new job, you should <b>keep your current salary under wraps</b>.",
+              "options": [
+                {
+                  "id": "7402835b-44b7-4ea5-9b78-4262e0622adb",
+                  "label": "you should tell the interviewer what your current salary is",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9983bd5f-7b92-48cd-98de-0317bef84ec1",
+                  "label": "you should say you're making twice as much as you're really earning",
+                  "isCorrect": false
+                },
+                {
+                  "id": "076edee8-6510-42f0-851d-d7bb56224eec",
+                  "label": "you should not say how much you're currently earning",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "e0cc4dbf-21f8-4cf3-8738-9c97eb3ee3ab",
+              "question": "7. Don's new cell phone has a video camera and all sorts of other <b>bells and whistles</b>.",
+              "options": [
+                {
+                  "id": "73cda4df-505e-462c-9b21-ea61b8465668",
+                  "label": "fancy features",
+                  "isCorrect": true
+                },
+                {
+                  "id": "0742f37d-7a51-45fd-b4bc-9da7ad8cb199",
+                  "label": "things that make loud ringing noises and whistle tones",
+                  "isCorrect": false
+                },
+                {
+                  "id": "28ca723d-2145-4b50-9e47-d6f74cfa08b3",
+                  "label": "features typical in a low-priced product",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "af4a1317-1727-4900-abc2-e21b98d50184",
+              "question": "8. When investors <b>got wind of</b> the fact that the pharmaceutical company's major drug increased the risk of heart attacks, the company's stock price fell.",
+              "options": [
+                {
+                  "id": "962190e9-9bd8-45de-8a36-5573729b64c8",
+                  "label": "hid",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0adbcb30-ea78-4b65-a22e-a8404b452f7c",
+                  "label": "discovered",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c47d4488-ccf6-46c7-b5b3-2092820e27b2",
+                  "label": "got fed up with",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

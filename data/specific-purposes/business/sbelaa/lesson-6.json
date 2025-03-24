@@ -1,0 +1,282 @@
+{
+  "whiteboard": {
+    "title": "Specific Purposes",
+    "subtitle": "Business",
+    "descriptions": ["Lesson 6 • Discussing good results"]
+  },
+  "lessons": [
+    {
+      "imgSrc": "/materials/specific-purposes/business/sbelaa/lesson-6.png",
+      "imgAlt": "...",
+      "imgWidth": "50%"
+    },
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-6.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 6 • Discussing good results</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Peter, Linda, and Todd work as managers at Capital City Bank, a retail bank. Linda's creative idea for attracting new customers to the bank has generated lots of new business."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Peter:</b> Great news! We had a <b>record-breaking</b> quarter. We brought in revenues of $500,000."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Linda:</b> Wow, revenues really were <b>through the roof</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd:</b> That's great. <b>Kudos</b> to Linda! She deserves <b>a pat on the back</b>. The <b>guerrilla marketing</b> campaign she dreamed up was brilliant. She sent out e-mail to all of our customers asking them to e-mail a friend about our services. For each friend they e-mailed, they received a free gift."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Peter:</b> Linda, your campaign helped us <b>drum up a lot of business</b>. We <b>signed on 800 new customers</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Linda:</b> I'm really glad my plan <b>panned out</b>. I thought it would, since everybody loves a <b>freebie</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd:</b> Linda, we can always count on you to <b>think outside the box</b>."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Linda:</b> <b>For the record</b>, Peter helped me come up with the idea."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Peter:</b> Thanks for <b>sharing the credit</b>, Linda. But it was your idea."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Todd:</b> The important thing is that we're now <b>giving</b> our biggest competitor, U.S. Bank, a <b>run for their money</b>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "e3600f02-d1f1-42c5-a3a4-65f1869dfcb6",
+      "exercises": [
+        {
+          "id": "8d50c076-de0a-4338-89f6-68f6bc00ef9f",
+          "title": "1. Choose the most appropriate response to each sentence.",
+          "radio": [
+            {
+              "id": "74461b63-b71f-401c-8fb0-60c454ffbf53",
+              "question": "1. Our store had a very successful holiday season this year. Sales were <b>through the roof</b>!",
+              "options": [
+                {
+                  "id": "2cd66caf-c00d-4f0b-8352-f6e5cbf5d450",
+                  "label": "I'm sorry to hear that you need a new roof.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "90e9995f-e6e3-4f14-bcc5-013d2f227e3c",
+                  "label": "That's great. Congratulations!",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d492e35e-4a62-4500-b354-ea9e38e2cfd5",
+                  "label": "Don't worry. Maybe next year will be better.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6fe10d1c-5375-4f92-a355-f468d294eac3",
+              "question": "2. We're looking for some fresh thinking in our marketing department. Are you good at <b>thinking outside the box</b>?",
+              "options": [
+                {
+                  "id": "7aba6a0d-a78e-4ff6-b53a-49476f3869dc",
+                  "label": "Yes, I tend to think like everybody else.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "90d338a3-6f66-4971-8fc7-0f2d537c2d75",
+                  "label": "Yes, I enjoy approaching new projects in a traditional way.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "45ee082e-6fb9-4b9e-b3ea-18dd59296826",
+                  "label": "Yes, I'm great at coming up with new and creative ideas.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "c0208e8c-997c-447a-b5e0-1b787f89c1ef",
+              "question": "3. I'd like to <b>share the credit</b> with you. Without you, I wouldn't have been able to find this important new client.",
+              "options": [
+                {
+                  "id": "d0a30a1b-debb-4cd3-ba09-c313573e739d",
+                  "label": "Thank you. I appreciate the recognition.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a8e3851f-7492-4a2c-a2aa-f6a665354eb6",
+                  "label": "Thanks, but I already have enough credit.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d4f08abb-7a8d-41fa-97ac-a3e9f5081bd3",
+                  "label": "I think I deserve some of the credit too.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "6681b079-91db-4559-b0ee-7797f8d9b642",
+              "question": "4. A big Ace Hardware store is opening up in town. Do you think they'll <b>give</b> our local hardware store <b>a run for their money</b>?",
+              "options": [
+                {
+                  "id": "eb9376fd-60a6-4f72-bc2a-7615b1532aac",
+                  "label": "Definitely. Their selection will be bigger and their prices may be lower.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b9f9523c-a7d3-43d8-8512-15775388c51d",
+                  "label": "Yes, our local hardware store will definitely run out of money.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "e43e1523-483f-4a68-85b0-455d3becd30f",
+                  "label": "No. Everybody in town will start shopping at Ace Hardware.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "2077b672-ddb8-409f-9ab0-923db6937f06",
+              "question": "5. Since you need to <b>drum up some new business</b>, I suggest you exhibit at a trade show.",
+              "options": [
+                {
+                  "id": "5a1b2f7b-d314-46a8-bf38-d01921bdf50d",
+                  "label": "We don't have any business right now.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "541b262d-4096-4389-8a41-a3464a78cc61",
+                  "label": "We've been thinking about going into the drum business.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "708ee698-0167-4143-950d-afb7bbff88e1",
+                  "label": "Great idea! I'm sure we could find some new clients there.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "95a915f4-32a5-47fa-be23-c2379eef1bb0",
+              "question": "6. You deserve <b>a pat on the back</b> for figuring out how to fix our computer network.",
+              "options": [
+                {
+                  "id": "b85f3ca5-8ec2-45dc-9d6c-300e1b7f73ef",
+                  "label": "Thanks. It was my pleasure.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "2f5542ed-2e35-4fdb-86c8-99d9d977fd0c",
+                  "label": "Thanks. Let me turn around so you can see my back.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "38339f63-13b5-4e26-b5d7-7c2d7eb34ff8",
+                  "label": "Sorry. I wish I could've done a better job.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "5343e0d1-7d18-4632-aa44-baae648f9e17",
+              "question": "7. <b>Kudos</b> to you and the rest of the manufacturing department for figuring out how to cut our production costs!",
+              "options": [
+                {
+                  "id": "b7f3e709-b2fd-47ce-8cf8-97aef5b79c7c",
+                  "label": "We don't need any more kudos. We have enough in inventory.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "6d2f084a-8a47-441b-acb5-803634bb5577",
+                  "label": "Thank you. We are proud of our results.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "741a63a5-0b19-4ca6-9f03-b74be7b9217c",
+                  "label": "We'll try our best, but we can't guarantee anything.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "54b01dfe-dcc3-459a-96e4-5b7bb27aad70",
+              "question": "8. Traditional ways of advertising are no longer working for our firm. Do you think we should try some <b>guerrilla marketing</b>?",
+              "options": [
+                {
+                  "id": "cccaee06-d17b-4fcd-9d89-b0b018d3f168",
+                  "label": "Absolutely. It's always better to use reliable old methods.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "9009e2b0-cbd3-4b10-8240-3bb55c39368e",
+                  "label": "Yes, new ways of marketing might help increase sales.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "f1bb90bc-41be-47e8-ada7-22c1d46a6bed",
+                  "label": "No, I think you should try marketing to monkeys instead.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

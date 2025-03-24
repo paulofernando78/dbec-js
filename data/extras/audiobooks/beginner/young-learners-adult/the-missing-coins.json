@@ -1,0 +1,1439 @@
+{
+  "whiteboard": {
+    "title": "Extras",
+    "subtitle": "Skills",
+    "descriptions": [
+      "Listening",
+      "Audiobooks",
+      "Beginner",
+      "The Missing Coins"
+    ],
+    "time": "16:49",
+    "uk": true
+  },
+  "contents": [
+    {
+      "content": "Paragraph 1"
+    },
+    {
+      "content": "Paragraph 2",
+      "link": "#paragraph-2"
+    },
+    {
+      "content": "Paragraph 3",
+      "link": "#paragraph-3"
+    },
+    {
+      "content": "Paragraph 4",
+      "link": "#paragraph-4"
+    },
+    {
+      "content": "Paragraph 5",
+      "link": "#paragraph-5"
+    },
+    {
+      "content": "Paragraph 6",
+      "link": "#paragraph-6"
+    },
+    {
+      "content": "Paragraph 7",
+      "link": "#paragraph-7"
+    },
+    {
+      "content": "Paragraph 8",
+      "link": "#paragraph-8"
+    },
+    {
+      "content": "Paragraph 9",
+      "link": "#paragraph-9"
+    },
+    {
+      "content": "Paragraph 10",
+      "link": "#paragraph-10"
+    },
+    {
+      "content": "Paragraph 11",
+      "link": "#paragraph-11"
+    },
+    {
+      "content": "Paragraph 12",
+      "link": "#paragraph-12"
+    },
+    {
+      "content": "Paragraph 13",
+      "link": "#paragraph-13"
+    },
+    {
+      "content": "Paragraph 14",
+      "link": "#paragraph-14"
+    },
+    {
+      "content": "Paragraph 15",
+      "link": "#paragraph-15"
+    }
+  ],
+  "lessons": [
+    {
+      "title": "Summary",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/cover.jpg",
+          "imgAlt": "Cover photo",
+          "imgPosition": "left",
+          "paragraphs": [
+            {
+              "enText": "Pete and Carla are students. One day they look at some very old coins and stamps in a shop. Pete wants to buy some stamps, but they are very expensive. Later that day some coins are missing from the shop - and the shopkeepers wants to find Pete..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "audioSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/audio.mp3"
+    },
+    {
+      "title": "Paragraph 1",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph1.png",
+          "imgAlt": "Paragraph 1 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Bath is a very old city in England. It has a beautiful Abbey. A lot of people visit the city every year. And in the summer there are always a lot of tourists in the streets.\nPete and Carla are students in bath. They like the city. Pete likes looking at the beautiful old buildings. Carla likes walking in the little streets. She often finds pretty little shops there and goes into them. Or she sits with Pete in a café and watches the tourists.\nIt's a Saturday in summer and a hot afternoon. There are a lot of tourists in the city today. People from many countries are going into the Abbey.\n'Let's find a quiet street, away from the tourists,' Carla says.\n'OK,' Pete says. He likes being with Carla.\nThey walk away from the Abbey."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f853bc4-e3fa-4fca-b64b-08b074dc7ff1",
+      "exercises": [
+        {
+          "id": "f1e2d3c4-b5a6-7980-1g2h-3i4j5k6l7m8n",
+          "title": "1. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "o9p0q1r2-s3t4-u5v6-w7x8-y9z0a1b2c3d4e5",
+              "question": "1.1 Where do Pete and Carla live?",
+              "options": [
+                {
+                  "id": "q9r0s1t2-u3v4w5x6-y7z8a9b0-c1d2e3f4g5h6",
+                  "label": "a) They live in Manchester.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g3h4i5j6-k7l8m9n0-o1p2q3r4-s5t6u7v8w9x0",
+                  "label": "b) They live in Bath.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "y1z2a3b4-c5d6e7f8-g9h0i1j2-k3l4m5n6o7p8",
+                  "label": "c) They live in London.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "n6o7p8q9-r0s1t2u3-v4w5x6y7-z8a9b0c1d2e3",
+              "question": "1.2 What does Carla like to do in the city?",
+              "options": [
+                {
+                  "id": "x5y6z7a8-b9c0d1e2-f3g4h5i6-j7k8l9m0n1o2",
+                  "label": "a) She likes looking at old buildings.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p3q4r5s6-t7u8v9w0-x1y2z3a4-b5c6d7e8f9g0",
+                  "label": "b) She likes visiting museums.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f7g8h9i0-j1k2l3m4-n5o6p7q8-r9s0t1u2v3w4",
+                  "label": "c) She likes walking in little streets.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 2",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-2"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph2.png",
+          "imgAlt": "Paragraph 2 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "After some time, they are in a little street behind the Abbey.\n'This is pretty,' Carla says.\nThere are only two or three tourists in this street. The shops have small windows. Some houses have pretty little gardens.\nIt's quiet here, but Pete and Carla can hear music. 'Look,' Pete says. 'That man is playing a flute. Let's go and listen.'\nThey walk across the street and watch the man. Four or five people are listening.\n'Why is he playing here?' Carla asks, 'There aren't many tourists in this street.'\n'No,' Pete says. 'And there are only three or four coins in his hat.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4g5h6i7j-8k9l0m1-n2o3p4q5-r6s7t8u9v0w1x2y",
+      "exercises": [
+        {
+          "id": "a1b2c3d4-e5f6g7h8-i9j0k1l2m3n4o5p6q7r8",
+          "title": "2. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "s9t0u1v2-w3x4y5z6-a7b8c9d0-e1f2g3h4i5j6",
+              "question": "2.1 Where do Pete and Carla go after leaving the Abbey?",
+              "options": [
+                {
+                  "id": "k7l8m9n0-o1p2q3r4-s5t6u7v8-w9x0y1z2a3b4",
+                  "label": "a) They go to a park near the Abbey.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c5d6e7f8-g9h0i1j2-k3l4m5n6-o7p8q9r0s1t2u3",
+                  "label": "b) They go to a little street behind the Abbey.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "v4w5x6y7-z8a9b0c1-d2e3f4g5-h6i7j8k9l0m1n2",
+                  "label": "c) They leave the city.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "o3p4q5r6-s7t8u9v0-w1x2y3z4-a5b6c7d8e9f0g1",
+              "question": "2.2 What is the man in the street doing?",
+              "options": [
+                {
+                  "id": "h2i3j4k5-l6m7n8o9-p0q1r2s3-t4u5v6w7x8y9z0",
+                  "label": "a) The man is playing the flute.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b1c2d3e4-f5g6h7i8-j9k0l1m2-n3o4p5q6r7s8t9",
+                  "label": "b) He is dancing.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "u0v1w2x3-y4z5a6b7-c8d9e0f1-g2h3i4j5k6l7m8",
+                  "label": "c) He is singing a song.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "n9o0p1q2-r3s4t5u6-v7w8x9y0-z1a2b3c4d5e6f7",
+              "question": "2.3 How many coins are in the man’s hat?",
+              "options": [
+                {
+                  "id": "z3a4b5c6-d7e8f9g0-h1i2j3k4l5m6n7o8p9q0r1",
+                  "label": "a) There are no coins in the hat.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "s2t3u4v5-w6x7y8z9-a0b1c2d3-e4f5g6h7i8j9k0",
+                  "label": "b) There are seven or eight coins.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g4h5i6j7-k8l9m0n1-o2p3q4r5-s6t7u8v9w0x1y2",
+                  "label": "c) There are three or four coins.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 3",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph3.png",
+          "imgAlt": "Paragraph 3 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Pete and Carla listen to the flute player. The tune is Greensleeves.\n'I know that tune!' Carla says.\nAnd she puts a coin in the man's hat. Pete takes her hand.\n'Let's go, Carla,' he says to her. 'Let's see the shops in the next street.'\n'OK,' Carla says. They walk away.\nThe flute player watches them but his tune, Greensleeves, doesn't stop.\n'He isn't a very good flute player,' Pete says. 'But it's a good tune.' 'There were only four coins in his hat,' Carla says.\n'That's because he isn't very good,' Pete says.'And he's playing in the wrong street. The tourists are near the Abbey.'\nThey walk to the next street."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f853bc4-e3fa-4fca-b64b-08b074dc7ff1",
+      "exercises": [
+        {
+          "id": "f1e2d3c4-b5a6-7980-1g2h-3i4j5k6l7m8n",
+          "title": "3. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "o9p0q1r2-s3t4-u5v6-w7x8-y9z0a1b2c3d4e5",
+              "question": "3.1 What tune is the flute player playing?",
+              "options": [
+                {
+                  "id": "y1z2a3b4-c5d6e7f8-g9h0i1j2-k3l4m5n6o7p8",
+                  "label": "a) He is playing a popular song.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "q9r0s1t2-u3v4w5x6-y7z8a9b0-c1d2e3f4g5h6",
+                  "label": "b) He is playing Greensleeves.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "g3h4i5j6-k7l8m9n0-o1p2q3r4-s5t6u7v8w9x0",
+                  "label": "c) He is playing a classical piece.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "u0v1w2x3-y4z5a6b7-c8d9e0f1-g2h3i4j5k6l7m8",
+              "question": "3.2 Why is the flute player not getting many coins?",
+              "options": [
+                {
+                  "id": "g4h5i6j7-k8l9m0n1-o2p3q4r5-s6t7u8v9w0x1",
+                  "label": "a) Because he's playing a different tune.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "v2w3x4y5-z6a7b8c9-d0e1f2g3-h4i5j6k7l8m9n0",
+                  "label": "b) Because he's not very good at playing the flute.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "n9o0p1q2-r3s4t5u6-v7w8x9y0-z1a2b3c4d5e6f7",
+                  "label": "c) Because he's very good.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 4",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-4"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph4.png",
+          "imgAlt": "Paragraph 4 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "They find a little shop there. There are some old coins and stamps in the shop window. They come from many countries.\nLet's go here, 'Carla says. 'It's an interesting little shop.'\n'OK,' Pete says.\nThe shop is a small. Pete and Carla go in, and an old man watches them. He Is the shopkeeper.\n'Good afternoon, he says.\n'Good afternoon, Carla says.\n'Hi, Pete says.\n'What can I do for you?' the shopkeeper says.\n'Can we look at the stamps?' Pete asks.\nThe shopkeeper looks at them. 'OK,' he says. 'Do you collect stamps?'\n'No, but I'm going to start collecting them,' Pete says. 'They're interesting.'\n'Yes, they are,' the shopkeeper says."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-e5f6-7g8h-9i0j-kl1m2n3o4p5",
+      "exercises": [
+        {
+          "id": "b3f5a7c9-d0e1f2g3-h4i5j6k7-l8m9n0o1p2q3r4",
+          "title": "4. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r4s5t6u7-v8w9x0y1-z2a3b4c5-d6e7f8g9h0i1j2",
+              "question": "4.1 What is in the shop window?",
+              "options": [
+                {
+                  "id": "d9e0f1g2-h3i4j5k6-l7m8n9o0-p1q2r3s4t5u6",
+                  "label": "a) There are toys and books.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "y7z8a9b0-c1d2e3f4-g5h6i7j8-k9l0m1n2o3p4",
+                  "label": "b) There are clothes and shoes.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "k1l2m3n4-o5p6q7r8-s9t0u1v2-w3x4y5z6a7b8",
+                  "label": "c) There are some old coins and stamps.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "v2w3x4y5-z6a7b8c9-d0e1f2g3-h4i5j6k7l8m9n0",
+              "question": "4.2 What does Pete want to do in the shop?",
+              "options": [
+                {
+                  "id": "a8b9c0d1-e2f3g4h5-i6j7k8l9-m0n1o2p3q4r5",
+                  "label": "a) Pete wants to buy some coins.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p6q7r8s9-t0u1v2w3-x4y5z6a7-b8c9d0e1f2g3",
+                  "label": "b) Pete wants to look at the stamps.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+                  "label": "c) Pete wants to buy a postcard.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d0e1f2g3-h4i5j6k7-l8m9n0o1-p2q3r4s5t6u7v8",
+              "question": "4.3 What does the shopkeeper say when Pete asks to look at the stamps?",
+              "options": [
+                {
+                  "id": "g6h7i8j9-k0l1m2n3-o4p5q6r7-s8t9u0v1w2x3",
+                  "label": "a) 'What can I do for you?'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "b) 'I don't have any stamps.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "k8l9m0n1-o2p3q4r5-s6t7u8v9-w0x1y2z3a4b5",
+                  "label": "c) 'Do you collect stamps?'",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 5",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-5"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph5.png",
+          "imgAlt": "Paragraph 5 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Pete looks at some stamps from Canada and some stamps from South America.\n'These are beautiful stamps,' he says.\nThe shopkeeper stands near Pete and watches him.\n'He isn't happy,' Carla thinks. 'Why? We aren't going to steal his stamps.'\nShe looks at some coins.\n'Are these coins very old?' Carla asks the old man.\n'They're 300 years old,' says the shopkeeper. 'They're very valuable.\nEvery coin in my shop is valuable.'\nA girl is working in the shop, too. She looks at Carla. Carla smiles, but the girl doesn't smile at her.\n'She isn't very friendly,' Carla thinks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d9f0a1b2-c3e4f5g6-h7i8j9k0-l1m2n3o4p5q6",
+      "exercises": [
+        {
+          "id": "a1b2c3d4-e5f6-7g8h-9i0j-kl1m2n3o4p5",
+          "title": "5. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r4s5t6u7-v8w9x0y1-z2a3b4c5-d6e7f8g9h0i1j2",
+              "question": "5.1 What does Carla think about the shopkeeper?",
+              "options": [
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-f3g4h5i6j7k8",
+                  "label": "a) The shopkeeper looks very happy.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d9e0f1g2-h3i4j5k6-l7m8n9o0-p1q2r3s4t5u6",
+                  "label": "b) The shopkeeper doesn't look very happy.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "y7z8a9b0-c1d2e3f4-g5h6i7j8-k9l0m1n2o3p4",
+                  "label": "c) The shopkeeper is busy with other customers.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "v2w3x4y5-z6a7b8c9-d0e1f2g3-h4i5j6k7l8m9n0",
+              "question": "5.2 What does Carla ask the shopkeeper about?",
+              "options": [
+                {
+                  "id": "a8b9c0d1-e2f3g4h5-i6j7k8l9-m0n1o2p3q4r5",
+                  "label": "a) Carla asks about the stamps from Canada.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p6q7r8s9-t0u1v2w3-x4y5z6a7-b8c9d0e1f2g3",
+                  "label": "b) Carla asks about the coins in the shop.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+                  "label": "c) Carla asks if the stamps are for sale.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d0e1f2g3-h4i5j6k7-l8m9n0o1-p2q3r4s5t6u7v8",
+              "question": "5.3 What is the girl doing in the shop?",
+              "options": [
+                {
+                  "id": "k8l9m0n1-o2p3q4r5-s6t7u8v9-w0x1y2z3a4b5",
+                  "label": "a) The girl is working in the shop.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "g6h7i8j9-k0l1m2n3-o4p5q6r7-s8t9u0v1w2x3",
+                  "label": "b) The girl is selling coins.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "c) The girl is talking to customers.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 6",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-6"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph6.png",
+          "imgAlt": "Paragraph 6 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Suddenly they hear a telephone in the room behind the shop. The shopkeeper doesn't answer it for a minute. Then he looks at the girl and she looks at him. They don't speak, but Carla understands. The shopkeeper doesn't speak, but he is saying to the girl, 'Watch these students.'\n'Excuse me,' he says to Carla and Pete. And he goes into the back room.\nPete is looking at the stamps. 'Come and see these, Carla,' he says. 'They're from South America. I want to start collecting them.'\nBut Carla doesn't like the people in this shop. They aren't very friendly, and she wants to look at the city.\n'They're very expensive,' she says. 'Let's go, Pete.'\nThe girl watches them, and then she smiles.\n'She's happy because we're going,' Carla thinks. 'But why?'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e1f2g3h4-i5j6k7l8-m9n0o1p2-q3r4s5t6u7v8",
+      "exercises": [
+        {
+          "id": "a1b2c3d4-e5f6-7g8h-9i0j-kl1m2n3o4p5",
+          "title": "6. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r4s5t6u7-v8w9x0y1-z2a3b4c5-d6e7f8g9h0i1j2",
+              "question": "6.1 What does Carla think about the people in the shop?",
+              "options": [
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-f3g4h5i6j7k8",
+                  "label": "a) Carla thinks the people are very friendly.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d9e0f1g2-h3i4j5k6-l7m8n9o0-p1q2r3s4t5u6",
+                  "label": "b) Carla thinks the people aren't very friendly.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "y7z8a9b0-c1d2e3f4-g5h6i7j8-k9l0m1n2o3p4",
+                  "label": "c) Carla thinks the people are busy working.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "8a55319a-25ad-46fc-a1f5-728429194f37",
+              "question": "6.2 What does the shopkeeper do after hearing the telephone?",
+              "options": [
+                {
+                  "id": "9c4e6dd2-355d-4a70-b7c5-ff9e83418a79",
+                  "label": "a) He answers the phone immediately.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "17081831-60fd-495a-ac96-fe7a503425a3",
+                  "label": "b) He asks the girl to answer the phone.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "8ee19f9e-2f7a-4b7d-93b4-54685428839d",
+                  "label": "c) He doesn't answer the phone for a minute.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "d0e1f2g3-h4i5j6k7-l8m9n0o1-p2q3r4s5t6u7v8",
+              "question": "6.3 Why does the girl smile when Pete and Carla leave the shop?",
+              "options": [
+                {
+                  "id": "k8l9m0n1-o2p3q4r5-s6t7u8v9-w0x1y2z3a4b5",
+                  "label": "a) The girl is happy that Pete and Carla are leaving.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "g6h7i8j9-k0l1m2n3-o4p5q6r7-s8t9u0v1w2x3",
+                  "label": "b) The girl is sad because she will miss them.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "c) The girl is asking them to stay longer.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 7",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-7"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph7.png",
+          "imgAlt": "Paragraph 7 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Pete and Carla go back into the big streets with the tourists. Carla is happy now because they are not in the shop.\nBut the sun is hot and Pete wants a drink. 'Let's go to a cafe near the Abbey,' he says. He wanted the stamps from South America, but he doesn't say this.\nThere are tables outside the cafe. Pete and Carla sit down. There are a lot of people in the café.\n'Can we go into the Abbey next?' Carla asks. 'He wants the stamps from South America,' she thinks.\n'But they're very expensive.'\n'I want a drink first,' Pete says.\n'OK,' Carla says, and she smiles at him.\nPete smiles at her, too.\nAfter a minute or two they hear, 'Hey! There you are!'\nPete and Carla look up. It's the old man from the shop.\n'What does he want?' Pete says.\n'I don't know, Carla says. 'But he's angry. What's wrong?'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f1g2h3i4-j5k6l7m8-n9o0p1q2-r3s4t5u6v7w8",
+      "exercises": [
+        {
+          "id": "a1b2c3d4-e5f6-7g8h-9i0j-kl1m2n3o4p5",
+          "title": "7. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "r4s5t6u7-v8w9x0y1-z2a3b4c5-d6e7f8g9h0i1j2",
+              "question": "7.1 Why is Carla happy when they leave the shop?",
+              "options": [
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-f3g4h5i6j7k8",
+                  "label": "a) Carla is happy because they are outside in the sun.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d9e0f1g2-h3i4j5k6-l7m8n9o0-p1q2r3s4t5u6",
+                  "label": "b) Carla is happy because they are not in the shop anymore.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "y7z8a9b0-c1d2e3f4-g5h6i7j8-k9l0m1n2o3p4",
+                  "label": "c) Carla is happy because Pete bought the stamps she wanted.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "v2w3x4y5-z6a7b8c9-d0e1f2g3-h4i5j6k7l8m9n0",
+              "question": "7.2 What does Pete want to do after leaving the shop?",
+              "options": [
+                {
+                  "id": "a8b9c0d1-e2f3g4h5-i6j7k8l9-m0n1o2p3q4r5",
+                  "label": "a) Pete wants to go to a café near the Abbey.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "p6q7r8s9-t0u1v2w3-x4y5z6a7-b8c9d0e1f2g3",
+                  "label": "b) Pete wants to go back to the shop.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+                  "label": "c) Pete wants to buy some South American stamps.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "d0e1f2g3-h4i5j6k7-l8m9n0o1-p2q3r4s5t6u7v8",
+              "question": "7.3 What does the old man from the shop say when he sees Pete and Carla?",
+              "options": [
+                {
+                  "id": "k8l9m0n1-o2p3q4r5-s6t7u8v9-w0x1y2z3a4b5",
+                  "label": "a) 'How are you?' He says kindly.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g6h7i8j9-k0l1m2n3-o4p5q6r7-s8t9u0v1w2x3",
+                  "label": "b) 'Hey there!' He says happily.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "c) 'Hey! There you are!' He says angrily.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 8",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-8"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph8.png",
+          "imgAlt": "Paragraph 8 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The shopkeeper comes to the café. He is very angry.\n'Where are my coins?' he says.\n'Your coins?' Carla says. 'I don't understand.'\n'They're missing!' the shopkeeper says. 'Did you steal them?'\nCarla and Pete are surprised. The people at the tables near them are surprised, too. They watch the two friends and the old man.\n'Steal your coins? No!' Carla says. Her face is hot and red. 'We didn't steal any coins or stamps!' Pete says. 'What are you saying?' He is angry now.\n'You've got my coins!' the shopkeeper says.'The coins are missing, and this isn't the first time. Some coins were missing last week. Some students had them, too, I think.'\n'Did you see the students with the coins?' Pete says.\nThe old man doesn't answer.\nA policeman walks down the street to the cafe. He watches Carla and Pete and the shopkeeper. Then he says, 'What's wrong?'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "j1k2l3m4-n5o6p7q8-r9s0t1u2-v3w4x5y6z7a8",
+      "exercises": [
+        {
+          "id": "b1c2d3e4-f5g6h7i8-j9k0l1m2-n3o4p5q6r7s8",
+          "title": "8. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-f3g4h5i6j7k8",
+              "question": "8.1 What does the shopkeeper say when he comes to the café?",
+              "options": [
+                {
+                  "id": "k8l9m0n1-o2p3q4r5-s6t7u8v9-w0x1y2z3a4b5",
+                  "label": "a) 'Where are my stamps?' he asks politely.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "b) 'Where did you buy those stamps?' he questions angrily.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p6q7r8s9-t0u1v2w3-x4y5z6a7-b8c9d0e1f2g3",
+                  "label": "c) 'Where are my coins?' he says angrily.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "v2w3x4y5-z6a7b8c9-d0e1f2g3-h4i5j6k7l8m9n0",
+              "question": "8.2 What is the shopkeeper accusing Carla and Pete of doing?",
+              "options": [
+                {
+                  "id": "f6g7h8i9-j0k1l2m3-n4o5p6q7-r8s9t0u1v2w3",
+                  "label": "a) He accuses them of stealing coins and stamps.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b9c0d1e2-f3g4h5i6-j7k8l9m0-n1o2p3q4r5s6",
+                  "label": "b) He accuses them of breaking his windows.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "n1o2p3q4-r5s6t7u8-v9w0x1y2-z3a4b5c6d7e8",
+                  "label": "c) He accuses them of hiding his shop keys.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a1b2c3d4-e5f6-7g8h-9i0j-kl1m2n3o4p5",
+              "question": "8.3 What does the policeman do when he sees the situation?",
+              "options": [
+                {
+                  "id": "g6h7i8j9-k0l1m2n3-o4p5q6r7-s8t9u0v1w2x3",
+                  "label": "a) He asks Carla and Pete to leave the café.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+                  "label": "b) He watches the situation and then asks what's wrong.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "c1d2e3f4-g5h6i7j8-k9l0m1n2-o3p4q5r6s7t8",
+                  "label": "c) He tells the shopkeeper to stop accusing them.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 9",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-9"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph9.png",
+          "imgAlt": "...",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'These two students came into my shop,' the shopkeeper says. 'I went to the back room and answered the telephone. Then I went back into the shop. Some valuable coins were missing, and the two students were not in the shop.'\nThe policeman looks at Pete and Carla. 'What do you say?' he asks.\n'Yes, we went into the shop,' Carla says. 'We wanted to look at the stamps.'\n'But we didn't steal them,' Pete says. 'And we didn't take the coins.'\n'Were there many people in the shop?' the policeman asks.\n'No,' the shopkeeper says. 'Only these two students, and Tracy. Tracy works in my shop. She doesn't steal coins.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35b0fffc-7808-4a54-ad16-f0aeb9ac7bd9",
+      "exercises": [
+        {
+          "id": "f1g2h3i4-j5k6l7m8-n9o0p1q2-r3s4t5u6v7w8",
+          "title": "9. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "805668ee-7852-4e99-99e7-b076df2d3778",
+              "question": "9.1 What does the shopkeeper say about the missing coins?",
+              "options": [
+                {
+                  "id": "e5765928-4a4c-44d3-9011-b4534a24b159",
+                  "label": "a) He says the coins were stolen while he was answering the phone.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d0e1f2g3-h4i5j6k7-l8m9n0-o1p2q3r4s5t6",
+                  "label": "b) He says the coins were stolen by Tracy.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "2a5929b9-ca2e-4929-8726-c5d173e1c2a6",
+                  "label": "c) He says the coins disappeared before he entered the back room.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "p7q8r9s0-t1u2v3w4-x5y6z7a8-b9c0d1e2f3g4",
+              "question": "9.2 What do Carla and Pete say about the missing coins?",
+              "options": [
+                {
+                  "id": "t9u0v1w2-x3y4z5a6-b7c8d9e0-f1g2h3i4j5k6",
+                  "label": "a) They say they took the coins by accident.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c6d7e8f9-g0h1i2j3-k4l5m6n7-o8p9q0r1s2t3",
+                  "label": "b) They say they didn't steal the coins.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "l1m2n3o4-p5q6r7s8-t9u0v1w2-x3y4z5a6b7",
+                  "label": "c) They say the shopkeeper is lying about the coins.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "g5h6i7j8-k9l0m1n2-p3q4r5s6-r7s8t9u0v1w2",
+              "question": "9.3 Who else was in the shop, according to the shopkeeper?",
+              "options": [
+                {
+                  "id": "f2g3h4i5-j6k7l8m9-n0o1p2q3-r4s5t6u7v8",
+                  "label": "a) The shopkeeper says another customer was in the shop.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "u2v3w4x5-y6z7a8b9-c0d1e2f3-g4h5i6j7k8l9",
+                  "label": "b) The shopkeeper says there was no one else in the shop.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p2q3r4s5-t6u7v8w9-x0y1z2a3-b4c5d6e7f8g9",
+                  "label": "c) The shopkeeper says Tracy was in the shop.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 10",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-10"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph10.png",
+          "imgAlt": "Paragraph 10 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'How do you know?' asks the policeman.\n'I looked in her bag and pockets today,' the shopkeeper says. 'And I looked in them last week.'\n'You can look in my bag,' Carla says.\n'And you can look in my pockets,' Pete says.\nThe shopkeeper is surprised. 'Can I?' he says.\n'Please look ... please look now,' Carla says. 'We didn't steal any coins.' She gives him her bag."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-c3d4e5f6g7h8",
+      "exercises": [
+        {
+          "id": "k1l2m3n4-o5p6q7r8-s9t0u1v2-w3x4y5z6a7b8",
+          "title": "10. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "d1e2f3g4-h5i6j7k8-l9m0n1o2-p3q4r5s6t7u8",
+              "question": "10.1 How does the shopkeeper react when Carla and Pete offer to let him check their bags?",
+              "options": [
+                {
+                  "id": "f5g6h7i8-j9k0l1m2-n3o4p5q6-r7s8t9u0v1w2",
+                  "label": "a) The shopkeeper gets angry and refuses to check their bags.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9b0c1d2-e3f4g5h6-i7j8k9l0-m1n2o3p4q5r6",
+                  "label": "b) The shopkeeper immediately starts checking their bags.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "m6n7o8p9-q0r1s2t3-u4v5w6x7-y8z9a0b1c2d3",
+                  "label": "c) The shopkeeper is surprised by their offer.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "v1w2x3y4-z5a6b7c8-d9e0f1g2-h3i4j5k6l7m8",
+              "question": "10.2 What does Pete say to the shopkeeper?",
+              "options": [
+                {
+                  "id": "b0c1d2e3-f4g5h6i7-j8k9l0m1-n2o3p4q5r6s7",
+                  "label": "a) Pete says, 'We didn't take anything, but you can look in our bags.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "g1h2i3j4-k5l6m7n8-p9q0r1s2-t3u4v5w6x7y8",
+                  "label": "b) Pete says, 'You can look in my pockets.'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "s7t8u9v0-w1x2y3z4-a5b6c7d8-e9f0g1h2i3j4",
+                  "label": "c) Pete says, 'We are innocent, we didn't do anything wrong.'",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 11",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-11"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph11.png",
+          "imgAlt": "...'",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "The shopkeeper looks in Carla's bag and in their pockets. The people at the tables near them watch him. 'Is he going to find the coins?' they think. But he finds no coins or stamps.\n'We didn't steal the coins,' Pete says. 'And now you know that.'\n'I - I'm sorry,' the shopkeeper says. 'I was wrong. But I don't understand it. Where are the coins?'\nThen the old man goes back to his shop.\n'He isn't very happy,' Pete says to the policeman.\n'Coins are very small,' the policeman says. 'Perhaps they're in the shop, but he can't see them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k9l8m7n6-p5q4r3s2-t1u0v9w8-x7y6z5a4b3c2",
+      "exercises": [
+        {
+          "id": "e1f2g3h4-i5j6k7l8-m9n0o1p2-q3r4s5t6u7v8",
+          "title": "11. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a0b1c2d3-e4f5g6h7-i8j9k0l1-m2n3o4p5q6r7",
+              "question": "11.1 What happens when the shopkeeper checks Carla's bag and their pockets?",
+              "options": [
+                {
+                  "id": "f0g1h2i3-j4k5l6m7-n8o9p0q1-r2s3t4u5v6w7",
+                  "label": "a) He finds a few coins in their pockets.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "w6x7y8z9-a0b1c2d3-c4d5e6f7-g8h9i0j1k2l3",
+                  "label": "b) He doesn't find any coins or stamps.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "a3b4c5d6-e7f8g9h0-i1j2k3l4-m5n6o7p8q9r0",
+                  "label": "c) He finds stamps in Carla's bag.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "k1l2m3n4-p5q6r7s8-t9u0v1w2-x3y4z5a6b7c8",
+              "question": "11.2 What does the shopkeeper say after checking Carla's bag and their pockets?",
+              "options": [
+                {
+                  "id": "g5h6i7j8-k9l0m1n2-p3q4r5s6-t7u8v9w0x1y2",
+                  "label": "a) 'I was wrong. But I don't understand it. Where are the coins?'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "e9f0g1h2-i3j4k5l6-p7q8r9s0-t1u2v3w4x5y6",
+                  "label": "b) 'I know you took the coins. You can't hide them.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a7b8c9d0-e1f2g3h4-j5k6l7m8-n9o0p1q2r3s4",
+                  "label": "c) 'I found the coins, but I think you stole them.'",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+              "question": "11.3 What does the policeman say about the missing coins?",
+              "options": [
+                {
+                  "id": "k1l2m3n4-o5p6q7r8-t9u0v1w2-y3z4a5b6c7d8",
+                  "label": "a) 'The coins were taken outside the shop, not in it.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "f0g1h2i3-j4k5l6m7-n8o9p0q1-r2s3t4u5v6w7",
+                  "label": "b) 'Maybe someone else took the coins, not you two.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p4q5r6s7-t8u9v0w1-x2y3z4a5-b6c7d8e9f0g1",
+                  "label": "c) 'Coins are very small. Perhaps they're in the shop, but he can't see them.'",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 12",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-12"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph12.png",
+          "imgAlt": "Paragraph 12 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "Some young people start to play music. A girl plays a flute.\n'We didn't steal any coins,' Carla says to the policeman. 'I know,' the policeman says.\nCarla listens to the music. It is Greensleeves. 'Where did I hear that?' she thinks. And then she remembers the fute player near the coin and stamp shop. 'He played that tune,' she remembers. Pete is watching her face. 'What is it?'he asks her. 'What's wrong?' 'I know now!' she says. 'The missing coins - I know the answer!' 'Do you?' Pete says. 'What is it?' 'Come with me!' she says to Pete and the policeman. 'We're going to find the man with the flute!'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "z9a8b7c6-d5e4f3g2-h1i0j9k8-l7m6n5o4p3q2",
+      "exercises": [
+        {
+          "id": "r1s2t3u4-v5w6x7y8-z9a0b1c2-c3d4e5f6g7h8",
+          "title": "12. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "u1v2w3x4-y5z6a7b8-c9d0e1f2-g3h4i5j6k7l8",
+              "question": "12.1 What music do the young people start to play?",
+              "options": [
+                {
+                  "id": "s5t6u7v8-w9x0y1z2-a3b4c5d6-e7f8g9h0i1j2",
+                  "label": "a) They play a song from South America.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "x0y1z2a3-b4c5d6e7-f8g9h0i1-j2k3l4m5n6o7",
+                  "label": "b) They play a traditional song from Canada.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "i7j8k9l0-m1n2o3p4-q5r6s7t8-u9v0w1x2y3z4",
+                  "label": "c) They play Greensleeves.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "m1n2o3p4-q5r6s7t8-u9v0w1x2-y3z4a5b6c7d8",
+              "question": "12.2 What does Carla remember when she hears the music?",
+              "options": [
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-c3d4f5g6h7",
+                  "label": "a) She remembers a song she heard in the Abbey.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "l2m3n4o5-p6q7r8s9-t0u1v2w3-x4y5z6a7b8",
+                  "label": "b) She remembers the flute player near the coin and stamp shop.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "d9e0f1g2-h3i4j5k6-l7m8n9o0-p1q2r3s4t5u6",
+                  "label": "c) She remembers seeing a coin in the shop window.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a1b2c3d4-e5f6g7h8-i9j0k1l2-m3n4o5p6q7r8",
+              "question": "12.3 What does Carla say to Pete and the policeman?",
+              "options": [
+                {
+                  "id": "t3u4v5w6-x7y8z9a0-b1c2d3e4-f5g6h7i8j9",
+                  "label": "a) 'I think I know who took the coins.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "o5p6q7r8-s9t0u1v2-w3x4y5z6-a7b8c9d0e1f2",
+                  "label": "b) 'We're going to find the man with the flute!'",
+                  "isCorrect": true
+                },
+                {
+                  "id": "k1l2m3n4-o5p6q7r8-p9r0s1t2-u3v4w5x6y7z8",
+                  "label": "c) 'The coins must be in the shop, let's go back.'",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 13",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-13"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph13.png",
+          "imgAlt": "Paragraph 13 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'Which man?' the policeman says. 'He plays in the street near the old man's shop,' Pete says. Then Carla, Pete and the policeman run to the stamp and coin shop. 'Hey, you!' Carla says. The flute player is going to walk away, but the policeman stops him. 'Wait!' the policeman says. 'We want to speak to you.' The man wants to run now. 'I - I'm going home,' he says. 'No, wait,' the policeman says. He looks at Carla. 'You have the coins,' Carla says to the flute player. 'No!' the man says. He starts to run away, but the policeman stops him again. 'How did he do it?' Pete asks Carla. 'It was the girl in the shop,' Carla says. 'We looked at some stamps. Remember? And the shopkeeper was on the telephone in the room at the back.'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "k9l8m7n6-p5q4r3s2-t1u0v9w8-x7y6z5a4b3c2",
+      "exercises": [
+        {
+          "id": "q1r2s3t4-u5v6w7x8-y9z0a1b2-c3d4e5f6g7h8",
+          "title": "13. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "y3z4a5b6-c7d8e9f0-g1h2i3j4-k5l6m7n8o9p0",
+              "question": "13.1 Where does the flute player go when Carla, Pete, and the policeman run to the shop?",
+              "options": [
+                {
+                  "id": "h0i1j2k3-l4m5n6o7-p8q9r0s1-t2u3v4w5x6",
+                  "label": "a) The flute player stops and talks to the policeman.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-c3d4e5f6g7h8",
+                  "label": "b) The flute player tries to walk away.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "w7x8y9z0-a1b2c3d4-e5f6g7h8-i9j0k1l2m3",
+                  "label": "c) The flute player walks into the shop to hide.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "j3k4l5m6-n7o8p9q0-r1s2t3u4-v5w6x7y8z9",
+              "question": "13.2 What does Carla say to the flute player?",
+              "options": [
+                {
+                  "id": "a1b2c3d4-e5f6g7h8-i9j0k1l2-m3n4o5p6q7",
+                  "label": "a) 'The coins are in the shop, give them back.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "t3u4v5w6-x7y8z9a0-b1c2d3e4-c5d6e7f8g9",
+                  "label": "b) 'We know you took the coins.'",
+                  "isCorrect": false
+                },
+                {
+                  "id": "v1w2x3y4-z5a6b7c8-d9e0f1g2-h3i4j5k6l7",
+                  "label": "c) 'You have the coins.'",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "m4n5o6p7-q8r9s0t1-u2v3w4x5-y6z7a8b9c0",
+              "question": "13.3 Who helped the flute player steal the coins?",
+              "options": [
+                {
+                  "id": "n0o1p2q3-r4s5t6u7-v8w9x0y1-z2a3b4c5d6",
+                  "label": "a) The girl in the shop helped the flute player.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "k6l7m8n9-p0q1r2s3-t4u5v6w7-x8y9z0a1b2",
+                  "label": "b) The shopkeeper helped the flute player.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d1e2f3g4-h5i6j7k8-l9m0n1o2-p3q4r5s6t7",
+                  "label": "c) Pete helped the flute player.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 14",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "imgPosition": "right",
+      "id": "paragraph-14"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph14.png",
+          "imgAlt": "Paragraph 14 photo",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'But how did the flute player get the coins?' the policeman asks. 'Yes,' Pete says. 'I don't understand.' 'He was outside the window,' Carla says. 'The girl went to the window with the coins!' 'But there were people in the street,' Pete says. 'Yes, perhaps people watched her,' Carla says, 'but the coins went into the flute player's hat! The coins were valuable, but the people in the street didn't know that.' 'The girl and the flute player were very clever!' Pete says. 'But now they're coming with me to the police station,' the policeman says. He takes the coins from the flute player. After some time, a police car arrives. It takes the girl and the flute player to the police station."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "m8n7o6p5-q4r3s2-t1u0v9w8-x7y6z5a4b3c2",
+      "exercises": [
+        {
+          "id": "r1s2t3u4-v5w6x7y8-z9a0b1c2-c3d4e5f6g7h8",
+          "title": "14. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "a1b2c3d4-e5f6g7h8-i9j0k1l2-m3n4o5p6q7",
+              "question": "14.1 How did the flute player get the coins?",
+              "options": [
+                {
+                  "id": "t0u1v2w3-x4y5z6a7-b8c9d0e1-f2g3h4i5j6",
+                  "label": "a) The people in the street gave him the coins.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "o6p7q8r9-s0t1u2v3-w4x5y6z7-a8b9c0d1e2",
+                  "label": "b) The flute player stole the coins from the window himself.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "z1a2b3c4-d5e6f7g8-h9i0j1k2-l3m4n5o6p7",
+                  "label": "c) The girl put the coins into the flute player's hat.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "b1c2d3e4-f5g6h7i8-j9k0l1m2-n3o4p5q6r7",
+              "question": "14.2 What did the people in the street not know?",
+              "options": [
+                {
+                  "id": "s6t7u8v9-w0x1y2z3-a4b5c6d7-e8f9g0h1i2",
+                  "label": "a) The girl was trying to steal the coins.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "p9q0r1s2-t3u4v5w6-x7y8z9a0-b1c2d3e4f5",
+                  "label": "b) The coins were valuable.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "h0i1j2k3-l4m5n6o7-p8q9r0s1-t2u3v4w5x6",
+                  "label": "c) The flute player was hiding the coins.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "k1l2m3n4-o5p6q7r8-p9r0s1t2-u3v4w5x6y7",
+              "question": "14.3 Where do the girl and the flute player go after being caught?",
+              "options": [
+                {
+                  "id": "j1k2l3m4-n5o6p7q8-r9s0t1u2-v3w4x5y6z7",
+                  "label": "a) They are taken to a nearby café.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c0d1e2f3-g4h5i6j7-k8l9m0n1-p2q3r4s5t6",
+                  "label": "b) They run away from the police.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "v4w5x6y7-z8a9b0c1-d2e3f4g5-h6i7j8k9l0",
+                  "label": "c) They go to the police station.",
+                  "isCorrect": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph 15",
+      "time": "...",
+      "bgColor": "black",
+      "textColor": "white",
+      "id": "paragraph-15"
+    },
+    {
+      "paragraphSections": [
+        {
+          "imgSrc": "/extras/skills/listening/audiobooks/beginner/general/the-missing-coins/paragraph15.png",
+          "imgAlt": "...",
+          "imgPosition": "right",
+          "paragraphs": [
+            {
+              "enText": "'Thank you,' the shopkeeper says to Carla. 'The coins are valuable. I want to say \"thank you\". What can I give you?' Carla smiles. 'Give Pete the stamps from South America,' she says. 'Then he can start his stamp-collecting today!' Pete gives her a big smile. 'Thanks, Carla,' he says. 'I love you!'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a2b3c4d5-e6f7g8h9-i0j1k2l3-m4n5o6p7q8",
+      "exercises": [
+        {
+          "id": "r9s0t1u2-v3w4x5y6-z7a8b9c0-d1e2f3g4h5",
+          "title": "15. Choose the correct answer.",
+          "radio": [
+            {
+              "id": "p3q4r5s6-t7u8v9w0-x1y2z3a4-b5c6d7e8f9",
+              "question": "15.1 What does Carla suggest the shopkeeper give Pete?",
+              "options": [
+                {
+                  "id": "s0t1u2v3-w4x5y6z7-a8b9c0d1-e2f3g4h5i6",
+                  "label": "a) She suggests the shopkeeper give him a coin collection.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "j7k8l9m0-n1o2p3q4-r5s6t7u8-v9w0x1y2",
+                  "label": "b) She suggests the shopkeeper give him a stamp book.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a0b1c2d3-e4f5g6h7-i8j9k0l1-m2n3o4p5",
+                  "label": "c) She suggests the shopkeeper give him the stamps from South America.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "j0k1l2m3-n4o5p6q7-r8s9t0u1-v2w3x4y5",
+              "question": "15.2 What does Pete say to Carla?",
+              "options": [
+                {
+                  "id": "p1q2r3s4-t5u6v7w8-x9y0z1a2-b3c4d5e6",
+                  "label": "a) 'Thanks, Carla,' Pete says to her.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a5b6c7d8-e9f0g1h2-i3j4k5l6-m7n8o9p0",
+                  "label": "b) 'I love you!' Pete says to Carla.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "t1u2v3w4-x5y6z7a8-b9c0d1e2-f3g4h5i6",
+                  "label": "c) 'I can't believe it!' Pete says to Carla.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

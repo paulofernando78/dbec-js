@@ -1,0 +1,271 @@
+{
+    "whiteboard": {
+      "title": "Specific Purposes",
+      "subtitle": "Business",
+      "descriptions": ["Lesson 15 • Shifting Blame"]
+    },
+    "lessons": [
+    {
+      "audioSrc": "/materials/specific-purposes/business/sbelaa/lesson-15.mp3"
+    },
+    {
+      "paragraphSections": [
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Lesson 15 • Shifting Blame</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "Rick and Ellen work for Attic Treasures Antiques, an antique shop. Max is the owner of the shop. Recently, a woman came in and sold them $10,000 worth of \"antique\" jewelry. Max takes one look at the jewelry and realizes it's fake."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Max:</b> I can't believe you two bought these fake antique necklaces! Didn't you examine them before <b>shelling out</b> 10 grand?*"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Rick:</b> Yeah, I thought they were fake, but I let Ellen <b>talk me into</b> buying them."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ellen:</b> What? <b>I can't believe my ears!</b> You thought they were real. Now you're just trying to <b>cover yourself</b>!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Rick:</b> I don't want to be the <b>fall guy</b> here, Ellen. You were the one who looked at them under a magnifying glass."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ellen:</b> <b>For the record</b>, you were the one <b>going on about</b> how you \"<b>struck gold</b>\" right after the woman left the shop."
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Rick:</b> I don't remember saying that. Stop trying to <b>pass the buck</b>. Just <b>step up to the plate</b> and admit your mistake!"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Ellen:</b> Right, while you <b>wash your hands of</b> the whole thing. <b>Dream on!</b>"
+            }
+          ]
+        },
+        {
+          "paragraphs": [
+            {
+              "enText": "<b>Max:</b> Let's stop <b>pointing fingers at each other</b>. We need to <b>track down that woman</b> and get the money back!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exercises",
+      "bgColor": "black",
+      "textColor": "white"
+    },
+    {
+      "id": "ad5d4c71-b477-4ea7-9f07-2d0082ac35f8",
+      "exercises": [
+        {
+          "id": "f6c94323-3603-4999-b2ab-6644b9a10c35",
+          "title": "1. Choose the most appropriate response to the following.",
+          "radio": [
+            {
+              "id": "ba092a35-6999-49ee-96b8-a3f522527374",
+              "question": "1. Please don't try to <b>talk me into</b> exhibiting at your trade show this year.",
+              "options": [
+                {
+                  "id": "de252206-8524-4098-8086-f0cedeb49182",
+                  "label": "Okay, I'll sign you up.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "0b505c47-ceff-4ee3-9e94-7cdb1cd81367",
+                  "label": "Okay, I'll call you tomorrow to talk about it some more.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "734428be-1d3c-413b-8d74-481107c4090b",
+                  "label": "Okay, if you're not interested, I won't ask again.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "635bb6de-c43b-4ee0-a519-ea6f1a8aa021",
+              "question": "2. I can't find Sam's address anywhere. Do you think you can help me <b>track it down</b>?",
+              "options": [
+                {
+                  "id": "b0c01ecb-cb44-4c6c-b962-e8c20f76139d",
+                  "label": "Yes, I'd be happy to track it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "3ff1f9b5-e7ba-4f86-8cb7-9873fd772ca3",
+                  "label": "Sure, I'll help you find it.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "ad6e6ffe-fede-4354-995c-1f840b98f01e",
+                  "label": "No, but I'll help you find it.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "10ef044b-8160-401b-bbc5-056960c6f829",
+              "question": "3. We've already <b>shelled out</b> enough on advertising this year.",
+              "options": [
+                {
+                  "id": "e5b89714-0f17-44ff-b7a8-a5f0e7189740",
+                  "label": "I agree. Let's spend more.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "d5e8ae7e-a529-405b-9304-0baa8077a047",
+                  "label": "I know we've spent a lot, but I think we should do a couple more ads.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "b7a8083c-506b-4870-9650-d38e55da042b",
+                  "label": "c) I disagree. We've already spent a lot of money on advertising.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "a69b36af-83af-451a-ae50-716584b46b14",
+              "question": "4. You think you'll be accepted to Harvard Business School? <b>Dream on!</b>",
+              "options": [
+                {
+                  "id": "8b3ef53c-bd1c-4b36-8629-e692df3bd712",
+                  "label": "You may not agree, but I think it's a realistic goal.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "81d99d15-3980-4e2f-b5de-75adfe03802a",
+                  "label": "Right, I'll just go to sleep and dream about it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "16258e9c-139f-4ec7-85e8-99c0e98608cd",
+                  "label": "Thanks for helping me think big.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "ee8fe44d-a3c1-4192-9522-33e711087e3f",
+              "question": "5. I had nothing to do with the disastrous decision to hire Dan. Don't <b>point the finger at me</b>!",
+              "options": [
+                {
+                  "id": "c1ed1f23-3eca-401c-a075-e12a3e1b4eb5",
+                  "label": "I'm not pointing the finger, but I am blaming you.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "67d40d03-b9ec-47fa-88ad-c43edab0a388",
+                  "label": "Good. I'm glad you're willing to take the blame.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "c17befc6-902e-4dda-a4e3-d1211e645243",
+                  "label": "Okay, I won't blame you.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "9d4dcfe7-f709-4bfb-952b-13531b53649b",
+              "question": "6. I think we've <b>struck gold</b> with our idea to sell content on our website instead of giving it away for free. What do you think?",
+              "options": [
+                {
+                  "id": "a0104c23-8f7d-4bdd-a3b5-d6b748ae25f6",
+                  "label": "I agree. It's a great idea.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "33117b38-276d-4224-90ce-1b1366f6051e",
+                  "label": "I agree. Nobody's going to be willing to pay for it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "64877320-4650-4627-8cbf-dda4f79d8dc1",
+                  "label": "I agree. We should sell silver and bronze on the site too.",
+                  "isCorrect": false
+                }
+              ]
+            },
+            {
+              "id": "52fc3696-a605-4479-aa0e-0cca0be592b7",
+              "question": "7. You need to take responsibility for our accounting problems. Stop trying to <b>pass the buck</b>!",
+              "options": [
+                {
+                  "id": "11e8e58c-5812-47df-bee3-5a2bf4a14a0c",
+                  "label": "Okay, I won't pass it anymore. You can have it.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ac2a6eff-17b3-40b5-8276-3213914d4a77",
+                  "label": "I already passed the buck.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "a9ad8dce-3211-49b4-849b-64301c094040",
+                  "label": "I'm not trying to pass the buck. I admit I made a mistake.",
+                  "isCorrect": true
+                }
+              ]
+            },
+            {
+              "id": "5d823557-fe36-42c3-a332-9f0bc7744303",
+              "question": "8. You finally got promoted, and now you're leaving your company and opening a health food store? <b>I can't believe my ears!</b>",
+              "options": [
+                {
+                  "id": "2c980d0a-71ad-42a0-a932-fb30542c1bf7",
+                  "label": "Yes, I know it's a surprising move.",
+                  "isCorrect": true
+                },
+                {
+                  "id": "517a2188-71e2-4949-a6d4-4e679e903d76",
+                  "label": "I couldn't believe my ears either.",
+                  "isCorrect": false
+                },
+                {
+                  "id": "ab3f2b49-0858-4e7a-be17-504da99615dd",
+                  "label": "I know you're not surprised.",
+                  "isCorrect": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  }
+  
