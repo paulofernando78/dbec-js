@@ -32,6 +32,15 @@
       </div>
       <wc-button data-icon="darkMode"></wc-button>
     </header>
+    <wc-whiteboard items='[
+      {
+        "title": "Courses",
+        "subtitle": "Beginner",
+        "description": "Classwork"
+      }
+    ]'
+    >
+    </wc-whiteboard>
     <!-- Logo + Image -->
     <section class="home__logo__image__container">
       <div class="home__logo__wrapper">
@@ -50,8 +59,6 @@
         class="home__computer__image"
       />
     </section>
-    <wc-layout></wc-layout>
-    <wc-whiteboard></wc-whiteboard>
     <!-- Presentation -->
     <main class="home__presentation__container line-break">
       <p>
@@ -62,14 +69,25 @@
         <span class="underline">Reading</span> (Leitura) e
         <span class="underline">Writing</span> (Escrita).
       </p>
+      <wc-layout></wc-layout>
       <wc-icon-list
         items='[
-    "Aula individual ou em grupo.",
-    "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)",
-    "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor. Clique aqui",
-    "Sobre",
-    "Preço"
-  ]'
+          {
+            "icon": "groupAdd",
+            "item": "Aula individual ou em grupo." },
+          {
+            "icon": "devices",
+            "item": "Material como áudios, vídeos e exercícios online. Clique aqui (Amostra)" },
+          {
+            "icon": "schedule",
+            "item": "Aulas de 50 minutos ou mais conforme a disponibilidade do aluno e do professor. Clique aqui" },
+          {
+            "icon":"badge",
+            "item": "Sobre" },
+          {
+            "icon": "payment",
+            "item": "Preço" }
+        ]'
       ></wc-icon-list>
     </main>
     <hr class="hr-customization" />

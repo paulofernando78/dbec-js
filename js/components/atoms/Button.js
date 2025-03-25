@@ -1,13 +1,9 @@
 import { login, darkMode, lightMode } from "../../../js/svg-icons.js";
 
-class WcButton extends HTMLElement {
-  constructor() {
-    super();
-    this.attachShadow({ mode: "open" });
-
-    const style = document.createElement("style");
-    style.textContent = `
-      button {
+const template = document.createElement("template");
+template.innerHTML = `
+<style>
+    button {
         background-color: var(--button-color);
         width: 35px;
         height: 35px;
@@ -25,20 +21,20 @@ class WcButton extends HTMLElement {
         button svg {
           width: 100%;
           height: 100%;
-          fill: #a8a8a8;
         }
 
         button.active svg {
           transform: scale(0.950);
         }
-      `;
-    const template = document.createElement("template");
-    template.innerHTML = `
-  <button></button>
-  `;
+          </style>
+<button></button>
+`;
 
+class WcButton extends HTMLElement {
+  constructor() {
+    super();
+    this.attachShadow({ mode: "open" });
     this.shadowRoot.appendChild(template.content.cloneNode(true));
-    this.shadowRoot.appendChild(style);
 
     this.button = this.shadowRoot.querySelector("button");
     this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");
@@ -134,7 +130,5 @@ class WcButton extends HTMLElement {
     this.button.removeEventListener("keyup", this.handleKeyUp);
   }
 }
-
-customElements.define("wc-button", WcButton);
 
 export default WcButton;

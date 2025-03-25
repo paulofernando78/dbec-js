@@ -49,8 +49,8 @@ if (!customElements.get("wc-layout")) {
 }
 
 document.getElementById("loginButton").addEventListener("click", () => {
-  history.pushState({}, "", /dashboard/);
   document.body.innerHTML = "";
   const layout = document.createElement("wc-layout");
   document.body.appendChild(layout);
+  history.pushState({}, "", /dashboard/);
 });

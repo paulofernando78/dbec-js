@@ -12,7 +12,7 @@ template.innerHTML = `
     <p>Here you'll find a lot of interesting materials. Use it wisely.</p>
     `;
 
-class WcLayout extends HTMLElement {
+class WcWelcome extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -21,4 +21,4 @@ class WcLayout extends HTMLElement {
   }
 }
 
-customElements.define("wc-layout", WcLayout);
+export default WcWelcome;

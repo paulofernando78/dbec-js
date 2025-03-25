@@ -4,7 +4,7 @@ class WcLayout extends HTMLElement {
     this.attachShadow({ mode: "open" });
     this.shadowRoot.innerHTML = `
     <style>
-      .header-navbar-container {
+      .container {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -13,13 +13,13 @@ class WcLayout extends HTMLElement {
         padding: 20px;
       }
     </style>
-        <wc-navbar></wc-navbar>
-        teste
-        <main id=root><main>
+        <div container>
+          <wc-navbar></wc-navbar>
+          > Layout
+          <main id=root><main>
+        </div>
     `;
   }
 }
-
-customElements.define("wc-layout", WcLayout);
 
 export default WcLayout;
