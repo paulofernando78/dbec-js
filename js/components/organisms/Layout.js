@@ -8,12 +8,12 @@ class Layout extends HTMLElement {
     
     const navbarMain = document.createElement("div");
     navbarMain
+    
 
     const header = document.createElement("wc-header");
     layout.appendChild(header);
 
     const navBar = document.createElement("wc-nav-bar");
-
     layout.appendChild(navBar);
 
     const main = document.createElement("main");

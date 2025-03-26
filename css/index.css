@@ -23,6 +23,18 @@ header {
   margin-bottom: 20px;
 }
 
+.left-button {
+  position: relative;
+  top: 2px;
+  left: 2px;
+}
+
+.right-button {
+  position: relative;
+  top: 2px;
+  right: 2px;
+}
+
 .home__logo__container {
   display: flex;
   flex-direction: column;

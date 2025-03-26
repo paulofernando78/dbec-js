@@ -11,7 +11,6 @@ template.innerHTML = `
         border: none;
         border-radius: 100%;
         cursor: pointer;
-        position: relative;
         }
 
         button.active {
