@@ -18,10 +18,20 @@ class NavBar extends HTMLElement {
     span.style.marginBottom = "1.125rem"
     nav.appendChild(span);
 
-    const link = document.createElement("a");
-    link.href = " ";
-    link.textContent = "Beginner";
-    nav.appendChild(link);
+    const courses = [
+      { href: '#', text: 'Beginner' },
+      { href: '#', text: 'Intermediate' },
+      { href: '#', text: 'Advanced' }
+    ];
+
+    courses.forEach(course => {
+      const link = document.createElement("a");
+      link.href = course.href;
+      link.textContent = course.text;
+      link.style.display = 'block';
+      link.style.marginBottom = '0.5rem';
+      nav.appendChild(link);
+    });
 
     
 
