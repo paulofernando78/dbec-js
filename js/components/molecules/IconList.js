@@ -7,25 +7,10 @@ import {
   mail,
 } from "../../svg-icons.js";
 
-class WcIconList extends HTMLElement {
+class IconList extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.shadowRoot.innerHTML = `
-    <style>
-      ul, li {
-      padding: 0;
-    }
-    li {
-      list-style-type: none;
-      font-size: var(--p-size);
-      line-height: var(--p-line-height);
-    }
-      svg {
-      }
-    </style>
-    <ul></ul>
-    `;
 
     const icons = {
       groupAdd: groupAdd,
@@ -36,12 +21,21 @@ class WcIconList extends HTMLElement {
       mail: mail,
     };
 
-    const items = JSON.parse(this.getAttribute("items"));
-    const ul = this.shadowRoot.querySelector("ul");
+    const ul = document.createElement("ul");
+    ul.style.padding = "0";
+    ul.style.margin = "0";
+    this.shadowRoot.appendChild(ul);
 
+    const items = JSON.parse(this.getAttribute("items"));
     items.forEach((item) => {
-      // const flex = 
       const li = document.createElement("li");
+      li.style.listStyle = "none";
+      li.style.fontSize = "var(--p-size)";
+      li.style.display = "flex";
+      li.style.alignItems = "center";
+      li.style.gap = "0.6rem";
+      li.style.marginBottom = "0.625rem";
+
       const iconElement = document.createElement("div");
       iconElement.innerHTML = icons[item.icon];
       li.appendChild(iconElement.firstChild);
@@ -51,4 +45,4 @@ class WcIconList extends HTMLElement {
   }
 }
 
-export default WcIconList;
+export default IconList;

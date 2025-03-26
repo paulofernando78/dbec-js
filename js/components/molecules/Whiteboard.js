@@ -1,5 +1,5 @@
 
-class WcWhiteboard extends HTMLElement {
+class Whiteboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -38,4 +38,4 @@ class WcWhiteboard extends HTMLElement {
     }
   }
 
-export default WcWhiteboard;
+export default Whiteboard;

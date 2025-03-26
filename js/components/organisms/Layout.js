@@ -1,25 +1,33 @@
-class WcLayout extends HTMLElement {
+class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.shadowRoot.innerHTML = `
-    <style>
-      .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        background-color: #f8f9fa;
-        padding: 20px;
-      }
-    </style>
-        <div container>
-          <wc-navbar></wc-navbar>
-          > Layout
-          <main id=root><main>
-        </div>
-    `;
+
+    const layout = document.createElement("div");
+    // layout.style.border = "1px solid green";
+    
+    const navbarMain = document.createElement("div");
+    navbarMain
+
+    const header = document.createElement("wc-header");
+    layout.appendChild(header);
+
+    const navBar = document.createElement("wc-nav-bar");
+
+    layout.appendChild(navBar);
+
+    const main = document.createElement("main");
+    main.style.padding = "var(--padding)";
+    main.style.border = "var(--border)";
+    main.style.borderRadius = "var(--border-radius)";
+    main.id = "root";
+    const p = document.createElement("p");
+    p.textContent = "Main";
+    main.appendChild(p);
+    layout.appendChild(main);
+
+    this.shadowRoot.appendChild(layout);
   }
 }
 
-export default WcLayout;
+export default Layout;

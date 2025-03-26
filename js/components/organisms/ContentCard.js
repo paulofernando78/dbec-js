@@ -4,3 +4,5 @@ class ContentCard extends HTMLElement {
     this.attachShadow({ mode: "open"});
   }
 }
+
+export default ContentCard;

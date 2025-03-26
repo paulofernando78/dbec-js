@@ -1,4 +1,4 @@
-import WcLayout from "./components/organisms/Layout.js";
+import "./components.js";
 
 const phrases = document.querySelector(".home__phrases__display");
 const ul = document.createElement("ul");
@@ -44,10 +44,7 @@ function updatePhrase() {
 updatePhrase();
 setInterval(updatePhrase, 2000);
 
-if (!customElements.get("wc-layout")) {
-  customElements.define("wc-layout", WcLayout)
-}
-
+// Adding layout component
 document.getElementById("loginButton").addEventListener("click", () => {
   document.body.innerHTML = "";
   const layout = document.createElement("wc-layout");

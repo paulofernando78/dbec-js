@@ -1,9 +1,14 @@
 // Components
-import WcButton from "./components/atoms/Button.js";
-import WcIconList from "./components/molecules/IconList.js";
-import WcWhiteboard from "./components/molecules/Whiteboard.js";
+import Button from "./components/atoms/Button.js";
+import IconList from "./components/molecules/IconList.js";
+import Layout from "./components/organisms/Layout.js";
+import Header from "./components/organisms/Header.js";
+import NavBar from "./components/organisms/NavBar.js";
+import Whiteboard from "./components/molecules/Whiteboard.js";
 
-customElements.define("wc-button", WcButton);
-customElements.define("wc-icon-list", WcIconList);
-
-customElements.define("wc-whiteboard", WcWhiteboard);
+customElements.define("wc-button", Button);
+customElements.define("wc-icon-list", IconList);
+customElements.define("wc-layout", Layout);
+customElements.define("wc-header", Header);
+customElements.define("wc-nav-bar", NavBar);
+customElements.define("wc-whiteboard", Whiteboard);

@@ -26,21 +26,12 @@
 
   <body>
     <!-- Header + Buttons-->
-    <header class="home__button__container">
+    <header>
       <div id="dashboard">
         <wc-button data-icon="login" id="loginButton"></wc-button>
       </div>
       <wc-button data-icon="darkMode"></wc-button>
     </header>
-    <wc-whiteboard items='[
-      {
-        "title": "Courses",
-        "subtitle": "Beginner",
-        "description": "Classwork"
-      }
-    ]'
-    >
-    </wc-whiteboard>
     <!-- Logo + Image -->
     <section class="home__logo__image__container">
       <div class="home__logo__wrapper">
@@ -59,6 +50,7 @@
         class="home__computer__image"
       />
     </section>
+    <wc-layout></wc-layout>
     <!-- Presentation -->
     <main class="home__presentation__container line-break">
       <p>
@@ -69,7 +61,6 @@
         <span class="underline">Reading</span> (Leitura) e
         <span class="underline">Writing</span> (Escrita).
       </p>
-      <wc-layout></wc-layout>
       <wc-icon-list
         items='[
           {

@@ -6,19 +6,16 @@ style.textContent = `
     }
     `;
 
-const template = document.createElement("template");
-template.innerHTML = `
-    <p>Welcome to the Daily Basis English Course</p>
-    <p>Here you'll find a lot of interesting materials. Use it wisely.</p>
-    `;
-
-class WcWelcome extends HTMLElement {
+class Welcome extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
-    this.shadowRoot.appendChild(style);
+    
+    const p = document.createElement("p");
+    p.textContent = "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.";
+    thisshadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(p);
   }
 }
 
-export default WcWelcome;
+export default Welcome;

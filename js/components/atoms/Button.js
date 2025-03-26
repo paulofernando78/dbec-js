@@ -1,4 +1,4 @@
-import { login, darkMode, lightMode } from "../../../js/svg-icons.js";
+import { spinner, login, darkMode, lightMode, menu, logout } from "../../../js/svg-icons.js";
 
 const template = document.createElement("template");
 template.innerHTML = `
@@ -43,9 +43,12 @@ class WcButton extends HTMLElement {
 
   createButton(icon) {
     const svgIcons = {
+      spinner: spinner,
       login: login,
       darkMode: darkMode,
       lightMode: lightMode,
+      menu: menu,
+      logout: logout,
     };
 
     if (this.button && svgIcons[icon]) {
