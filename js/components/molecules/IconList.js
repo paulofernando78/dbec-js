@@ -25,20 +25,25 @@ class IconList extends HTMLElement {
         bottom: 0.125rem;
       }
 
+      ul li:last-of-type div{
+        margin-right: 0.110rem;
+      }
+
       li {
         list-style: none;
         font-size: var(--p-size);
         display: flex;
         align-items: start;
         gap: 0.625rem;
-      }
-
-      ul li:last-of-type div{
-        margin-right: 0.110rem;
+        margin-bottom: 0.6rem;
       }
 
       li:last-child {
         margin-left: 0.150rem;
+      }
+
+      p {
+        margin: 0
       }
     `;
     this.shadowRoot.appendChild(style);
@@ -89,8 +94,10 @@ class IconList extends HTMLElement {
             (item) => `
           <li>
             <div>${icons[item.icon]}</div>
-            ${item.item ? `${item.item}` : ""}
-            ${item.link ? `<a href="${item.link}">${item.linkItem}</a>` : ""}
+            <p>
+              ${item.item ? `${item.item}` : ""}
+              ${item.link ? `<a href="${item.link}">${item.linkItem}</a>` : ""}
+            </p>
           </li>
         `
           )
