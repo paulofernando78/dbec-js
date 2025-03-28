@@ -44,10 +44,31 @@ function updatePhrase() {
 updatePhrase();
 setInterval(updatePhrase, 2000);
 
+const header = document.querySelector("wc-header");
+if (header) {
+  const logoutButton = header.shadowRoot.querySelector("[data-icon=logout]");
+  if (logoutButton) {
+    logoutButton.remove();
+  }
+
+  const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
+  if (menuButton) {
+    menuButton.remove();
+  }
+}
+
 // Adding layout component
-document.getElementById("loginButton").addEventListener("click", () => {
+document.getElementById("dashboard").addEventListener("click", () => {
   document.body.innerHTML = "";
+  const header = document.createElement("wc-header");
   const layout = document.createElement("wc-layout");
+  document.body.appendChild(header);
   document.body.appendChild(layout);
+
+  const loginButton = header.shadowRoot.querySelector("[data-icon=login]");
+  if (loginButton) {
+    loginButton.remove();
+  }
+
   history.pushState({}, "", /dashboard/);
 });

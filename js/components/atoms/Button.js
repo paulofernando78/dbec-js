@@ -1,39 +1,49 @@
-import { spinner, login, darkMode, lightMode, menu, logout } from "../../../js/svg-icons.js";
-
-const template = document.createElement("template");
-template.innerHTML = `
-<style>
-    button {
-        background-color: var(--button-color);
-        width: 35px;
-        height: 35px;
-        box-shadow: var(--neumorphism);
-        border: none;
-        border-radius: 100%;
-        cursor: pointer;
-        }
-
-        button.active {
-          box-shadow: var(--neumorphism-active);
-        }
-
-        button svg {
-          width: 100%;
-          height: 100%;
-        }
-
-        button.active svg {
-          transform: scale(0.950);
-        }
-          </style>
-<button></button>
-`;
+import {
+  spinner,
+  login,
+  darkMode,
+  lightMode,
+  menu,
+  logout,
+} from "../../../js/svg-icons.js";
 
 class WcButton extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    const template = document.createElement("template"); /*html*/
+    template.innerHTML = `
+      <button></button>
+    `;
     this.shadowRoot.appendChild(template.content.cloneNode(true));
+
+    const style = document.createElement("style");
+    style.textContent = `
+button {
+  background-color: var(--button-color);
+  width: 35px;
+  height: 35px;
+  box-shadow: var(--neumorphism);
+  border: none;
+  border-radius: 100%;
+  cursor: pointer;
+  }
+
+  button.active {
+    box-shadow: var(--neumorphism-active);
+  }
+
+  button svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  button.active svg {
+    transform: scale(0.950);
+  }
+    `;
+    this.shadowRoot.appendChild(style);
 
     this.button = this.shadowRoot.querySelector("button");
     this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");
@@ -58,7 +68,10 @@ class WcButton extends HTMLElement {
 
     // Add accessibility attributes
     if (!this.hasAttribute("aria-label")) {
-      this.button.setAttribute("aria-label", icon.charAt(0).toUpperCase() + icon.slice(1));
+      this.button.setAttribute(
+        "aria-label",
+        icon.charAt(0).toUpperCase() + icon.slice(1)
+      );
     }
     this.button.setAttribute("tabindex", "0");
   }
@@ -66,7 +79,6 @@ class WcButton extends HTMLElement {
   connectedCallback() {
     const icon = this.getAttribute("data-icon");
     this.createButton(icon);
-
 
     // Add keyboard support
     this.button.addEventListener("keydown", (e) => {

@@ -2,33 +2,54 @@ class Header extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    
-    const header = document.createElement("header");
-    header.style.border = "var(--border)";
-    header.style.borderRadius = "5px";
-    header.style.display = "flex";
-    header.style.justifyContent = "space-between";
-    header.style.alignItems = "center";
-    header.style.padding = "var(--padding";
-    header.style.marginBottom = ".625rem";
 
-    const menuButton = document.createElement("wc-button");
-    menuButton.setAttribute("data-icon", "menu");
-    header.appendChild(menuButton);
+    const style = document.createElement("style"); /*css*/
+    style.textContent = `
+      header {
+        border: var(--border);
+        border-radius: 5px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: var(--padding);
+        margin-bottom: .625rem;
+      }
+      span {
+        display: inline-block;
+        font-family: Impact, sans-serif;
+        font-size: 1.25rem;
+        text-align: center;
+      }
+      .left-button {
+        position: relative;
+        top: 2px;
+        left: 2px;
+      }
+      .right-button {
+        position: relative;
+        top: 2px;
+        right: 2px;
+      }
+      .menu-button {
+        left: 6px;
+      }
+    `;
 
-    const span = document.createElement("span");
-    span.style.display = "inline-block";
-    span.textContent = "DAILY BASIS ENGLISH COURSE";
-    span.style.fontFamily = "Impact, sans-serif";
-    span.style.fontSize = "1.25rem";
-    span.style.textAlign = "center";
-    header.appendChild(span);
+    const template = document.createElement("template"); /*html*/
+    template.innerHTML = `
+      <header>
+        <div>
+          <wc-button data-icon="login" class="left-button"></wc-button>
+          <wc-button data-icon="logout" class="left-button"></wc-button>
+          <wc-button data-icon="menu" class="left-button menu-button"></wc-button>
+        </div>
+        <span>DAILY BASIS ENGLISH COURSE</span>
+        <wc-button data-icon="darkMode" class="right-button"></wc-button>
+      </header>
+    `;
 
-    const darkModeButton = document.createElement("wc-button");
-    darkModeButton.setAttribute("data-icon", "darkMode");
-    header.appendChild(darkModeButton);
-
-    this.shadowRoot.appendChild(header);
+    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 }
 

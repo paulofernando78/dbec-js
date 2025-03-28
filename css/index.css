@@ -1,11 +1,3 @@
-header {
-  border: var(--border);
-  border-radius: var(--border-radius);
-  padding: var(--padding);
-  display: flex;
-  justify-content: space-between;
-}
-
 .home__logo__image__container {
   margin: 2rem 0;
   display: flex;
@@ -21,18 +13,6 @@ header {
   justify-content: center;
   gap: 1.4rem;
   margin-bottom: 20px;
-}
-
-.left-button {
-  position: relative;
-  top: 2px;
-  left: 2px;
-}
-
-.right-button {
-  position: relative;
-  top: 2px;
-  right: 2px;
 }
 
 .home__logo__container {
