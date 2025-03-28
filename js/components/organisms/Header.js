@@ -14,12 +14,14 @@ class Header extends HTMLElement {
         padding: var(--padding);
         margin-bottom: .625rem;
       }
+
       span {
         display: inline-block;
-        font-family: Impact, sans-serif;
+        font-family: "Anton", sans-serif;
         font-size: 1.25rem;
         text-align: center;
       }
+
       .left-button {
         position: relative;
         top: 2px;
@@ -30,6 +32,7 @@ class Header extends HTMLElement {
         top: 2px;
         right: 2px;
       }
+
       .menu-button {
         left: 6px;
       }

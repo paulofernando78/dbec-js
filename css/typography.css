@@ -1,10 +1,19 @@
+/* anton-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: 'Anton';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/assets/fonts/anton-v25-latin-regular.woff2') format('woff2');
+}
+
 /* slackey-regular - latin */
 @font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-display: swap;
   font-family: 'Slackey';
   font-style: normal;
   font-weight: 400;
-  src: url('/assets/fonts/slackey-v28-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+  src: url('/assets/fonts/slackey-v28-latin-regular.woff2') format('woff2');
 }
 
 /* montserrat-100 - latin */
@@ -38,7 +47,6 @@
   font-style: italic;
   font-weight: 200;
   src: url("/assets/fonts/montserrat-v29-latin-200italic.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-200italic.woff") format("woff");
 }
 /* montserrat-300 - latin */
 @font-face {
@@ -47,7 +55,6 @@
   font-style: normal;
   font-weight: 300;
   src: url("/assets/fonts/montserrat-v29-latin-300.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-300.woff") format("woff");
 }
 /* montserrat-300italic - latin */
 @font-face {
@@ -80,7 +87,6 @@
   font-style: normal;
   font-weight: 500;
   src: url("/assets/fonts/montserrat-v29-latin-500.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-500.woff") format("woff");
 }
 /* montserrat-500italic - latin */
 @font-face {
@@ -89,7 +95,6 @@
   font-style: italic;
   font-weight: 500;
   src: url("/assets/fonts/montserrat-v29-latin-500italic.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-500italic.woff") format("woff");
 }
 /* montserrat-600 - latin */
 @font-face {
@@ -130,7 +135,6 @@
   font-style: normal;
   font-weight: 800;
   src: url("/assets/fonts/montserrat-v29-latin-800.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-800.woff") format("woff");
 }
 /* montserrat-800italic - latin */
 @font-face {
@@ -139,7 +143,6 @@
   font-style: italic;
   font-weight: 800;
   src: url("/assets/fonts/montserrat-v29-latin-800italic.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-800italic.woff") format("woff");
 }
 /* montserrat-900 - latin */
 @font-face {
@@ -156,7 +159,6 @@
   font-style: italic;
   font-weight: 900;
   src: url("/assets/fonts/montserrat-v29-latin-900italic.woff2") format("woff2"),
-    url("/assets/fonts/montserrat-v29-latin-900italic.woff") format("woff");
 }
 
 h1 {

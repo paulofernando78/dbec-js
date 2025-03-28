@@ -23,8 +23,8 @@
 
   .daily-basis,
   .english-course {
-    font-family: "Impact", sans-serif;
-    font-weight: bold;
+    font-family: "Anton", sans-serif;
+    font-weight: 900;
     white-space: nowrap;
     text-shadow: var(--text-shadow);
   }
@@ -35,9 +35,9 @@
   }
 
   .english-course {
-    font-size: 2.720rem;
+    font-size: 2.760rem;
     position: relative;
-    bottom: 12.8px;
+    bottom: 13px;
   }
 }
 

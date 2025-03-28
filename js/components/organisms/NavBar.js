@@ -43,6 +43,7 @@ template.innerHTML = `
         <a href="/pages/pages/extras/audibook.js">Audiobook</a>
         <a href="/pages/extras/grammar.js">Grammar</a>
         <a href="/pages/extras/vocabulary.js">Vocabulary</a>
+        <a href="/pages/extras/pronunciation.js">Pronunciation</a>
         <span>SPECIFIC PURPOSES</span>
         <a href="/pages/specific-purpuses/business.js">Business</a>
       </nav>
