@@ -34,11 +34,11 @@ class IconList extends HTMLElement {
       }
 
       ul li:last-of-type div{
-        margin-right: 0.1rem;
+        margin-right: 0.110rem;
       }
 
       li:last-child {
-        margin-left: 0.157rem;
+        margin-left: 0.150rem;
       }
     `;
     this.shadowRoot.appendChild(style);
@@ -58,31 +58,46 @@ class IconList extends HTMLElement {
       {
         icon: "devices",
         item: "Material como áudios, vídeos e exercícios online.",
+        link: "/amostra",
+        linkItem: "Amostra",
       },
       {
         icon: "schedule",
         item: "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor.",
+        link: "https://calendar.google.com/calendar/u/0?cid=Zjg2Yzg1NWY0OGNkNmUwZWE5OGE3MTgxNGU4MTQ0MWIwMmNjZGQxMjI3NzIxZjQwODEwNjg0MmFhYjNkOTgyN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t",
+        linkItem: "Ver horários disponíveis",
       },
-      { icon: "badge", item: "Sobre" },
-      { icon: "payment", item: "Preço" },
-      { icon: "mail", item: "Mail" },
-      { icon: "whatsapp", item: "WhatsApp" },
+      { icon: "badge", link: "/sobre", linkItem: "Sobre" },
+      { icon: "payment", link: "/precos", linkItem: "Preço" },
+      {
+        icon: "mail",
+        link: "mailto:paulofernando78@gmail.com",
+        linkItem: "paulofernando78@gmail.com",
+      },
+      {
+        icon: "whatsapp",
+        link: "https://api.whatsapp.com/send/?phone=%2B5511981672145&text&type=phone_number&app_absent=0",
+        linkItem: "+55 (11) 981672145",
+      },
     ];
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
       <ul>
-        ${items.map((item) => `
+        ${items
+          .map(
+            (item) => `
           <li>
             <div>${icons[item.icon]}</div>
-            ${item.item}
+            ${item.item ? `${item.item}` : ""}
+            ${item.link ? `<a href="${item.link}">${item.linkItem}</a>` : ""}
           </li>
         `
-          ).join("")}
+          )
+          .join("")}
       </ul>
     `;
     this.shadowRoot.appendChild(template.content.cloneNode(true));
-    
   }
 }
 
