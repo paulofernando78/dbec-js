@@ -55,6 +55,11 @@ if (header) {
   if (menuButton) {
     menuButton.remove();
   }
+
+  const logo = header.shadowRoot.querySelector("span");
+  if (logo) {
+    logo.remove();
+  }
 }
 
 // Adding layout component
