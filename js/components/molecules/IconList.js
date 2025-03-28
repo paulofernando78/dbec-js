@@ -5,12 +5,43 @@ import {
   badge,
   payment,
   mail,
+  whatsapp,
 } from "../../svg-icons.js";
 
 class IconList extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    const style = document.createElement("style"); /*css*/
+    style.textContent = `
+      ul {
+        padding: 0;
+        margin: 0;
+      }
+
+      div {
+        position: relative;
+        bottom: 0.125rem;
+      }
+
+      li {
+        list-style: none;
+        font-size: var(--p-size);
+        display: flex;
+        align-items: start;
+        gap: 0.625rem;
+      }
+
+      ul li:last-of-type div{
+        margin-right: 0.10rem;
+      }
+
+      li:last-child {
+        margin-left: 0.150rem;
+      }
+    `;
+    this.shadowRoot.appendChild(style);
 
     const icons = {
       groupAdd: groupAdd,
@@ -19,29 +50,39 @@ class IconList extends HTMLElement {
       badge: badge,
       payment: payment,
       mail: mail,
+      whatsapp: whatsapp,
     };
 
-    const ul = document.createElement("ul");
-    ul.style.padding = "0";
-    ul.style.margin = "0";
-    this.shadowRoot.appendChild(ul);
+    const items = [
+      { icon: "groupAdd", item: "Aula individual ou em grupo." },
+      {
+        icon: "devices",
+        item: "Material como áudios, vídeos e exercícios online.",
+      },
+      {
+        icon: "schedule",
+        item: "Aulas de 50 minutes ou mais conforme a disponibilidade do aluno e do professor.",
+      },
+      { icon: "badge", item: "Sobre" },
+      { icon: "payment", item: "Preço" },
+      { icon: "mail", item: "Mail" },
+      { icon: "whatsapp", item: "WhatsApp" },
+    ];
 
-    const items = JSON.parse(this.getAttribute("items"));
-    items.forEach((item) => {
-      const li = document.createElement("li");
-      li.style.listStyle = "none";
-      li.style.fontSize = "var(--p-size)";
-      li.style.display = "flex";
-      li.style.alignItems = "center";
-      li.style.gap = "0.6rem";
-      li.style.marginBottom = "0.625rem";
-
-      const iconElement = document.createElement("div");
-      iconElement.innerHTML = icons[item.icon];
-      li.appendChild(iconElement.firstChild);
-      li.appendChild(document.createTextNode(item.item));
-      ul.appendChild(li);
-    });
+    const template = document.createElement("template"); /*html*/
+    template.innerHTML = `
+      <ul>
+        ${items.map((item) => `
+          <li>
+            <div>${icons[item.icon]}</div>
+            ${item.item}
+          </li>
+        `
+          ).join("")}
+      </ul>
+    `;
+    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    
   }
 }
 

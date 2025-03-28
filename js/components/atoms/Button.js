@@ -18,30 +18,30 @@ class WcButton extends HTMLElement {
     `;
     this.shadowRoot.appendChild(template.content.cloneNode(true));
 
-    const style = document.createElement("style");
+    const style = document.createElement("style"); /*css*/
     style.textContent = `
-button {
-  background-color: var(--button-color);
-  width: 35px;
-  height: 35px;
-  box-shadow: var(--neumorphism);
-  border: none;
-  border-radius: 100%;
-  cursor: pointer;
-  }
+      button {
+        background-color: var(--button-color);
+        width: 35px;
+        height: 35px;
+        box-shadow: var(--neumorphism);
+        border: none;
+        border-radius: 100%;
+        cursor: pointer;
+      }
 
-  button.active {
-    box-shadow: var(--neumorphism-active);
-  }
+      button.active {
+        box-shadow: var(--neumorphism-active);
+      }
 
-  button svg {
-    width: 100%;
-    height: 100%;
-  }
+      button svg {
+        width: 100%;
+        height: 100%;
+      }
 
-  button.active svg {
-    transform: scale(0.950);
-  }
+      button.active svg {
+        transform: scale(0.950);
+      }
     `;
     this.shadowRoot.appendChild(style);
 
