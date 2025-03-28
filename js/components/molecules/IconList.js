@@ -34,11 +34,11 @@ class IconList extends HTMLElement {
       }
 
       ul li:last-of-type div{
-        margin-right: 0.10rem;
+        margin-right: 0.1rem;
       }
 
       li:last-child {
-        margin-left: 0.150rem;
+        margin-left: 0.157rem;
       }
     `;
     this.shadowRoot.appendChild(style);
