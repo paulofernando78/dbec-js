@@ -14,6 +14,11 @@ style.textContent = `
         margin: 0;
       }
     }
+
+    @media (max-width: 768px) {
+      flex-direction: column;
+      gap: 0.625rem;
+    }
   }
 `;
 
@@ -27,7 +32,7 @@ template.innerHTML = `
   </div>
 `;
 
-class Layout extends HTMLElement {
+class Dasboard extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
@@ -37,4 +42,6 @@ class Layout extends HTMLElement {
   }
 }
 
-export default Layout;
+export default Dasboard;
+
+

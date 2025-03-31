@@ -1,37 +1,98 @@
-// Definindo o objeto Router, que vai gerenciar as rotas da aplicação
 const Router = {
-  // Método 'init' será responsável por inicializar a lógica de navegação
   init: () => {
     console.log("Router is running...");
-    
+
     // Seleciona todos os links dentro da tag <nav> (a barra de navegação)
     document.querySelectorAll("nav a").forEach((link) => {
-      // Para cada link encontrado, adicionamos um 'eventListener' para capturar o clique do usuário
       link.addEventListener("click", (e) => {
-        e.preventDefault();  // Previne a navegação padrão (evita o recarregamento da página ao clicar no link)
-
-        // Aqui, extraímos o valor do atributo 'href' do link, que vai nos dizer a rota para qual o usuário quer navegar
-        const url = link.getAttribute("href");
-
-        // Chama o método 'nav' do Router, passando a rota (url) como argumento
-        Router.nav(url); 
+        e.preventDefault(); // Previne a navegação padrão
+        const url = e.target.getAttribute("href");
+        Router.nav(url);
       });
+    });
+
+    // Chama o handleRouter para a navegação inicial
+    Router.handleRouter();
+
+    // Detecta a navegação pelo histórico
+    window.addEventListener("popstate", (e) => {
+      Router.nav(e.state.route, false);
+    });
+
+    customElements.whenDefined("wc-header").then(() => {
+      const header = document.querySelector("wc-header");
+      const shadowRoot = header.shadowRoot;
+
+      const loginButton = shadowRoot.querySelector("[data-icon=login]"); // Ajuste para o seletor correto do botão de login
+      if (loginButton) {
+        loginButton.addEventListener("click", () => {
+          Router.nav("/dashboard"); // Redireciona para /dashboard
+        });
+      }
     });
   },
 
-  // O método 'nav' é responsável por navegar para uma nova página, alterando a URL sem recarregar a página
   nav: (route, addToHistory = true) => {
-    // O parâmetro 'addToHistory' por padrão é 'true', indicando que devemos adicionar a nova rota ao histórico do navegador
-    console.log(route)
-    
+    console.log(route);
+
     if (addToHistory) {
-      // Aqui usamos o 'history.pushState' para atualizar a URL sem recarregar a página
-      // A função 'pushState' permite que você adicione um novo estado no histórico do navegador
-      // Ela aceita três parâmetros: o estado (um objeto), o título da página (pode ser null) e a URL
-      history.pushState({ route }, null, route);  
+      history.pushState({ route }, null, route);
     }
-  }
+    Router.handleRouter();
+  },
+
+  handleRouter: () => {
+    const path = window.location.pathname;
+
+    let header = document.querySelector("wc-header");
+
+    if (header) {
+      const logoutButton =
+        header.shadowRoot.querySelector("[data-icon=logout]");
+      if (logoutButton) logoutButton.style.display = "none";
+
+      const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
+      if (menuButton) menuButton.style.display = "none";
+
+      const logo = header.shadowRoot.querySelector("span");
+      if (logo) logo.style.display = "none";
+    }
+
+    if (path === "/dashboard") {
+      document.body.innerHTML = ""; // Limpa o conteúdo
+      document.body.appendChild(header);
+
+      if (header) {
+        const loginButton =
+          header.shadowRoot.querySelector("[data-icon=login]");
+        if (loginButton) {
+          loginButton.style.display = "none";
+        }
+
+        let logoutButton =
+          header.shadowRoot.querySelector("[data-icon=logout]");
+        if (logoutButton) {
+          logoutButton.style.display = "inline-block";
+        }
+        logoutButton.addEventListener("click", () => {
+          Router.nav("/index.html");
+        });
+
+        let menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
+        if (menuButton) {
+          menuButton.style.display = "inline-block";
+        }
+
+        let logo = header.shadowRoot.querySelector("span");
+        if (logo) {
+          logo.style.display = "block";
+        }
+      }
+
+      const dashboard = document.createElement("wc-dashboard");
+      document.body.appendChild(dashboard);
+    }
+  },
 };
 
-// Exporta o objeto Router para que ele possa ser utilizado em outros arquivos (ex: app.js)
 export default Router;
