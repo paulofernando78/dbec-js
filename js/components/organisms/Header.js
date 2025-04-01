@@ -33,8 +33,15 @@ class Header extends HTMLElement {
         right: 2px;
       }
 
-      .menu-button {
+      .menu-button.hidden {
         left: 6px;
+        display: none;
+      }
+
+      @media (max-width: 768px) {
+        .menu-button.visible {
+          display: inline-block;
+        }
       }
     `;
 
@@ -44,7 +51,7 @@ class Header extends HTMLElement {
         <div>
           <wc-button data-icon="login" class="left-button"></wc-button>
           <wc-button data-icon="logout" class="left-button"></wc-button>
-          <wc-button data-icon="menu" class="left-button menu-button"></wc-button>
+          <wc-button data-icon="menu" class="left-button menu-button" ></wc-button>
         </div>
         <span>DAILY BASIS ENGLISH COURSE</span>
         <wc-button data-icon="darkMode" class="right-button"></wc-button>

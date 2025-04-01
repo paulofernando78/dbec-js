@@ -6,6 +6,11 @@ style.textContent = `
     border-radius: var(--border-radius);
     height: 100dvh;
   }
+
+  nav.visible {
+    display: block;
+  }
+
   span {
     display: block;
     font-size: 1.15rem;

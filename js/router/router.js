@@ -23,10 +23,10 @@ const Router = {
       const header = document.querySelector("wc-header");
       const shadowRoot = header.shadowRoot;
 
-      const loginButton = shadowRoot.querySelector("[data-icon=login]"); // Ajuste para o seletor correto do botão de login
+      const loginButton = shadowRoot.querySelector("[data-icon=login]");
       if (loginButton) {
         loginButton.addEventListener("click", () => {
-          Router.nav("/dashboard"); // Redireciona para /dashboard
+          Router.nav("/dashboard");
         });
       }
     });
@@ -45,17 +45,28 @@ const Router = {
     const path = window.location.pathname;
 
     let header = document.querySelector("wc-header");
+    if (!header) {
+      header = document.createElement("wc-header");
+      document.body.appendChild(header);
+    }
 
     if (header) {
+      const loginButton = header.shadowRoot.querySelector("[data-icon=login]");
+      if (loginButton)
+        loginButton.style.display = "block";
+
       const logoutButton =
         header.shadowRoot.querySelector("[data-icon=logout]");
-      if (logoutButton) logoutButton.style.display = "none";
+      if (logoutButton)
+        logoutButton.style.display = "none";
 
       const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
-      if (menuButton) menuButton.style.display = "none";
+      if (menuButton)
+        menuButton.classList.add("hidden");
 
       const logo = header.shadowRoot.querySelector("span");
-      if (logo) logo.style.display = "none";
+      if (logo)
+        logo.style.display = "none";
     }
 
     if (path === "/dashboard") {
@@ -63,31 +74,22 @@ const Router = {
       document.body.appendChild(header);
 
       if (header) {
-        const loginButton =
-          header.shadowRoot.querySelector("[data-icon=login]");
-        if (loginButton) {
+        const loginButton = header.shadowRoot.querySelector("[data-icon=login]");
+        if (loginButton)
           loginButton.style.display = "none";
-        }
-
-        let logoutButton =
-          header.shadowRoot.querySelector("[data-icon=logout]");
-        if (logoutButton) {
-          logoutButton.style.display = "inline-block";
-        }
-        logoutButton.addEventListener("click", () => {
-          Router.nav("/index.html");
-        });
-
-        let menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
-        if (menuButton) {
-          menuButton.style.display = "inline-block";
-        }
-
-        let logo = header.shadowRoot.querySelector("span");
-        if (logo) {
-          logo.style.display = "block";
-        }
       }
+
+      const logoutButton = header.shadowRoot.querySelector("[data-icon=logout]");
+      if (logoutButton)
+        logoutButton.style.display = "inline-block";
+
+      const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
+      if (menuButton)
+        menuButton.classList.add("visible");
+
+      const logo = header.shadowRoot.querySelector("span");
+      if (logo)
+        logo.style.display = "block";
 
       const dashboard = document.createElement("wc-dashboard");
       document.body.appendChild(dashboard);

@@ -25,7 +25,7 @@ style.textContent = `
 const template = document.createElement("template"); /*html*/
 template.innerHTML = `
   <div class="container">
-    <wc-nav-bar></wc-nav-bar>  
+    <wc-nav-bar></wc-nav-bar>
     <main id="root">
       <p>Main</p>
     </main>
@@ -43,5 +43,3 @@ class Dasboard extends HTMLElement {
 }
 
 export default Dasboard;
-
-
