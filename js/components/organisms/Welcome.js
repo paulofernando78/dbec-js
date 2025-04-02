@@ -1,20 +1,22 @@
-const style = document.createElement("style");
-style.textContent = `
-    p {
-        font-size: 1.5rem;
-        font-weight: bold;
-    }
-    `;
+const template = document.createElement("template");
+template.innerHTML = `
+  <p>Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.</p>
+`;
 
 class Welcome extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
-    
-    const p = document.createElement("p");
-    p.textContent = "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.";
-    thisshadowRoot.appendChild(style);
-    this.shadowRoot.appendChild(p);
+
+    const style = document.createElement("style");
+    style.textContent = `
+      p {
+          font-weight: bold;
+      }
+    `;
+
+    this.shadowRoot.appendChild(style);
+    this.shadowRoot.appendChild(template.content.cloneNode(true));
   }
 }
 

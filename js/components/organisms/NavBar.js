@@ -42,24 +42,6 @@ style.textContent = `
   }
 `;
 
-const template = document.createElement("template"); /*html*/
-template.innerHTML = `
-      <nav>
-        <span>COURSES</span>
-        <a href="/pages/courses/beginner.js">Beginner</a>
-        <a href="/pages/courses/elementary.js">Elementary</a>
-        <a href="/pages/courses/pre-intermediate.js">Pre Intermediate</a>
-        <a href="/pages/courses/intermediate.js">Intermediate</a>
-        <span>EXTRAS</span>
-        <a href="/pages/pages/extras/audibook.js">Audiobook</a>
-        <a href="/pages/extras/grammar.js">Grammar</a>
-        <a href="/pages/extras/vocabulary.js">Vocabulary</a>
-        <a href="/pages/extras/pronunciation.js">Pronunciation</a>
-        <span>SPECIFIC PURPOSES</span>
-        <a href="/pages/specific-purpuses/business.js">Business</a>
-      </nav>
-    `;
-
 class NavBar extends HTMLElement {
   constructor() {
     super();

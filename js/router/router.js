@@ -2,7 +2,6 @@ const Router = {
   init: () => {
     console.log("Router is running...");
 
-    // Seleciona todos os links dentro da tag <nav> (a barra de navegação)
     document.querySelectorAll("nav a").forEach((link) => {
       link.addEventListener("click", (e) => {
         e.preventDefault(); // Previne a navegação padrão
@@ -52,21 +51,17 @@ const Router = {
 
     if (header) {
       const loginButton = header.shadowRoot.querySelector("[data-icon=login]");
-      if (loginButton)
-        loginButton.style.display = "block";
+      if (loginButton) loginButton.style.display = "block";
 
       const logoutButton =
         header.shadowRoot.querySelector("[data-icon=logout]");
-      if (logoutButton)
-        logoutButton.style.display = "none";
+      if (logoutButton) logoutButton.style.display = "none";
 
       const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
-      if (menuButton)
-        menuButton.classList.add("hidden");
+      if (menuButton) menuButton.classList.add("hidden");
 
       const logo = header.shadowRoot.querySelector("span");
-      if (logo)
-        logo.style.display = "none";
+      if (logo) logo.style.display = "none";
     }
 
     if (path === "/dashboard") {
@@ -74,26 +69,31 @@ const Router = {
       document.body.appendChild(header);
 
       if (header) {
-        const loginButton = header.shadowRoot.querySelector("[data-icon=login]");
-        if (loginButton)
-          loginButton.style.display = "none";
+        const loginButton =
+          header.shadowRoot.querySelector("[data-icon=login]");
+        if (loginButton) loginButton.style.display = "none";
       }
 
-      const logoutButton = header.shadowRoot.querySelector("[data-icon=logout]");
-      if (logoutButton)
-        logoutButton.style.display = "inline-block";
+      const logoutButton =
+        header.shadowRoot.querySelector("[data-icon=logout]");
+      if (logoutButton) logoutButton.style.display = "inline-block";
 
       const menuButton = header.shadowRoot.querySelector("[data-icon=menu]");
-      if (menuButton)
-        menuButton.classList.add("visible");
+      if (menuButton) menuButton.classList.add("visible");
 
       const logo = header.shadowRoot.querySelector("span");
-      if (logo)
-        logo.style.display = "block";
+      if (logo) logo.style.display = "block";
 
-      const dashboard = document.createElement("wc-dashboard");
-      document.body.appendChild(dashboard);
+      const layout = document.createElement("wc-layout");
+      document.body.appendChild(layout);
+
+      const content = layout.shadowRoot.querySelector("#content")
+      content.innerHTML = "";
+      const welcome = document.createElement("wc-welcome");
+      content.appendChild(welcome);
     }
+
+    
   },
 };
 
