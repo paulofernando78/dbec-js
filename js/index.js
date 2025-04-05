@@ -1,5 +1,5 @@
 import "./components.js";
-import "./router/Router.js";
+// import "./router/Router.js";
 
 const phrases = document.querySelector(".home__phrases__display");
 
