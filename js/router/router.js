@@ -1,19 +1,17 @@
 const Router = {
   init: () => {
-    console.log("Router is running...");
+    // console.log("Router is running...");
 
-    document.querySelectorAll("nav a").forEach((link) => {
-      link.addEventListener("click", (e) => {
-        e.preventDefault(); // Previne a navegação padrão
-        const url = e.target.getAttribute("href");
-        Router.nav(url);
-      });
-    });
+    // document.querySelectorAll("nav a").forEach((link) => {
+    //   link.addEventListener("click", (e) => {
+    //     e.preventDefault();
+    //     const url = e.target.getAttribute("href");
+    //     Router.nav(url);
+    //   });
+    // });
 
-    // Chama o handleRouter para a navegação inicial
     Router.handleRouter();
 
-    // Detecta a navegação pelo histórico
     window.addEventListener("popstate", (e) => {
       Router.nav(e.state.route, false);
     });
