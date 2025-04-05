@@ -49,4 +49,4 @@ if (phrases) {
 }
 
 // Inicializa o roteamento
-Router.init();
+// Router.init();
