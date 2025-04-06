@@ -1,5 +1,35 @@
+@import "/css//imports.css";
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  max-width: 1050px;
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+  font-display: swap;
+  /* user-select: none; */
+  /* scrollbar-gutter: stable */
+}
+
+html {
+  padding: 10px;
+}
+
+hr {
+  border-color: rgba(255, 255, 255, 0.5);
+  margin-block: 1.3rem;
+}
+
+iframe {
+  width: 100%;
+  box-shadow: var(--box-shadow);
+  border-radius: var(--border-radius);
+  border: 0;
+}
+
 .home__logo__image__container {
-  margin: 2rem 0;
+  width: max-content;
+  margin: 30px auto;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -20,6 +50,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  margin-bottom: 15px;
 
   .daily-basis,
   .english-course {
@@ -37,27 +68,26 @@
   .english-course {
     font-size: 2.760rem;
     position: relative;
-    bottom: 13px;
+    bottom: 20px;
   }
 }
 
-.home__logo__flag__container {
+/* .home__logo__flag__container {
   max-width: 107px;
   height: auto;
   position: relative;
   bottom: 6px;
-}
+} */
 
-.home__how__image {
+/* .home__how__image {
   width: 100px;
   height: 100px;
   margin: 0 37px 0 0px;
-}
+} */
 
 .home__computer__image {
   width: 230px;
   height: auto;
-  margin-bottom: 20px;
 }
 
 footer p {

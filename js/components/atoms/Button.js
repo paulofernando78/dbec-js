@@ -12,12 +12,6 @@ class WcButton extends HTMLElement {
     super();
     this.attachShadow({ mode: "open" });
 
-    const template = document.createElement("template"); /*html*/
-    template.innerHTML = `
-      <button></button>
-    `;
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
-
     const style = document.createElement("style"); /*css*/
     style.textContent = `
       button {
@@ -44,6 +38,9 @@ class WcButton extends HTMLElement {
       }
     `;
     this.shadowRoot.appendChild(style);
+
+    const button = document.createElement("button");
+    this.shadowRoot.appendChild(button);
 
     this.button = this.shadowRoot.querySelector("button");
     this.buttonClicked = new Audio("/assets/audio/button-clicked.mp3");

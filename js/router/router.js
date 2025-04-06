@@ -35,6 +35,7 @@ const Router = {
     if (addToHistory) {
       history.pushState({ route }, null, route);
     }
+    
     Router.handleRouter();
   },
 

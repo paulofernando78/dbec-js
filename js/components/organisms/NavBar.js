@@ -41,7 +41,6 @@ style.textContent = `
     }
   }
 `;
-
 class NavBar extends HTMLElement {
   constructor() {
     super();

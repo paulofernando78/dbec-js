@@ -1,5 +1,4 @@
 import "./components.js";
-// import "./router/Router.js";
 
 const phrases = document.querySelector(".home__phrases__display");
 
@@ -47,6 +46,3 @@ if (phrases) {
   updatePhrase();
   setInterval(updatePhrase, 2000);
 }
-
-// Inicializa o roteamento
-// Router.init();
