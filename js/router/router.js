@@ -39,6 +39,11 @@ const Router = {
     Router.handleRouter();
   },
 
+  routes: {
+    "/": "/index.html",
+    "dashboard": "/js/pages/",
+  },
+
   handleRouter: () => {
     const path = window.location.pathname;
 
@@ -92,7 +97,7 @@ const Router = {
       content.appendChild(welcome);
     }
 
-    
+
   },
 };
 

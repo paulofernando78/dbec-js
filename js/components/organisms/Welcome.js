@@ -16,9 +16,9 @@ class Welcome extends HTMLElement {
 
       .gifs-container {
         display: grid;
-        grid-template-columns: repeat(auto-fit, 150px);
+        grid-template-columns: repeat(auto-fit, 120px);
+        justify-content: center;
         gap: 10px;
-        height: 100px
       }
       
       .gif-card {
@@ -33,7 +33,7 @@ class Welcome extends HTMLElement {
       }
 
       .emoji-img {
-        width: 80px
+        width: 70px
       }
     `;
     this.shadowRoot.appendChild(style);
@@ -46,10 +46,20 @@ class Welcome extends HTMLElement {
     title.textContent = "Welcome to your dashboard";
     container.appendChild(title);
 
-    const p = document.createElement("p");
-    p.textContent =
-      "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.";
-    container.appendChild(p);
+    const texts = [
+      {
+        item: "Welcome to the Daily Basis English Course. Here you'll find a lot of interesting materials. Use it wisely.",
+      },
+      {
+        item: "How are you feeling today? I'm / I'm feeling...",
+      },
+    ];
+
+    texts.forEach((text) => {
+      const p = document.createElement("p");
+      p.textContent = text.item;
+      container.appendChild(p);
+    });
 
     const gifsContainer = document.createElement("div");
     gifsContainer.classList.add("gifs-container");
@@ -57,12 +67,88 @@ class Welcome extends HTMLElement {
 
     const emojis = [
       {
-        item: "/assets/img/gif/emoji/good.gif",
-        name: "good"
+        img: "/assets/img/gif/emoji/good.gif",
+        word: "good",
       },
       {
-        item: "/assets/img/gif/emoji/happy.gif",
-        name: "happy"
+        img: "/assets/img/gif/emoji/happy.gif",
+        word: "happy",
+      },
+      {
+        img: "/assets/img/gif/emoji/sad.gif",
+        word: "sad",
+      },
+      {
+        img: "/assets/img/gif/emoji/angry.gif",
+        word: "angry",
+      },
+      {
+        img: "/assets/img/gif/emoji/annoyed.gif",
+        word: "annoyed",
+      },
+      {
+        img: "/assets/img/gif/emoji/calm.gif",
+        word: "calm",
+      },
+      {
+        img: "/assets/img/gif/emoji/crazy.gif",
+        word: "crazy",
+      },
+      {
+        img: "/assets/img/gif/emoji/tired.gif",
+        word: "tired",
+      },
+      {
+        img: "/assets/img/gif/emoji/anxious.gif",
+        word: "anxious",
+      },
+      {
+        img: "/assets/img/gif/emoji/bored.gif",
+        word: "bored",
+      },
+      {
+        img: "/assets/img/gif/emoji/silly.gif",
+        word: "silly",
+      },
+      {
+        img: "/assets/img/gif/emoji/scared.gif",
+        word: "scared",
+      },
+      {
+        img: "/assets/img/gif/emoji/thoughtful.gif",
+        word: "thoughtful",
+      },
+      {
+        img: "/assets/img/gif/emoji/frustrated.gif",
+        word: "frustrated",
+      },
+      {
+        img: "/assets/img/gif/emoji/disappointed.gif",
+        word: "disappointed",
+      },
+      {
+        img: "/assets/img/gif/emoji/embarrassed.gif",
+        word: "embarrassed",
+      },
+      {
+        img: "/assets/img/gif/emoji/sleepy.gif",
+        word: "sleepy",
+      },
+      {
+        img: "/assets/img/gif/emoji/peaceful.gif",
+        word: "peaceful",
+      },
+      {
+        img: "/assets/img/gif/emoji/thankful.gif",
+        word: "thankful",
+      },
+      {
+        img: "/assets/img/gif/emoji/sick.gif",
+        word: "sick",
+      },
+      {
+        img: "/assets/img/gif/emoji/i-dont-know.gif",
+        word: "I don't know",
       },
     ];
 
@@ -72,14 +158,14 @@ class Welcome extends HTMLElement {
       gifsContainer.appendChild(gifCard);
 
       const img = document.createElement("img");
-      img.classList.add("emoji-img")
-      img.src = emoji.item;
+      img.classList.add("emoji-img");
+      img.src = emoji.img;
       gifCard.appendChild(img);
 
-      const emojiName = document.createElement("span")
+      const emojiName = document.createElement("span");
       // emojiName.classList.add("emoji-name")
-      emojiName.textContent = emoji.name;
-      gifCard.appendChild(emojiName)
+      emojiName.textContent = emoji.word;
+      gifCard.appendChild(emojiName);
     });
   }
 }

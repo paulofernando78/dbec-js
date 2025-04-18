@@ -35,7 +35,6 @@ class IconList extends HTMLElement {
         display: flex;
         align-items: start;
         gap: 0.625rem;
-        margin-bottom: 0.6rem;
       }
 
       li:last-child {
@@ -88,10 +87,7 @@ class IconList extends HTMLElement {
 
     const template = document.createElement("template"); /*html*/
     template.innerHTML = `
-      <ul>
-        ${items
-          .map(
-            (item) => `
+      <ul>${items.map((item) => `
           <li>
             <div>${icons[item.icon]}</div>
             <p>

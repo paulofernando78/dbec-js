@@ -34,7 +34,6 @@ class Layout extends HTMLElement {
         display: grid;
         grid-template-columns: auto 1fr;
         gap: 0.625rem;
-        
 
         nav {
           padding: var(--padding);
