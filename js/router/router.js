@@ -93,8 +93,12 @@ const Router = {
 
       const content = layout.shadowRoot.querySelector("#content")
       content.innerHTML = "";
+
       const welcome = document.createElement("wc-welcome");
       content.appendChild(welcome);
+
+      // const allInOne = document.createElement("wc-all-in-one");
+      // content.appendChild(allInOne);
     }
 
 

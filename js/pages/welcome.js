@@ -38,13 +38,15 @@ class Welcome extends HTMLElement {
     `;
     this.shadowRoot.appendChild(style);
 
+    const board = document.createElement("wc-whiteboard");
+    board.items = {
+      title: "Dashboard",
+    }
+    this.shadowRoot.appendChild(board)
+
     const container = document.createElement("div");
     container.classList.add("line-break");
     this.shadowRoot.appendChild(container);
-
-    const title = document.createElement("h1");
-    title.textContent = "Welcome to your dashboard";
-    container.appendChild(title);
 
     const texts = [
       {

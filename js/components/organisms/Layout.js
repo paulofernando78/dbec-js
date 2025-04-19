@@ -1,32 +1,12 @@
-
-
-const template = document.createElement("template"); /*html*/
-template.innerHTML = `
-  <div class="container">
-    <nav>
-      <span>COURSES</span>
-      <a href="/js/pages/courses/beginner.js">Beginner</a>
-      <a href="/js/pages/courses/elementary.js">Elementary</a>
-      <a href="/js/pages/courses/pre-intermediate.js">Pre Intermediate</a>
-      <a href="/js/pages/courses/intermediate.js">Intermediate</a>
-      <span>EXTRAS</span>
-      <a href="/js/pages/pages/extras/audibook.js">Audiobook</a>
-      <a href="/js/pages/extras/grammar.js">Grammar</a>
-      <a href="/js/pages/extras/vocabulary.js">Vocabulary</a>
-      <a href="/js/pages/extras/pronunciation.js">Pronunciation</a>
-      <span>SPECIFIC PURPOSES</span>
-      <a href="/js/pages/specific-purpuses/business.js">Business</a>
-    </nav>
-    <main id="content">
-      <p>Main</p>
-    </main>
-  </div>
-`;
-
 class Layout extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: "open" });
+
+    const imports = document.createElement("link");
+    imports.rel = "stylesheet";
+    imports.href = "/css/imports.css";
+    this.shadowRoot.appendChild(imports);
 
     const style = document.createElement("style"); /*css*/
     style.textContent = `
@@ -50,20 +30,15 @@ class Layout extends HTMLElement {
           margin-bottom: 1.125rem;
         }
 
-        nav span:first-of-type {
-          margin-top: 0;
-        }
-
         a {
           font-weight: bold;
           text-decoration: none;
           color: gray;
           display: block;
-          margin-bottom: 0.5rem;
         }
 
         a:last-of-type {
-          margin-bottom: 0;
+          // margin-bottom: 0;
         }
 
         a.active {
@@ -74,7 +49,6 @@ class Layout extends HTMLElement {
           padding: var(--padding);
           border: var(--border);
           border-radius: var(--border-radius);          
-          margin: 0;
         }
       }
 
@@ -90,7 +64,76 @@ class Layout extends HTMLElement {
       }
     `;
     this.shadowRoot.appendChild(style);
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+
+    const container = document.createElement("div");
+    container.classList.add("container");
+
+    const nav = document.createElement("nav");
+    container.appendChild(nav);
+
+    const links = [
+      { href: "/js/pages/welcome.js", text: "Dashboard" },
+      { span: "COURSES" },
+      {
+        href: "/js/pages/courses/beginner/contents.js",
+        text: "Beginner",
+      },
+      { href: "/js/pages/courses/elementary/contents.js", text: "Elementary" },
+      {
+        href: "/js/pages/courses/pre-intermediate.js",
+        text: "Pre-Intermediate",
+      },
+      {
+        href: "/js/pages/courses/intermediate/contents.js",
+        text: "Intermediate",
+      },
+      { span: "EXTRAS" },
+      {
+        href: "/js/pages/extras/audibook/contents.js",
+        text: "Audiobook",
+      },
+      {
+        href: "/js/pages/extras/grammar/contents.js",
+        text: "Grammar",
+      },
+      {
+        href: "/js/pages/extras/vocabulary/contents.js",
+        text: "Vocabulary",
+      },
+      {
+        href: "/js/pages/extras/pronunciation/contents.js",
+        text: "Pronunciation",
+      },
+      { span: "SPECIFIC PURPOSES" },
+      {
+        href: "/js/pages/specific-purpuses/business/contents.js",
+        text: "Business",
+      },
+    ];
+
+    links.forEach((link) => {
+      if (link.span) {
+        const span = document.createElement("span");
+        span.textContent = link.span;
+        span.classList.add("span");
+        nav.appendChild(span);
+      }
+
+      if (link.href && link.text) {
+        const a = document.createElement("a");
+        a.href = link.href;
+        a.textContent = link.text;
+        a.classList.add("a");
+        nav.appendChild(a);
+      }
+    });
+
+    const main = document.createElement("main");
+    main.id = "content";
+    main.classList.add("main");
+    container.appendChild(main);
+
+    this.shadowRoot.appendChild(container);
   }
 }
 

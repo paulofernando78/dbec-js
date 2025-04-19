@@ -16,7 +16,11 @@
             "ptExample": "Seu trabalho atual é muito diferente do que ele originalmente planejava fazer."
           }
         ],
-        "synonyms": ["worlds apart from", "completely different from", "nothing like"],
+        "synonyms": [
+          "worlds apart from",
+          "completely different from",
+          "nothing like"
+        ],
         "antonyms": ["similar to", "close to", "comparable to"],
         "seeAlso": ["different from", "unlike"],
         "notes": [
@@ -38,7 +42,7 @@
         "ptDefinition": "permitir, deixar, autorizar que algo aconteça ou que alguém faça algo",
         "examples": [
           {
-            "enExample": "Smoking is not allowed in the building.", 
+            "enExample": "Smoking is not allowed in the building.",
             "ptExample": "Não é permitido fumar no prédio."
           },
           {
@@ -333,7 +337,11 @@
             "ptExample": "Podemos discordar de muitos pontos, mas no final das contas, estamos todos trabalhando para o mesmo objetivo."
           }
         ],
-        "synonyms": ["when all is said and done", "in the final analysis", "when the dust settles"],
+        "synonyms": [
+          "when all is said and done",
+          "in the final analysis",
+          "when the dust settles"
+        ],
         "antonyms": ["at the beginning", "in the early stages", "initially"],
         "notes": [
           {
@@ -533,12 +541,12 @@
         "partOfSpeech": "adjective",
         "examples": [
           {
-        "enExample": "She was annoyed by the constant noise from the construction site.",
-        "ptExample": "Ela estava irritada com o barulho constante do canteiro de obras."
+            "enExample": "She was annoyed by the constant noise from the construction site.",
+            "ptExample": "Ela estava irritada com o barulho constante do canteiro de obras."
           },
           {
-        "enExample": "He felt annoyed when his plans were suddenly changed.",
-        "ptExample": "Ele se sentiu irritado quando seus planos foram subitamente alterados."
+            "enExample": "He felt annoyed when his plans were suddenly changed.",
+            "ptExample": "Ele se sentiu irritado quando seus planos foram subitamente alterados."
           }
         ]
       }
@@ -581,7 +589,18 @@
             "ptExample": "A expectativa de inflação é menor do que a do mês passado."
           }
         ],
-        "synonyms": ["expect", "look for", "await", "count on", "prepare oneself for", "look toward", "look forward to", "long for", "pin hope on", "foresee"],
+        "synonyms": [
+          "expect",
+          "look for",
+          "await",
+          "count on",
+          "prepare oneself for",
+          "look toward",
+          "look forward to",
+          "long for",
+          "pin hope on",
+          "foresee"
+        ],
         "antonyms": ["remember"]
       }
     ]
